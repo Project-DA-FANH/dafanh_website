@@ -1,0 +1,6 @@
+weight: 3
+name: "Student Advising"
+icon: "fas fa-user-friends"#icon: "fas fa-globe"
+image: "img/DA-Fanh.png"
+url: ""
+description: "Academic and Career path advising."
