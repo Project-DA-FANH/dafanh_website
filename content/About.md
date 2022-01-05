@@ -23,7 +23,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 
 <table>
 <tr>
-  <td width="250"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello" style="height:30%;"/></td>
+  <td width="250"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello" style="height:50%;"/></td>
   <td width="50"></td>
   <td width="250"><strong>Project Director - Chico State</strong><br> 
     <strong>Contact: </strong>rdonatello@csuchico.edu <br> 
