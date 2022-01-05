@@ -27,7 +27,8 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
     max-width: 100%;
   }
   td{
-    padding: 50px;
+    padding-right: 20px;
+    padding-bottom: 5px;
   }
   td.pic{
     width: 15%
@@ -51,11 +52,6 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   </td>
   <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
-<tr height="10">
-  <td class=td.pic></td>
-  <td class=td.name></td>
-  <td class=td.bio>
-</tr>
 <tr>
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
   <td>
@@ -75,52 +71,45 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 <table>
 <tr>
   <td class=td.pic><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
-  <td width="5%"></td>
-  <td width="150">
+  <td class=td.name>
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
     <strong>Internship Lead</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td width="5%"></td>
-  <td width="400"></td>
+  <td class=td.bio></td>
 </tr>
-
 <tr>
-  <td width="200"><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
-  <td width="50"></td>
-  <td width="150">
+  <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
+  <td></td>
+  <td >
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
     <strong>Pedagogy Specialist</strong><br> 
     <strong>Contact:</strong> caherrera@csuchico.edu
   </td>
-  <td width="50"></td>
-  <td width="400">Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
+  <td></td>
+  <td>Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
 </tr>
 </table>
 
 ### Student Assistants
 <table>
 <tr>
-  <td width="200"><img src="/img/project_staff/Blank.jpg" alt="Lincoln Bohn"/></td>
-  <td width="50"></td>
-  <td width="150">
+  <td class=td.pic><img src="/img/project_staff/Blank.jpg" alt="Lincoln Bohn"/></td>
+  <td class=td.name>
     <strong>Lincoln Bohn</strong><br>
     <strong>Administrative Assistant / Graduate Student</strong><br> 
     <strong>Contact:</strong>
   </td>
-  <td width="50"></td>
-  <td width="400">Bio</td>
+  <td class=td.bio>Bio</td>
 </tr>
 <tr>
-  <td width="200"><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
-  <td width="50"></td>
-  <td width="150">
-    <strong>TBD</strong><br>
+  <td><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
+  <td>
+    <strong>Coming Soon</strong><br>
     <strong>Student Fellow</strong><br> 
     <strong>Contact:</strong> 
   </td>
-  <td width="50"></td>
-  <td width="400"></td>
+  <td>Some awesome student.</td>
 </tr>
 </table>
 
