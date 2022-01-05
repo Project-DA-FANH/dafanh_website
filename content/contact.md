@@ -1,43 +1,37 @@
 ---
-id: contact  #this allows a form to be created
+#id: contact  #this allows a form to be created
 title: ""
 ---
 
-## Meet and Contact the Project Directors
+
+## Directors
 
 <!--directors = c('Dr. Robin Donate', 'Essia', 'Stephanie', 'Christine')
 pic = (https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/)-->
  
- \
- \
- 
-![](/img/testimonials/Robin.jpg)    ![](/img/testimonials/Blank.jpg)        ![](/img/testimonials/Essia.jpg) 
+
+![](/img/project_staff/Robin.jpg)  ![](/img/project_staff/Blank.jpg)        ![](/img/project_staff/Essia.jpg) 
 \
-**[Dr. Robin Donatello](https://www.norcalbiostat.com/)**-Project Director, CSUC
+**[Dr. Robin Donatello](https://www.norcalbiostat.com/)**-Project Director, Chico State
    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; 
-   **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)**-Project Director, CSUSB  <!-- for now I have all our websites pointing to Robin's to be updated when all sites are ready -->
+   **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)**-Project Director, CSUSB 
 
+## Specialty Leads
 \
-![](/img/testimonials/stephpic.jpg) ![](/img/testimonials/Blank.jpg) ![](/img/testimonials/Christine.jpg)
+![](/img/project_staff/Stephanie.jpg) ![](/img/project_staff/Blank.jpg) ![](/img/project_staff/Christine.jpg)
 \
-**[Stephanie Bianco](https://www.norcalbiostat.com/)**-Internship Lead
+
+**[Stephanie Bianco](https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml)**-Internship Lead
   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp;&nbsp; 
-**[Dr. Christine Hererra](https://www.norcalbiostat.com/)** - Pedagogy Lead
+**[Dr. Christine Hererra](https://www.csuchico.edu/math/people/faculty/herrera-christine.shtml)** - Pedagogy Lead
+
+## Administrative Assistant
+![](/img/project_staff/Stephanie.jpg)\
+
+Lincoln Bohn
 
 
-<!--
-
-* **[Dr. Robin Donatello](https://www.norcalbiostat.com/)** - Project Director -CSUC
-* **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)** - Project Director -CSUSB
-* **[Dr. Stephanie Bianco](https://www.norcalbiostat.com/)** - Internship Lead
-* **[Dr. Christine Hererra](https://www.norcalbiostat.com/)** - Pedagogy Lead
-
-\
-\
-![Dr. Robin Donatello](/img/testimonials/Robin.jpg)
-\
-[Dr. Robin Donatello](https://www.norcalbiostat.com/)-->
-
+----
 
 ## We are here to help you
 

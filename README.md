@@ -1,1 +1,6 @@
-# fanhPlaying with a branch I created
+# Project Website
+
+File Organization
+
+* Project staff headshots: static/img/project_staff/
+

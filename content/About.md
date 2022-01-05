@@ -3,16 +3,15 @@ description: Grant Summary
 title: ""
 ---
 
+## Who we are
 
-## Enriching Education at the Intersection of Data Analytics and FANH through Professional and Experiential Learning and Curriculum Development 
-### (Project DA-FAN)
+CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the California State University system who are working together to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
 
-* **Fund**: This project is funded by a 4-year, $275 thousand dollar grant from the USDA NIFA Hispanic Serving Institutions Education Grant. 
+<img src="/img/project_staff/Robin.jpg" alt="drawing" width="200"/>
 
-* **Collaborators**: CSU Chico and CSU San Bernardino, two HSI colleges in the California 
-State University system, together are working to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
+## Our goals
 
-* **Objective**: Enhance the quality of postsecondary education, which will retain and graduate highly qualified students capable of enhancing the nation’s food, agriculture, natural resources and humans sciences (FANH) professional and scientific work force. The project objectives include:
+Enhance the quality of postsecondary education, which will retain and graduate highly qualified students capable of enhancing the nation’s food, agriculture, natural resources and humans sciences (FANH) professional and scientific work force. The project objectives include:
   * Career panels and job talks providing students opportunities for direct access to careers at the intersection of FANH and Data Science (DS). 
   * An Experiential Learning program to further student scientific and professional competencies. Authentic internship experiences emphasize problem solving, decision-making and 
 remote team collaboration skills. 
@@ -22,11 +21,3 @@ existing stereotypes about who belongs and build a pathway for Students of Color
   * Foster an active, inclusive and diverse community of 
 individuals who utilize DS for FANH careers, research and program dissemination.
 
-* **Evaluation**: This project will be continuously evaluated and its accomplishments (i.e. products, 
-impacts, research) shared with the academic community through presentations and publications. 
-
-* **Impact**: Program materials developed from this project will benefit approximately 
-90 faculty, 80 graduate and 800 undergraduate students, and 100 professionals working on current state-wide USDA grants. 
-
-* **Benefits**: will be used to increase future 
-grant proposal competitiveness, and strengthen statewide campus collaborations, potentially leading to multi-institution online degree programs.
