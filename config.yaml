@@ -89,7 +89,7 @@ params:
       ultricies mi vitae est. Mauris placerat eleifend leo.
     title: From our blog
   see_more:
-    enable: yes
+    enable: no #yes
     icon: " " #far fa-file-alt
     link_text: Meet the Project Directors
     link_url: https://www.norcalbiostat.com/

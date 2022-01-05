@@ -27,5 +27,6 @@ impacts, research) shared with the academic community through presentations and 
 
 * **Impact**: Program materials developed from this project will benefit approximately 
 90 faculty, 80 graduate and 800 undergraduate students, and 100 professionals working on current state-wide USDA grants. 
+
 * **Benefits**: will be used to increase future 
 grant proposal competitiveness, and strengthen statewide campus collaborations, potentially leading to multi-institution online degree programs.

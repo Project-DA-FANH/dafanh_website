@@ -3,25 +3,40 @@ id: contact  #this allows a form to be created
 title: ""
 ---
 
-## Meet the Project Directors
+## Meet and Contact the Project Directors
 
 <!--directors = c('Dr. Robin Donate', 'Essia', 'Stephanie', 'Christine')
 pic = (https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/)-->
  
-![](/img/testimonials/Robin.jpg) ![](/img/testimonials/Essia.jpg) ![](/img/testimonials/Stephanie.jpg) ![](/img/testimonials/Stephanie.jpg)
+ \
+ \
+ 
+![](/img/testimonials/Robin.jpg)    ![](/img/testimonials/Blank.jpg)        ![](/img/testimonials/Essia.jpg) 
+\
+**[Dr. Robin Donatello](https://www.norcalbiostat.com/)**-Project Director, CSUC
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; 
+   **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)**-Project Director, CSUSB  <!-- for now I have all our websites pointing to Robin's to be updated when all sites are ready -->
+
+\
+![](/img/testimonials/stephpic.jpg) ![](/img/testimonials/Blank.jpg) ![](/img/testimonials/Christine.jpg)
+\
+**[Stephanie Bianco](https://www.norcalbiostat.com/)**-Internship Lead
+  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp; &emsp; &emsp;&emsp;&nbsp; 
+**[Dr. Christine Hererra](https://www.norcalbiostat.com/)** - Pedagogy Lead
 
 
+<!--
 
-* **[Dr. Robin Donatello](https://www.norcalbiostat.com/)** - CSUC Lead
-* **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)** - CSUSB Lead
+* **[Dr. Robin Donatello](https://www.norcalbiostat.com/)** - Project Director -CSUC
+* **[Dr. Essia Hamouda](https://www.norcalbiostat.com/)** - Project Director -CSUSB
 * **[Dr. Stephanie Bianco](https://www.norcalbiostat.com/)** - Internship Lead
-* **[Dr. Christine Hererra](https://www.norcalbiostat.com/)** - Education Lead
+* **[Dr. Christine Hererra](https://www.norcalbiostat.com/)** - Pedagogy Lead
 
 \
 \
 ![Dr. Robin Donatello](/img/testimonials/Robin.jpg)
 \
-[Dr. Robin Donatello](https://www.norcalbiostat.com/)
+[Dr. Robin Donatello](https://www.norcalbiostat.com/)-->
 
 
 ## We are here to help you
