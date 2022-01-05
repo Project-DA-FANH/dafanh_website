@@ -21,9 +21,15 @@ individuals who utilize DS for FANH careers, research and program dissemination.
 
 CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the California State University system who are working together to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
 
+<style>
+.pic {
+  max-width: 30%
+}
+</style>
+
 <table>
 <tr>
-  <td width="250"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello" style="height:10%;"/></td>
+  <td width="250"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello" class="pic"/></td>
   <td width="50"></td>
   <td width="250"><strong>Project Director - Chico State</strong><br> 
     <strong>Contact: </strong>rdonatello@csuchico.edu <br> 
