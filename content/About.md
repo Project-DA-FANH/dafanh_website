@@ -30,21 +30,21 @@ img{
 
 <table>
 <tr>
-  <td width="100"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
+  <td width="200"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
   <td width="50"></td>
   <td width="250">
-    <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello</strong></a><br>
+    <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Project Director - Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
   <td width="50"></td>
-  <td width="350">A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
+  <td width="400">A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
 <tr>
-  <td width="100"><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
+  <td width="200"><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
   <td width="50"></td>
-  <td width="250">
-    <a href="https://www.norcalbiostat.com/"><strong>Dr. Essia Hamouda</strong></a><br>
+  <td width="400">
+    <a href="https://www.norcalbiostat.com/"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>Project Director - San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
@@ -56,3 +56,57 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 </table>
 
+## Specialty Leads
+
+<table>
+<tr>
+  <td width="200"><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
+  <td width="50"></td>
+  <td width="250">
+    <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
+    <strong>Internship Lead</strong><br> 
+    <strong>Contact:</strong> rdonatello@csuchico.edu
+  </td>
+  <td width="50"></td>
+  <td width="400"></td>
+</tr>
+<tr>
+  <td width="200"><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
+  <td width="50"></td>
+  <td width="400">
+    <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
+    <strong>Pedagogy Specialist</strong><br> 
+    <strong>Contact:</strong> essia.hamouda@csusb.edu
+  </td>
+  <td width="50"></td>
+  <td width="350">Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
+</tr>
+</table>
+
+## Student Assistants
+<table>
+<tr>
+  <td width="200"><img src="/img/project_staff/Blank.jpg" alt="Lincoln Bohn"/></td>
+  <td width="50"></td>
+  <td width="250">
+    <strong>Lincoln Bohn</strong><br>
+    <strong>Administrative Assistant / Graduate Student</strong><br> 
+    <strong>Contact:</strong>
+  </td>
+  <td width="50"></td>
+  <td width="400">Bio</td>
+</tr>
+<tr>
+  <td width="200"><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
+  <td width="50"></td>
+  <td width="400">
+    <strong>TBD</strong><br>
+    <strong>Student Fellow</strong><br> 
+    <strong>Contact:</strong> 
+  </td>
+  <td width="50"></td>
+  <td width="350"></td>
+</tr>
+</table>
+
+<br><br>
