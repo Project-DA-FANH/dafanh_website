@@ -66,6 +66,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 </table>
 
+<br>
 ### Specialty Leads
 
 <table>
@@ -80,8 +81,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
-  <td></td>
-  <td >
+  <td>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
     <strong>Pedagogy Specialist</strong><br> 
     <strong>Contact:</strong> caherrera@csuchico.edu
@@ -90,6 +90,8 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
   <td>Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
 </tr>
 </table>
+
+<br>
 
 ### Student Assistants
 <table>
@@ -104,7 +106,6 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
-  <td>
     <strong>Coming Soon</strong><br>
     <strong>Student Fellow</strong><br> 
     <strong>Contact:</strong> 
