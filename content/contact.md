@@ -10,6 +10,7 @@ title: ""
 pic = (https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/,https://www.norcalbiostat.com/)-->
  
 
+
 ![](/img/project_staff/Robin.jpg)  ![](/img/project_staff/Blank.jpg)        ![](/img/project_staff/Essia.jpg) 
 \
 **[Dr. Robin Donatello](https://www.norcalbiostat.com/)**-Project Director, Chico State
