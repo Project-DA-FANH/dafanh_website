@@ -35,26 +35,29 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   td.bio{
     width: 50%
   }
+  td.space{
+    width: 5%
+  }
 </style>
 
 
 <table>
 <tr>
   <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
-  <td width="5%"></td>
+  <td class=td.space></td>
   <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Project Director - Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td width="5%"></td>
+  <td class=td.space></td>
   <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
-<tr>
+<tr height="10">
   <td class=td.pic></td>
-  <td width="5%"></td>
+  <td class=td.space></td>
   <td class=td.name></td>
-  <td width="5%"></td>
+  <td class=td.space></td>
   <td class=td.bio>
 </tr>
 <tr>
@@ -77,14 +80,14 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 
 <table>
 <tr>
-  <td width="200"><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
-  <td width="50"></td>
+  <td class=td.pic><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
+  <td width="5%"></td>
   <td width="150">
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
     <strong>Internship Lead</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td width="50"></td>
+  <td width="5%"></td>
   <td width="400"></td>
 </tr>
 
