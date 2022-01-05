@@ -53,20 +53,16 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 </tr>
 <tr height="10">
   <td class=td.pic></td>
-  <td class=td.space></td>
   <td class=td.name></td>
-  <td class=td.space></td>
   <td class=td.bio>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
-  <td></td>
   <td>
     <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>Project Director - San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
-  <td></td>
   <td>Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
 Sciences. She received a BSc. and a MS. degree in Industrial and Systems Engineering 
 from the Ohio State University and the University of Florida respectively and a 
