@@ -23,33 +23,50 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 
 ### Project Directors
 <style>
-img{
-  max-width: 100%;
-}
+  img{
+    max-width: 100%;
+  }
+  td.pic{
+    width: 15%
+  }
+  td.name{
+    width: 25%
+  }
+  td.bio{
+    width: 50%
+  }
 </style>
+
 
 <table>
 <tr>
-  <td width="200"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
-  <td width="50"></td>
-  <td width="150">
+  <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
+  <td width="5%"></td>
+  <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Project Director - Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td width="50"></td>
-  <td width="400">A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
+  <td width="5%"></td>
+  <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
 <tr>
-  <td width="200"><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
-  <td width="50"></td>
-  <td width="150">
+  <td class=td.pic></td>
+  <td width="5%"></td>
+  <td class=td.name></td>
+  <td width="5%"></td>
+  <td class=td.bio>
+</tr>
+<tr>
+  <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
+  <td></td>
+  <td>
     <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>Project Director - San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
-  <td width="50"></td>
-  <td width="400">Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
+  <td></td>
+  <td>Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
 Sciences. She received a BSc. and a MS. degree in Industrial and Systems Engineering 
 from the Ohio State University and the University of Florida respectively and a 
 Ph.D. in Computer Science from the University of California Riverside.</td>
@@ -70,7 +87,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
   <td width="50"></td>
   <td width="400"></td>
 </tr>
-<tr height="10"></tr>
+
 <tr>
   <td width="200"><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
   <td width="50"></td>
