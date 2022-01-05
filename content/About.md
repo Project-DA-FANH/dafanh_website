@@ -21,6 +21,7 @@ individuals who utilize DS for FANH careers, research and program dissemination.
 
 CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the California State University system who are working together to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
 
+### Project Directors
 <style>
 img{
   max-width: 100%;
@@ -38,6 +39,20 @@ img{
   </td>
   <td width="50"></td>
   <td width="350">A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
+</tr>
+<tr>
+  <td width="100"><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
+  <td width="50"></td>
+  <td width="250">
+    <a href="https://www.norcalbiostat.com/"><strong>Dr. Essia Hamouda</strong></a><br>
+    <strong>Project Director - San Bernardino</strong><br> 
+    <strong>Contact:</strong> essia.hamouda@csusb.edu
+  </td>
+  <td width="50"></td>
+  <td width="350">Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
+Sciences. She received a BSc. and a MS. degree in Industrial and Systems Engineering 
+from the Ohio State University and the University of Florida respectively and a 
+Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 </table>
 
