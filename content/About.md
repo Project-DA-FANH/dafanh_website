@@ -62,7 +62,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 <tr>
   <td width="200"><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
   <td width="50"></td>
-  <td width="250">
+  <td width="100">
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
     <strong>Internship Lead</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
@@ -70,16 +70,17 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
   <td width="50"></td>
   <td width="400"></td>
 </tr>
+<tr></tr>
 <tr>
   <td width="200"><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
   <td width="50"></td>
-  <td width="400">
+  <td width="100">
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
     <strong>Pedagogy Specialist</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
   <td width="50"></td>
-  <td width="350">Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
+  <td width="400">Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
 </tr>
 </table>
 
@@ -88,7 +89,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 <tr>
   <td width="200"><img src="/img/project_staff/Blank.jpg" alt="Lincoln Bohn"/></td>
   <td width="50"></td>
-  <td width="250">
+  <td width="100">
     <strong>Lincoln Bohn</strong><br>
     <strong>Administrative Assistant / Graduate Student</strong><br> 
     <strong>Contact:</strong>
@@ -99,13 +100,13 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 <tr>
   <td width="200"><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
   <td width="50"></td>
-  <td width="400">
+  <td width="100">
     <strong>TBD</strong><br>
     <strong>Student Fellow</strong><br> 
     <strong>Contact:</strong> 
   </td>
   <td width="50"></td>
-  <td width="350"></td>
+  <td width="400"></td>
 </tr>
 </table>
 
