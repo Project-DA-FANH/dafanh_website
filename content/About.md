@@ -26,17 +26,17 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   img{
     max-width: 100%;
   }
+  td{
+    padding: 50px;
+  }
   td.pic{
     width: 15%
   }
   td.name{
-    width: 25%
+    width: 30%
   }
   td.bio{
-    width: 50%
-  }
-  td.space{
-    width: 5%
+    width: 35%
   }
 </style>
 
@@ -44,13 +44,11 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 <table>
 <tr>
   <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
-  <td class=td.space></td>
   <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Project Director - Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td class=td.space></td>
   <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
 <tr height="10">
