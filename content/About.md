@@ -26,14 +26,13 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 
 <table>
 <tr>
-  <td width="250"><img src=/img/project_staff/Robin.jpg" alt="Kyle Colombi" /></td>
+  <td width="250">
+  <img src=/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello" /></td>
   <td width="50"></td>
-  <td width="250"><strong>Known for: </strong> Knowing and sharing useless historical facts <br> 
-    <strong>Attending: </strong> MF 10-11am <br> 
-    <strong>OH: </strong> T 12-1pm <br> 
-    <strong>Contact: </strong> kcolombi@mail.csuchico.edu <br> </td>
+  <td width="250"><strong>Project Director - Chico State</strong><br> 
+    <strong>Contact: </strong>rdonatello@csuchico.edu <br> </td>
   <td width="50"></td>
-  <td width="350"> I'm from Fort Bragg, CA and I'm a cell/molec biology major. Outside of school, I spend my time reading, playing games, or fishing.</td>
+  <td width="350">A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardner and pitbull mamma.</td>
 </tr>
 </table>
 
