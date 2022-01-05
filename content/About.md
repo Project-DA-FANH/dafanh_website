@@ -32,7 +32,7 @@ img{
 <tr>
   <td width="200"><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
   <td width="50"></td>
-  <td width="250">
+  <td width="150">
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Project Director - Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
@@ -43,26 +43,26 @@ img{
 <tr>
   <td width="200"><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
   <td width="50"></td>
-  <td width="400">
-    <a href="https://www.norcalbiostat.com/"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
+  <td width="150">
+    <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>Project Director - San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
   <td width="50"></td>
-  <td width="350">Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
+  <td width="400">Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
 Sciences. She received a BSc. and a MS. degree in Industrial and Systems Engineering 
 from the Ohio State University and the University of Florida respectively and a 
 Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 </table>
 
-## Specialty Leads
+### Specialty Leads
 
 <table>
 <tr>
   <td width="200"><img src="/img/project_staff/Stephanie.jpg" alt="Stephanie Bianco"/></td>
   <td width="50"></td>
-  <td width="100">
+  <td width="150">
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
     <strong>Internship Lead</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
@@ -70,26 +70,26 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
   <td width="50"></td>
   <td width="400"></td>
 </tr>
-<tr></tr>
+<tr height="10"></tr>
 <tr>
   <td width="200"><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
   <td width="50"></td>
-  <td width="100">
+  <td width="150">
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
     <strong>Pedagogy Specialist</strong><br> 
-    <strong>Contact:</strong> essia.hamouda@csusb.edu
+    <strong>Contact:</strong> caherrera@csuchico.edu
   </td>
   <td width="50"></td>
   <td width="400">Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
 </tr>
 </table>
 
-## Student Assistants
+### Student Assistants
 <table>
 <tr>
   <td width="200"><img src="/img/project_staff/Blank.jpg" alt="Lincoln Bohn"/></td>
   <td width="50"></td>
-  <td width="100">
+  <td width="150">
     <strong>Lincoln Bohn</strong><br>
     <strong>Administrative Assistant / Graduate Student</strong><br> 
     <strong>Contact:</strong>
@@ -100,7 +100,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 <tr>
   <td width="200"><img src="/img/project_staff/Blank.jpg" alt="TBD"/></td>
   <td width="50"></td>
-  <td width="100">
+  <td width="150">
     <strong>TBD</strong><br>
     <strong>Student Fellow</strong><br> 
     <strong>Contact:</strong> 
