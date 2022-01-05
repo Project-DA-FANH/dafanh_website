@@ -47,7 +47,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
   <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
-    <strong>Project Director - Chico State</strong><br> 
+    <strong>Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
   <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
@@ -56,7 +56,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
   <td>
     <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
-    <strong>Project Director - San Bernardino</strong><br> 
+    <strong>San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
   <td>Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
