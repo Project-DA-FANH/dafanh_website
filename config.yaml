@@ -20,10 +20,10 @@ menu:
 #      name: FAQ
 #      url: /faq/
 #      weight: 3
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 3
+    # - identifier: contact
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 3
     - identifier: about
       name: About
       url: /about/
@@ -77,17 +77,19 @@ params:
   formspree_action: https://formspree.io/sample/of/endpoint
   googleMapsApiKey: AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y
   latitude: '-12.043333'
-  logo: img/DA-Fanh.png #img/logo.png
-  logo_small: img/DA-Fanh-small.png #img/logo-small.png
   longitude: '-77.028333'
+  
+  logo: img/DA-Fanh.png 
+  logo_small: img/DA-Fanh-small.png 
+
   mainSections: blog
   recent_posts:
-    enable: no
+    enable: yes
     subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
       fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
       tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
       ultricies mi vitae est. Mauris placerat eleifend leo.
-    title: From our blog
+    title: News
   see_more:
     enable: no #yes
     icon: " " #far fa-file-alt
@@ -105,7 +107,7 @@ params:
 #    title: Do you want to see more? -->
   style: blue  #default
   testimonials:  
-    enable: yes # Made this a faculty page
+    enable: no # will fill in later. 
     subtitle: ""
     #We have worked with many clients and we always like to hear they come
      # out from the cooperation happy and satisfied. Have a look what our clients said
