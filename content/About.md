@@ -72,7 +72,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
+  <td class=td.pic><img src="/img/project_staff/Stephanie.jpg" alt="Dr. Robin Donatello"/></td>
   <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Chico State</strong><br> 
@@ -81,7 +81,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
   <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
 </tr>
 <tr>
-  <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
+  <td><img src="/img/project_staff/Stephanie.jpg" alt="Dr. Essia Hamouda"/></td>
   <td>
     <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>San Bernardino</strong><br> 
