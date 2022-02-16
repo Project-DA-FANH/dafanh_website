@@ -1,11 +1,11 @@
-baseurl = "https://project-dafanh.netlify.app/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Universal"
+baseurl = "https://project-dafanh.netlify.app/" 
+title = "Grow your Future"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -176,103 +176,10 @@ paginate = 10
     weight     = 1
     parent     = "section.marketing"
 
-## ----ALL PAGES ---- ###
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
 ## ----BLOG ---- ###
 [[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
+    name       = "News"
+    identifier = "menu.news"
     url        = "/blog/"
     weight     = 5
 
@@ -282,11 +189,11 @@ paginate = 10
 #    url        = "/faq/"
 #    weight     = 6
 
-[[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
-    weight     = 7
+#[[menu.main]]
+#    identifier = "contact"
+#    name       = "Contact"
+#    url        = "/contact/"
+#    weight     = 7
 
 
 # Top bar social links menu
@@ -305,15 +212,15 @@ paginate = 10
 [[menu.topbar]]
     weight = 3
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:fanh.analytics@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Project Directors"
+    defaultKeywords = [""]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Template Description"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -365,7 +272,7 @@ paginate = 10
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Enriching education at the intersection of Data Analytics and the Food, Agriculture, Natural and Human Sciences through professional experiential learning and curriculum development</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    copyright = "Copyright (c) 2022, Project DA-FANH; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -376,15 +283,18 @@ paginate = 10
     logo_small = "img/DA-Fanh-small.png"
     
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
+    Address = """<p class="text-uppercase"><strong>Email</strong>
+    <br>fanh.analytics@gmail.com<br>"""
+    
+    # Address = """<p class="text-uppercase"><strong>Email</strong>
+    #    <br>13/25 New Avenue
+    #    <br>Newtown upon River
+    #    <br>45Y 73J
+    #    <br>England
+    #    <br>
+    #    <strong>Great Britain</strong>
+    #  </p>
+    #  """
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -392,9 +302,9 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at projectemail@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at fanh.analytics@gmail.com.</p>
       <p class="hidden-md hidden-lg">
-      <a href="mailto:projectemail@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <a href="mailto:fanh.analytics@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -405,10 +315,10 @@ paginate = 10
     search = true
 
 [params.carouselCustomers]
-    items = 6
+    items = 4
     auto_play = false
-    slide_speed = 2000
-    pagination_speed = 1000
+    slide_speed = 500
+    pagination_speed = 500
 
 [params.carouselTestimonials]
     items = 4
@@ -433,12 +343,12 @@ paginate = 10
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "Hear what people have to say "
 
 [params.see_more]
     enable = false
@@ -452,14 +362,13 @@ paginate = 10
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
-    # For more information take a look at the README.
-    title = "Our Clients"
+    title = "Our Partners"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "What we're up to"
+    subtitle = "Description here"
     hide_summary = false
 
 [params.footer.recent_posts]
