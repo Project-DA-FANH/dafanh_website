@@ -90,5 +90,30 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
 </tr>
 </table>
 
+<br><br>
+
+### Supporting
+
+<table>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/Stephanie.jpg" alt="Amanda Kabisch-Herzog"/></td>
+  <td class=td.name>
+    <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Amanda Kabisch-Herzog</strong></a><br>
+    <strong>Project Assistant</strong><br> 
+    <strong>Contact:</strong> project email
+  </td>
+  <td class=td.bio>Amanda's Bio</td>
+</tr>
+<tr>
+  <td><img src="" alt="Student"/></td>
+  <td>
+    <a href=""><strong>Student Fellow</strong></a><br>
+    <strong>Student Fellow</strong><br> 
+    <strong>Contact:</strong> 
+  </td>
+  <td>Starting summer 2022</td>
+</tr>
+</table>
+
 
 <br><br>
