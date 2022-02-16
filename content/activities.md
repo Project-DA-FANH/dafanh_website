@@ -1,13 +1,10 @@
 ---
-description: Project Activities
+description: Ongoing Activities
 title: ""
 ---
 
 
-## Project DA-FAN on going activities
+* **8/1/2021**: Project Launched
+* **Winter Carpentry Workshop for Faculty & Graduate students**: 01/13/2022 - 01/14/2022  
+* **Summer Carpentry Workshop for Summer research students**: Early June
 
-* **8/1/2021**: Project website created
-* **Coming soon**
-  - **Winter Carpentry Workshop**: 01/13/2022 - 01/13/2022  
-* **Summer Carpentry Workshop**: Date TBD
-* **AMA**: Date TBD
