@@ -94,7 +94,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Stephanie.jpg" alt="Amanda Kabisch-Herzog"/></td>
+  <td class=td.pic><img src="/img/project_staff/Blank.jpg" alt="Amanda Kabisch-Herzog"/></td>
   <td class=td.name>
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Amanda Kabisch-Herzog</strong></a><br>
     <strong>Project Assistant</strong><br> 
@@ -103,7 +103,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
   <td class=td.bio>Amanda's Bio</td>
 </tr>
 <tr>
-  <td><img src="" alt="Student"/></td>
+  <td><img src="/img/project_staff/Blank.jpg" alt="Student"/></td>
   <td>
     <a href=""><strong>Student Fellow</strong></a><br>
     <strong>Student Fellow</strong><br> 
