@@ -17,6 +17,7 @@ existing stereotypes about who belongs and build a pathway for Students of Color
   * Foster an active, inclusive and diverse community of 
 individuals who utilize DS for FANH careers, research and program dissemination.
 
+
 ## About us
 
 CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the California State University system who are working together to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
@@ -50,7 +51,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
     <strong>Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td class=td.bio>A gal with many hats. Associate Professor of Statistics, Data Science Initiative Coordinator, Research Manager V at the Center for Healthy Communities, gamer, gardener and pitbull mamma.</td>
+  <td class=td.bio>Dr. Robin Donatello was raised in the North State, and currently works at Chico State as an Associate Professor of Statistics, Data Science Initiative Coordinator, and a Research Manager V for the Center for Healthy Communities. She is a gamer, gardener, pitbull mamma and currently working on leash training her cat.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
@@ -59,10 +60,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
     <strong>San Bernardino</strong><br> 
     <strong>Contact:</strong> essia.hamouda@csusb.edu
   </td>
-  <td>Dr. Essia Hamouda is an Assistant Professor of Information and Decision 
-Sciences. She received a BSc. and a MS. degree in Industrial and Systems Engineering 
-from the Ohio State University and the University of Florida respectively and a 
-Ph.D. in Computer Science from the University of California Riverside.</td>
+  <td>Dr. Essia Hamouda was born in Tunisia. She is assistant Professor of Information and Decision Sciences at California State San Bernardino. Essia moved to the USA when she was seventeen to pursue an engineering degree and has visited over twenty countries outside the USA. During her free time, Essia enjoys traveling, hiking and spending time with family and friends. </td>
 </tr>
 </table>
 
@@ -86,7 +84,7 @@ Ph.D. in Computer Science from the University of California Riverside.</td>
     <strong>Pedagogy Specialist</strong><br> 
     <strong>Contact:</strong> caherrera@csuchico.edu
   </td>
-  <td>Dr. Christine Herrera is an Assistant Professor in the Department Mathematics and Statistics at CSU, Chico. Dr. Herrera is the Louis Stokes Alliance for Minority Participation (LSAMP) curriculum advisor and instructor. In her free time, she enjoys spending time with her chihuahua Kiwi, yoga, exercising, hiking, reading, and gardening.</td>
+  <td> Dr. Christine Hererra was born and raised in Denver, Colorado. She is Mathematics Education Professor at CSU, Chico, and the Pedagogy Specialist for this project. One fun fact is that her favorite part of her job is spending her summers teaching the LSAMP Summer Calculus Boot Camp. During her free time, Christine enjoys creating mosaic art. </td>
 </tr>
 </table>
 
