@@ -75,7 +75,7 @@ CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the Ca
     <strong>Internship Lead</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td class=td.bio>Stephanie's Bio</td>
+  <td class=td.bio>Stephanie was raised in Fresno CA surrounded by fresh food and agriculture. Her roots led her to working as a professional cook in Yosemite for 7 years and to an academic career at UC Davis and Texas A&M (Aggies x 2). She has been a professor/researcher at Chico State and Director of the Center for Healthy Communities for many years supporting low-income families and students across the state.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>

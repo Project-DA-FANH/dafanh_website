@@ -1,6 +1,5 @@
 ---
 title: Project Launch
-description: stuff
 author: Dr. Donatello
 date: '2021-08-01'
 slug: project-launch

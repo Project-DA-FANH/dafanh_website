@@ -26,7 +26,8 @@ A single student will receive up to $10k in tuition assistance, up to $10k in re
 * Have at least 2 years left prior to graduation
 * Must be a citizen or national of the United States
 * Be interested and able to assist with grant activities such as helping at data training workshops, and job talk seminars, conducting winter and summer session research, and travelling to conferences. 
-* Identify as an individual who has faced or faces social, educational, or economic barriers.  
+* Identify as an individual who has faced or faces social, educational, or economic barriers.
+    - Examples may include being part of a traditionally underrepresented or marginalized group (including but not limited to race, ethnicity, gender identification), having a mental illness or learning disability, experiencing housing or food insecurity, having dependents or excessive financial stress such as working a full time job outside of college classes. 
 
 
 # APPLICATION GUIDELINES & DEADLINE
