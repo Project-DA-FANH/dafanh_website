@@ -110,77 +110,97 @@ paginate = 10
 #    parent     = "section.headervariations"
 
 ## ----ACTIVITIES ---- ###
-[[menu.main]]
-    name       = "Activities"
-    identifier = "menu.activities"
-    url        = "/img/template-homepage.png"
-    weight     = 3
+#[[menu.main]]
+#    name       = "Activities"
+#    identifier = "menu.activities"
+    #url        = ""
+    #url        = "/img/template-homepage.png"
+#    weight     = 3
 
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.activities"
-    post       = 1
+###--- Column 1 ---###
+#[[menu.main]]
+#    name       = "Project Areas"
+#    identifier = "section.goals"
+#    url        = ""
+#    weight     = 1
+#    parent     = "menu.activities"
+#    post       = 1
 
-[[menu.main]]
-    name       = "2 Columns"
-    url        = ""
-    weight     = 1
-    parent     = "section.portfolio"
+#[[menu.main]]
+#    name       = "Career Connection"
+#    url        = ""
+#    weight     = 1
+#    parent     = "section.goals"
+    
+#[[menu.main]]
+#    name       = "Faculty Development"
+#    url        = ""
+#    weight     = 2
+#    parent     = "section.goals"
 
-[[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
+#[[menu.main]]
+#    name       = "Student Internship"
+#    url        = ""
+#    weight     = 3
+#    parent     = "section.goals"
+    
+#[[menu.main]]
+#    name       = "Community Development"
+#    url        = ""
+#    weight     = 4
+#    parent     = "section.goals"
+    
+###--- Column 2 ---###
 
-[[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
+#[[menu.main]]
+#    name       = "Upcoming Events"
+#    identifier = "section.events"
+#    url        = ""
+#    weight     = 2
+#    parent     = "menu.activities"
+#    post       = 2
+    
+#[[menu.main]]
+#    name       = "Events"
+#    url        = "/events"
+#   weight     = 1
+#    parent     = "section.events"
 
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
+###--- Column 3 ---###
+#[[menu.main]]
+#    name       = "Campus Resources"
+#    identifier = "section.resources"
+#    url        = ""
+#    weight     = 2
+#    parent     = "menu.activities"
+#    post       = 3
 
-[[menu.main]]
-    name       = "About"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.activities"
-    post       = 2
+#[[menu.main]]
+#    name       = "Chico"
+#    url        = ""
+#    weight     = 1
+#    parent     = "section.resources"
 
-[[menu.main]]
-    name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
+#[[menu.main]]
+#    name       = "San Bernardino"
+#    url        = ""
+#    weight     = 2
+#    parent     = "section.resources"
 
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
 
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.activities"
-    post       = 2
+#[[menu.main]]
+#    name       = "Marketing"
+#    identifier = "section.marketing"
+#    url        = ""
+#    weight     = 3
+#    parent     = "menu.activities"
+#    post       = 3
 
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
+#[[menu.main]]
+#    name       = "Packages"
+#    url        = ""
+#    weight     = 1
+#    parent     = "section.marketing"
 
 ## ----BLOG ---- ###
 [[menu.main]]
@@ -189,11 +209,24 @@ paginate = 10
     url        = "/blog/"
     weight     = 5
 
+## ---- ABOUT ---- ###
 [[menu.main]]
     name       = "About"
     identifier = "menu.about"
-    url        = "/about/"
+    url        = ""
     weight     = 6
+    
+[[menu.main]]
+    name       = "About Us"
+    url        = "/about/"
+    weight     = 1
+    parent     = "menu.about"
+
+[[menu.main]]
+    name       = "Our Team"
+    url        = "/team/"
+    weight     = 2
+    parent     = "menu.about"
 
 #[[menu.main]]
 #    identifier = "contact"
@@ -374,7 +407,7 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "What we're up to"
-    subtitle = "Description here"
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]

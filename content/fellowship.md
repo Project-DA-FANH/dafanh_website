@@ -3,6 +3,7 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
+
 # Purpose
 
 This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human sciences (FANH) professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
@@ -17,14 +18,16 @@ The funding for this fellowship comes from a grant provided by the National Inst
 
 A single student will receive up to $10k in tuition assistance, up to $10k in research stipends & equipment, fully supported travel to professional conferences, and graduate school application assistance. 
 
+
+
 # Eligibility Criteria
 
 * Currently enrolled at CSU, Chico or CSU, San Bernardino as an undergraduate student. 
-* Pursing a major related to Data Science, Data Analytics or a FANH domain (Food, Agriculture, Natural resources and Human sciences)
-* Desire to pursue a career at USDA or in the FANH sciences. (See below for details)
+* Pursing a major related to Data Science, Data Analytics or a FANH science (Food, Agriculture, Natural resources and Human sciences)
+* Desire to pursue a career at USDA or in the FANH sciences. 
 * Have a cumulative GPA of at least 2.75 and maintain this GPA throughout the duration of the program.
 * Have at least 2 years left prior to graduation
-* Must be a citizen or national of the United States
+* Must be a citizen or national of the United States [[see more details below]](#further-details-on-citizenship-requirement)
 * Be interested and able to assist with grant activities such as helping at data training workshops, and job talk seminars, conducting winter and summer session research, and travelling to conferences. 
 * Identify as an individual who has faced or faces social, educational, or economic barriers.
     - Examples may include being part of a traditionally underrepresented or marginalized group (including but not limited to race, ethnicity, gender identification), having a mental illness or learning disability, experiencing housing or food insecurity, having dependents or excessive financial stress such as working a full time job outside of college classes. 
@@ -85,4 +88,8 @@ The USDA HSI Education Grants Program lists the occupations below as examples of
 
 **THIS IS NOT AN ELIGIBILITY LIST. OTHER MAJORS & INTERESTS ARE ENCOURAGED TO APPLY**. Search [data-enabled careers at USDA](https://www.usajobs.gov/Search/Results?d=AG&k=data&wma=15509).
 
-If you are unsure if your major or career interest qualifies please email fanh.analytics@gmail.com. 
+If you are unsure if your major or career interest qualifies please email <fanh.analytics@gmail.com>. 
+
+### Further Details on Citizenship requirement
+
+For purposes of applicant citizenship, USDA-NIFA follows the U.S. Customs and Immigration Service (USCIS) definitions, unless otherwise stated in the RFA. U.S. citizens are individuals born in the United States, Puerto Rico, Guam, Northern Mariana Islands, and U.S. Virgin Islands, (persons born in American Samoa, or Swains Island are generally considered nationals of the United States);foreign-born children, under age 18, residing in the United States with their birth or adoptive parents, at least one of whom is a U.S. citizen by birth or naturalization; and individuals granted citizenship status by USCIS. The term “national of the United States” means a person who, though not a citizen of the United States, owes permanent allegiance to the United States (for example, persons born in American Samoa or Swains Island). 
