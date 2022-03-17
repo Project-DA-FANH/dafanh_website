@@ -36,7 +36,7 @@ A single student will receive up to $10k in tuition assistance, up to $10k in re
 
 # APPLICATION GUIDELINES & DEADLINE
 
-<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_2.png" width="30%" align="left" hspace="50" vspace = "50" /></a>
+<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_2.png" height="30%" align="right" hspace="50" vspace = "50" /></a>
 
 * Applications should be submitted electronically to [[this Google Form]](https://forms.gle/eiVWnuzasQ4XgwD17) by April 8th, 2022
 * Review the application questions and prepare your responses ahead of time. 
