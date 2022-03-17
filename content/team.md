@@ -73,7 +73,7 @@ title: "Our Team"
 
 <br><br>
 
-## Supporting
+## Supporting Staff
 
 <table>
 <tr>
@@ -96,5 +96,29 @@ title: "Our Team"
 </tr>
 </table>
 
+
+<br><br>
+
+
+<table>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Stephanie Bianco"/></td>
+  <td class=td.name>
+    <strong>Stephanie Bianco, MS, RD</strong><br>
+    <strong>Internship Lead</strong><br> 
+    <strong>Contact:</strong> rdonatello@csuchico.edu
+  </td>
+  <td class=td.bio>Stephanie was raised in Fresno CA surrounded by fresh food and agriculture. Her roots led her to working as a professional cook in Yosemite for 7 years and to an academic career at UC Davis and Texas A&M (Aggies x 2). She has been a professor/researcher at Chico State and Director of the Center for Healthy Communities for many years supporting low-income families and students across the state.</td>
+</tr>
+<tr>
+  <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
+  <td>
+    <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
+    <strong>Pedagogy Specialist</strong><br> 
+    <strong>Contact:</strong> caherrera@csuchico.edu
+  </td>
+  <td> Dr. Christine Hererra was born and raised in Denver, Colorado. She is Mathematics Education Professor at CSU, Chico, and the Pedagogy Specialist for this project. One fun fact is that her favorite part of her job is spending her summers teaching the LSAMP Summer Calculus Boot Camp. During her free time, Christine enjoys creating mosaic art. </td>
+</tr>
+</table>
 
 <br><br>
