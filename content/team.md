@@ -77,11 +77,11 @@ title: "Our Team"
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" width="50%" /></td>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" width="40%" /></td>
   <td class=td.name>
     <strong>Amanda Kabisch-Herzog</strong><br>
     <strong>Project Assistant</strong><br> 
-    <strong>Contact:</strong> project email
+    <strong>Contact:</strong> fanh.analytics@gmail.com
   </td>
   <td class=td.bio>Amanda Kabisch-Herzog was raised in Fairfield, California and assists with day-to-day administrative tasks as a Project Assistant including organization and outreach. She graduated with her bachelor's in Economics along with a minor in Applied Statistics and Certificate in GIS from CSU, Chico. A fun fact is she can name all 58 California counties by memory. In her free time, Amanda enjoys competing with her trivia team.</td>
 </tr>
