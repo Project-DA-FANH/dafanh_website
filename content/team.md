@@ -14,13 +14,13 @@ title: "Our Team"
     padding-bottom: 5px;
   }
   td.pic{
-    width: 15%
-  }
-  td.name{
     width: 30%
   }
+  td.name{
+    width: 20%
+  }
   td.bio{
-    width: 35%
+    width: 25%
   }
 </style>
 
@@ -33,7 +33,7 @@ title: "Our Team"
     <strong>Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td class=td.bio>Dr. Robin Donatello was raised in the North State, and currently works at Chico State as an Associate Professor of Statistics, Data Science Initiative Coordinator, and a Research Manager V for the Center for Healthy Communities. She is a gamer, gardener, pitbull mamma and currently working on leash training her cat.</td>
+  <td class=td.bio>Dr. Robin Donatello was raised in the North State, and currently works at Chico State as an Associate Professor of Statistics, Data Science Initiative Coordinator, and a Research Manager for the Center for Healthy Communities. She is a gamer, gardener, pitbull mamma and currently working on leash training her cat.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
@@ -73,15 +73,15 @@ title: "Our Team"
 
 <br><br>
 
-## Supporting
+## Supporting Staff
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog"/></td>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" /></td>
   <td class=td.name>
     <strong>Amanda Kabisch-Herzog</strong><br>
     <strong>Project Assistant</strong><br> 
-    <strong>Contact:</strong> project email
+    <strong>Contact:</strong> fanh.analytics@gmail.com
   </td>
   <td class=td.bio>Amanda Kabisch-Herzog was raised in Fairfield, California and assists with day-to-day administrative tasks as a Project Assistant including organization and outreach. She graduated with her bachelor's in Economics along with a minor in Applied Statistics and Certificate in GIS from CSU, Chico. A fun fact is she can name all 58 California counties by memory. In her free time, Amanda enjoys competing with her trivia team.</td>
 </tr>
