@@ -77,22 +77,22 @@ title: "Our Team"
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Blank.jpg" alt="Amanda Kabisch-Herzog"/></td>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog"/></td>
   <td class=td.name>
-    <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Amanda Kabisch-Herzog</strong></a><br>
+    <strong>Amanda Kabisch-Herzog</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> project email
   </td>
-  <td class=td.bio>Amanda's Bio</td>
+  <td class=td.bio>Amanda Kabisch-Herzog was raised in Fairfield, California and assists with day-to-day administrative tasks as a Project Assistant including organization and outreach. She graduated with her bachelor's in Economics along with a minor in Applied Statistics and Certificate in GIS from CSU, Chico. A fun fact is she can name all 58 California counties by memory. In her free time, Amanda enjoys competing with her trivia team.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Blank.jpg" alt="Student"/></td>
   <td>
     <a href=""><strong>Student Fellow</strong></a><br>
-    <strong>Student Fellow</strong><br> 
+    <strong>Undergraduate Student Fellow</strong><br> 
     <strong>Contact:</strong> 
   </td>
-  <td>Starting summer 2022</td>
+  <td>Starting Fall 2022</td>
 </tr>
 </table>
 
