@@ -77,7 +77,7 @@ title: "Our Team"
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog"/></td>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" width="50%" /></td>
   <td class=td.name>
     <strong>Amanda Kabisch-Herzog</strong><br>
     <strong>Project Assistant</strong><br> 

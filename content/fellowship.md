@@ -3,11 +3,11 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
-<a href="https://forms.gle/eiVWnuzasQ4XgwD17">
-    <img alt="Link to apply" src="img/apply_here/apply_22.png"
-    width="150" height="70">
-</a>
+<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="img/apply_here/apply_22.png" width="100%" style="display: block; margin: auto;"/></a>
 
+<img src="img/apply_here/apply_22.png" width="100%" style="display: block; margin: auto;"/>
+
+<img src="img/template-homepage.png" width="100%" style="display: block; margin: auto;"/>
 
 
 # Purpose
