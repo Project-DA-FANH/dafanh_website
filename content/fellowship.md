@@ -36,14 +36,14 @@ A single student will receive up to $10k in tuition assistance, up to $10k in re
 
 # APPLICATION GUIDELINES & DEADLINE
 
-<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_2.png" height="30%" align="right" hspace="50" vspace = "50" /></a>
+<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_2.png" width="5%" align="right" hspace="50" vspace = "50" /></a>
 
 * Applications should be submitted electronically to [[this Google Form]](https://forms.gle/eiVWnuzasQ4XgwD17) by April 8th, 2022
 * Review the application questions and prepare your responses ahead of time. 
     - There is a 250 word limit for all paragraph questions. Any responses longer than 250 words will be cut off and not seen by reviewers. 
 * Additional application materials include 
     - Unofficial transcripts from your current university
-    - One letter of recommendation from a faculty or staff member who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school.
+    - One letter of recommendation from a faculty or staff member who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school. Letters of recommendation are requsted by project staff and due by April 22nd. 
     - (Optional) An additional letter of recommendation (does not have to be from faculty or staff) who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school.
 
 ----
