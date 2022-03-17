@@ -33,7 +33,7 @@ title: "Our Team"
     <strong>Chico State</strong><br> 
     <strong>Contact:</strong> rdonatello@csuchico.edu
   </td>
-  <td class=td.bio>Dr. Robin Donatello was raised in the North State, and currently works at Chico State as an Associate Professor of Statistics, Data Science Initiative Coordinator, and a Research Manager V for the Center for Healthy Communities. She is a gamer, gardener, pitbull mamma and currently working on leash training her cat.</td>
+  <td class=td.bio>Dr. Robin Donatello was raised in the North State, and currently works at Chico State as an Associate Professor of Statistics, Data Science Initiative Coordinator, and a Research Manager for the Center for Healthy Communities. She is a gamer, gardener, pitbull mamma and currently working on leash training her cat.</td>
 </tr>
 <tr>
   <td><img src="/img/project_staff/Essia.jpg" alt="Dr. Essia Hamouda"/></td>
@@ -77,7 +77,7 @@ title: "Our Team"
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" width="40%" /></td>
+  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Amanda Kabisch-Herzog" /></td>
   <td class=td.name>
     <strong>Amanda Kabisch-Herzog</strong><br>
     <strong>Project Assistant</strong><br> 
@@ -96,29 +96,5 @@ title: "Our Team"
 </tr>
 </table>
 
-
-<br><br>
-
-
-<table>
-<tr>
-  <td class=td.pic><img src="/img/project_staff/Amanda.jpg" alt="Stephanie Bianco"/></td>
-  <td class=td.name>
-    <strong>Stephanie Bianco, MS, RD</strong><br>
-    <strong>Internship Lead</strong><br> 
-    <strong>Contact:</strong> rdonatello@csuchico.edu
-  </td>
-  <td class=td.bio>Stephanie was raised in Fresno CA surrounded by fresh food and agriculture. Her roots led her to working as a professional cook in Yosemite for 7 years and to an academic career at UC Davis and Texas A&M (Aggies x 2). She has been a professor/researcher at Chico State and Director of the Center for Healthy Communities for many years supporting low-income families and students across the state.</td>
-</tr>
-<tr>
-  <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
-  <td>
-    <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
-    <strong>Pedagogy Specialist</strong><br> 
-    <strong>Contact:</strong> caherrera@csuchico.edu
-  </td>
-  <td> Dr. Christine Hererra was born and raised in Denver, Colorado. She is Mathematics Education Professor at CSU, Chico, and the Pedagogy Specialist for this project. One fun fact is that her favorite part of her job is spending her summers teaching the LSAMP Summer Calculus Boot Camp. During her free time, Christine enjoys creating mosaic art. </td>
-</tr>
-</table>
 
 <br><br>
