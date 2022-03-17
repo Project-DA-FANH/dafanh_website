@@ -14,7 +14,7 @@ title: "Our Team"
     padding-bottom: 5px;
   }
   td.pic{
-    width: 25%
+    width: 30%
   }
   td.name{
     width: 20%
