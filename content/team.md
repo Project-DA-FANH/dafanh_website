@@ -14,13 +14,13 @@ title: "Our Team"
     padding-bottom: 5px;
   }
   td.pic{
-    width: 15%
+    width: 25%
   }
   td.name{
-    width: 30%
+    width: 20%
   }
   td.bio{
-    width: 35%
+    width: 25%
   }
 </style>
 
