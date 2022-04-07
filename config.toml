@@ -31,6 +31,12 @@ paginate = 10
     url        = "/fellowship"
     weight     = 2
     
+[[menu.main]]
+    name       = "Workshop"
+    identifier = "menu.workshop"
+    url        = "/workshop"
+    weight     = 2
+    
 #[[menu.main]]
 #    name       = "Option 1: Default Page"
 #    url        = "/"

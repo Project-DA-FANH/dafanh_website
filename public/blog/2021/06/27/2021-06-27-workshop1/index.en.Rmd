@@ -1,0 +1,25 @@
+---
+banner: img/banners/banner-1.jpg
+title: Workshop coming soon...
+author: Essia Hamouda
+date: '2021-06-27'
+slug: workshop-coming-soon
+categories: []
+tags: []
+---
+
+We are excited for the kickoff of our workshop series. Our first and upcoming workshop will be on January 13th - 14th, 2022 and hope you are too. A few notes:
+
+* Be sure to complete the pre-workshop survey. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.
+
+* Make sure you have the necessary software installed on your laptop: R, R Studio, git, and Nano. There are setup instructions on the workshop website. If you have any trouble, send us an email or come a little early on Monday. Someone will be there by 8:30 (Mon) or 8:45 (Tue-Thu) to help with installation issues and answer general questions.
+
+* Some links that will be posted in the workshop: workshop page which includes links to lesson materials etc.
+  - ZOOM INFORMATIONwill be posted soon.
+  - other resources
+
+* We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
+
+Let us know if you have any questions, otherwise we will see you Monday morning!
+
+Looking forward to seeing you soon!

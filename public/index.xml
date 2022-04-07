@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FANH Website</title>
+    <link>https://example.org/</link>
+    <description>Recent content on FANH Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop coming soon...</title>
+      <link>https://example.org/blog/2021/06/27/2021-06-27-workshop1/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/blog/2021/06/27/2021-06-27-workshop1/</guid>
+      <description>We are excited for the kickoff of our workshop series. Our first and upcoming workshop will be on January 13th - 14th, 2022 and hope you are too. A few notes:
+ Be sure to complete the pre-workshop survey. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.
+ Make sure you have the necessary software installed on your laptop: R, R Studio, git, and Nano.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/_contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/_contact/</guid>
+      <description>Directors Dr. Robin Donatello-Project Director, Chico State Dr. Essia Hamouda-Project Director, CSUSB
+Specialty Leads 
+\
+Stephanie Bianco-Internship Lead Dr. Christine Hererra - Pedagogy Lead
+Administrative Assistant \
+Lincoln Bohn
+ We are here to help you Are you curious to learn more about our project? Would you like to be involved? Would you like to learn data analytics/science skills? We are here to help.
+Whether your are a faculty, a staff, a student (graduate or undergraduate) and are interested in improving your data analytics skills, learn how to make data-driven decisions, have a huge amount of data and do not know where to start, we are here to help you and guide you.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Our goals Enhance the quality of postsecondary education, which will retain and graduate highly qualified students capable of enhancing the nation’s food, agriculture, natural resources and humans sciences (FANH) professional and scientific work force. The project objectives include:
+ Career panels and job talks providing students opportunities for direct access to careers at the intersection of FANH and Data Science (DS). An Experiential Learning program to further student scientific and professional competencies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.org/activities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/activities/</guid>
+      <description>Project DA-FAN on going activities  8/1/2021: Project website created Coming soon  Winter Carpentry Workshop: 01/13/2022 - 01/13/2022   Summer Carpentry Workshop: Date TBD AMA: Date TBD  </description>
+    </item>
+    
+  </channel>
+</rss>
