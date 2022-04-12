@@ -84,7 +84,7 @@ params:
   latitude: '-12.043333'
   longitude: '-77.028333'
   
-  logo: img/DA-Fanh.png 
+  logo: img/DA-Fanh.png  
   logo_small: img/DA-Fanh-small.png 
 
   mainSections: news

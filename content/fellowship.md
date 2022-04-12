@@ -3,7 +3,7 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
-# Purpose
+# Purpose 
 
 This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
 

@@ -19,13 +19,15 @@ The target audience is learners who have little to no prior computational experi
 * **Cost**: Free!!
 * **Date**: June 16, 2022 (12:00 - 5:00 PM) 
         June 17, 2022 (9:00 am - 5:00 PM)
+* **Location**: to be announced soon
 * **Registration**: Reserve a spot by clicking  [HERE](https://forms.gle/9H6LVk1mkQPNj9hQ9). Spots are limited! 
 * Click on [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png) to access the workshop flyer
 
 #### Chico State Campus Location 
  Stay tuned for details
  * **Cost**: Free!!
-* **Date**:  
+* **Date**:  to be announced soon
+* **Location**: to be announced soon
 * **Registration**: Reserve a spot by clicking  [HERE](). Spots are limited! 
 * Click on [flyer]() to access the workshop flyer
 

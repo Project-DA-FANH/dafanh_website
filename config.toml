@@ -33,7 +33,7 @@ paginate = 10
     
 [[menu.main]]
     name       = "Workshop"
-    identifier = "menu.workshop"
+    identifier = "menu.workshop"  
     url        = "/workshop"
     weight     = 2
     
