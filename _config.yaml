@@ -28,10 +28,10 @@ menu:
       name: About
       url: /about/
       weight: 4
-    - identifier: activities
-      name: Activities
-      url: /activities/
-      weight: 3
+#    - identifier: activities
+#      name: Activities
+#      url: /activities/
+#      weight: 3
 
   topbar:
     - name: GitHub
