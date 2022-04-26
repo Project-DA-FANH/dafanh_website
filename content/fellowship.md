@@ -3,11 +3,11 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
+# Purpose 
+=======
 <a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
 
-# Purpose
-
-This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human sciences (FANH) professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
+This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
 
 This project will provide undergraduate current students additional training and experience with Data Science and Analytical tools and processes, and opportunities to work with FANH career professionals on tangible FANH projects. Most importantly, Project DA-FANH will cultivate these skills in an ethically, reproducibly, and professional manner, ultimately preparing CSU students for careers at the intersection between Data Science/Analytics and the FANH fields. 
 

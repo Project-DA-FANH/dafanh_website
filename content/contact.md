@@ -3,7 +3,7 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+# We are here to help you 
 
 Are you curious to learn more about our project? Would you like to be involved? Would you like to learn data analytics/science skills? We are here to help.
 

@@ -31,6 +31,12 @@ paginate = 10
     url        = "/fellowship"
     weight     = 2
     
+[[menu.main]]
+    name       = "Workshops"
+    identifier = "menu.workshop"  
+    url        = "/workshop"
+    weight     = 2
+    
 #[[menu.main]]
 #    name       = "Option 1: Default Page"
 #    url        = "/"
@@ -113,9 +119,7 @@ paginate = 10
 #[[menu.main]]
 #    name       = "Activities"
 #    identifier = "menu.activities"
-    #url        = ""
-    #url        = "/img/template-homepage.png"
-#    weight     = 3
+#    url        = ""
 
 ###--- Column 1 ---###
 #[[menu.main]]
@@ -186,15 +190,6 @@ paginate = 10
 #    url        = ""
 #    weight     = 2
 #    parent     = "section.resources"
-
-
-#[[menu.main]]
-#    name       = "Marketing"
-#    identifier = "section.marketing"
-#    url        = ""
-#    weight     = 3
-#    parent     = "menu.activities"
-#    post       = 3
 
 #[[menu.main]]
 #    name       = "Packages"
