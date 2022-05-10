@@ -4,7 +4,7 @@ title: "About Project DA-FANH"
 ---
 
 
-CSU Chico and CSU San Bernardino are two Hispanic Serving Institutions in the California State University system who are working together to enhance the quality of college education at the intersection between Data Science and the Food, Agriculture, Natural resources and Human sciences. 
+
 
 
 ## Our goals
