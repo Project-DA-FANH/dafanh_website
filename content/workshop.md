@@ -13,22 +13,21 @@ The workshops teach foundational skills to work effectively and reproducibly wit
 * Data Visualization
 * Creating reproducible documents using Markdown.
 
-
 The target audience is learners who have little to no prior computational experience but want to learn how to use data to support their science. The instructors prioritize creating a friendly environment for learning to empower researchers and enable data driven discovery
 
-#### CSUSB Campus Location
+These workshops are _free_ to anyone involved in the summer research programs (such as  $CSC^2$ or Adelante at Chico State)
 
-* **Cost**: Free!!
-* **Date**: June 16, 2022 (12:00 - 5:00 PM), June 17, 2022 (9:00 am - 5:00 PM)
+#### CSU San Bernardino
+
+* **Dates**: June 16, 2022 (12:00 - 5:00 PM), June 17, 2022 (9:00 am - 5:00 PM)
 * **Location**: to be announced soon
 * **Registration**: Reserve a spot by clicking  [HERE](https://forms.gle/9H6LVk1mkQPNj9hQ9). Spots are limited! 
 * Click on [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png) to access the workshop flyer
 
-#### Chico State Campus Location 
+#### Chico State
 
-* **Cost**: Free!!
-* **Date**:  June 27th (half day), 28th (full day)
-* **Location**: to be announced soon
-* **Registration**: 
-
+* **Dates**:  Monday June 27th (8:30am-12:30pm) and Tuesday June 28th (9:00 am - 4:30 pm)
+* **Location**: Chico State Campus (MLIB 045?)
+* **Registration**: [[Register here]](https://forms.gle/g26QTxUqZARzeM2cA)
+* **Workshop Webpage**: In Development
 

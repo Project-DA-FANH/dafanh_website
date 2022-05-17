@@ -1,4 +1,5 @@
 ---
+banner: img/blog/datafest_logo.png
 title: DataFest 2022 Recap
 author: Robin Donatello
 date: '2022-05-04'
