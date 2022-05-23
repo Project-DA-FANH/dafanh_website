@@ -234,13 +234,13 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "http://twitter.com/calstate_dafanh"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Instagram"
-    url = "http://instagram.com"
+    url = "http://instagram.com/calstate_dafanh/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
