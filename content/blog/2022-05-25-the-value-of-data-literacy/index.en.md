@@ -8,15 +8,6 @@ categories: []
 tags: []
 ---
 
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-
-# The Value of Data Literacy
-
-
-** **
 
 
 #### 4 Reasons why understanding data is key
@@ -66,3 +57,7 @@ New apps, computer programs, and technology are created every day. With how fast
 
 
 With a rapidly changing world, data has become an enormous factor in everyday life. “In the last 2 years, 90% of the world’s data has been created and businesses are spending more than $180 billion a year on big data analysis”([source](https://www.bornfight.com/blog/7-real-world-examples-of-how-brands-are-using-big-data-analytics/)). In the ways we communicate with companies and online programs, data literacy is essential to understanding how these systems function. Understanding and having the ability to analyze data automatically puts you a step ahead when planning to enter the workforce. Understanding this data further allows you to help uncover essential business opportunities for companies, further increasing customer satisfaction. Along with this, upkeep of communication online is essential for us to understand. Without data literacy skills, we lose touch with the ever so present digital world. Promoting data literacy skills in schools is more important now than ever. With college students being the future of our world, it is important that they understand and promote the ideas and values of data literacy.
+
+----
+
+This contributed blog post was written by students from the [Tehama Group Communications](http://tehamagrouppr.com/). 
