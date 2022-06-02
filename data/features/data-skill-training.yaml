@@ -1,7 +1,5 @@
 weight: 1
-name: "Data Skill Training"
+name: "Data Skills Workshops"
 icon: "fas fa-chart-line" #desktop
-url: ""
-description: "Partner with the Carpentries. Organise and teach 
-Carpentry workshops to spread data science 
-literacy and skills."
+url: "/workshop/"
+description: "We partner with the Carpentries to teach essential data and computational skills for conducting efficient, open, and reproducible research"

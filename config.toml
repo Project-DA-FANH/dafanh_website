@@ -1,5 +1,5 @@
 baseurl = "https://project-dafanh.netlify.app/" 
-title = "Grow your Future"
+title = "Grow your Future with us"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -10,7 +10,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
-summaryLength = 70
+summaryLength = 50
 
 # Define the number of posts per page
 paginate = 10
@@ -25,18 +25,33 @@ paginate = 10
     url        = "/"
     weight     = 1
 
+## ----BLOG ---- ###
+[[menu.main]]
+    name       = "News"
+    identifier = "menu.news"
+    url        = "/blog/"
+    weight     = 2
+    
+## ---- STUDENTS ---- ###
+[[menu.main]]
+    name       = "For Current Students"
+    identifier = "menu.students"
+    url        = ""
+    weight     = 3
+    
+[[menu.main]]
+    name       = "Data Skills Workshops"
+    url        = "/workshop/"
+    weight     = 1
+    parent     = "menu.students"
+
 [[menu.main]]
     name       = "Fellowship"
-    identifier = "menu.fellowship"
     url        = "/fellowship"
     weight     = 2
-    
-[[menu.main]]
-    name       = "Workshops"
-    identifier = "menu.workshop"  
-    url        = "/workshop"
-    weight     = 2
-    
+    parent     = "menu.students"
+
+
 #[[menu.main]]
 #    name       = "Option 1: Default Page"
 #    url        = "/"
@@ -197,12 +212,7 @@ paginate = 10
 #    weight     = 1
 #    parent     = "section.marketing"
 
-## ----BLOG ---- ###
-[[menu.main]]
-    name       = "News"
-    identifier = "menu.news"
-    url        = "/blog/"
-    weight     = 5
+
 
 ## ---- ABOUT ---- ###
 [[menu.main]]
@@ -305,7 +315,7 @@ paginate = 10
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Enriching education at the intersection of Data Analytics and the Food, Agriculture, Natural and Human Sciences through professional experiential learning and curriculum development</p>"
+    about_us = "<p>Enriching education at the intersection of Data Analytics and the Food, Agriculture, Natural and Human Sciences through professional experiential learning and curriculum development. Project DA-FANH is a result of grant no. 2021-77040-34880 from the USDA National Institute of Food and Agriculture. </p>"
     copyright = "Copyright (c) 2022, Project DA-FANH; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -368,6 +378,16 @@ paginate = 10
     slide_speed = 2000
     pagination_speed = 1000
 
+
+[params.see_more]
+    enable = false
+    icon = "far fa-file-alt"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
+
 [params.features]
     enable = true
     cols = 3 # Default: 3, Available values 2,3,4,6
@@ -383,24 +403,16 @@ paginate = 10
     title = "Testimonials"
     subtitle = "Hear what people have to say "
 
-[params.see_more]
-    enable = false
-    icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
-
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     title = "Our Partners"
-    subtitle = ""
+    subtitle = "We could not accomplish great things without the support and collaboration with these organizations."
 
 [params.recent_posts]
     enable = true
-    title = "What we're up to"
+    title = "News and Events"
     subtitle = ""
     hide_summary = false
 

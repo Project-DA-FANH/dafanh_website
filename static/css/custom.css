@@ -14,3 +14,7 @@
 .box-simple {
     min-height: 230px;
 }
+
+ul.customers img {
+  max-height: 10px
+}
