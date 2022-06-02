@@ -46,7 +46,7 @@ paginate = 10
     parent     = "menu.students"
 
 [[menu.main]]
-    name       = "Internship"
+    name       = "Applied Research Internship"
     url        = "/internship"
     weight     = 2
     parent     = "menu.students"
@@ -321,8 +321,8 @@ paginate = 10
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Enriching education at the intersection of Data Analytics and the Food, Agriculture, Natural and Human Sciences through professional experiential learning and curriculum development. Project DA-FANH is a result of grant no. 2021-77040-34880 from the USDA National Institute of Food and Agriculture. </p>"
-    copyright = "Copyright (c) 2022, Project DA-FANH; all rights reserved."
+    about_us = "<p>Enriching education at the intersection of Data Analytics and the Food, Agriculture, Natural and Human Sciences through professional experiential learning and curriculum development. </p>"
+    copyright = " Project DA-FANH is a result of grant no. 2021-77040-34880 from the USDA National Institute of Food and Agriculture. Copyright (c) 2022, Project DA-FANH; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

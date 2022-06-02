@@ -2,9 +2,9 @@
 title: "Applied Research Internship"
 ---
 
-<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
 
-> PRIORITY APPLICATION DEADLINE: By 5pm on July 8th 
+> PRIORITY APPLICATION DEADLINE: 5pm on July 8th, 2022
 
 
 # Overview 
@@ -15,6 +15,7 @@ This internship provides an authentic virtual (and in person when available) car
 
 ## Details
 
+* Campus: Chico State
 * Status: Semester Internship (3 Units)
 * Time Commitment:  9 hours per week for 16 weeks
 * Salary/Wage: $15/hr.
@@ -44,7 +45,7 @@ This internship provides an authentic virtual (and in person when available) car
 * Begin to understand the reporting, research and evaluation requirements of grant funded projects
 
 
-## Questions?
+## Questions about this or other opportunities?
 
-If you have questions, please contact the Project DA-FANH Internship Coordinator, Robin Donatello at rdonatello@csuchico.edu 
+Contact us at fanh.analytics@gmail.com. 
 
