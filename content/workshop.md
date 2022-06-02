@@ -7,13 +7,13 @@ title: "Be the boss of your data"
 
 
 <div class="container">
-    <img src="https://datacarpentry.org/images//DC_room3.jpg" class="myImage" alt="Alt Text" width="500" height="600"/>
+    <img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right;width="50%"/>
     <p>Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. [Meet the instructor team](/team/)</p>
 </div>
 
-    
 
-# June 2022 - Summer undergraduate & graduate research participants
+
+# June 2022 Undergraduate & graduate research participants
 
 The target audience are learners who have little to no prior computational experience but want to learn how to use data to support their science. The instructors prioritize creating a friendly environment for learning to empower researchers and enable data driven discovery
 
@@ -38,6 +38,7 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 * **Dates**: June 16, 2022 (12:00 - 5:00 PM), June 17, 2022 (9:00 am - 5:00 PM)
 * **Location**: to be announced soon
+* **Workshop Curriculum Webpage**: In Development
 * **Registration**: Reserve a spot by clicking  [HERE](https://forms.gle/9H6LVk1mkQPNj9hQ9). Spots are limited! 
 
 
@@ -45,8 +46,11 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 * **Dates**:  Monday June 27th (8:30am-12:30pm) and Tuesday June 28th (9:00 am - 4:30 pm)
 * **Location**: In person on Chico State Campus (Holt 111).
-* **Registration**: [[Register here]](https://forms.gle/g26QTxUqZARzeM2cA)
-* **Workshop Webpage**: In Development
+* **Workshop Curriculum Webpage**: In Development
+
+<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Link to apply" src="/img/workshops/register_button.png" width="20%" style="display: block; margin: auto;"/></a>
+
+
 
 ---
 

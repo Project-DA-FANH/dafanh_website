@@ -16,5 +16,10 @@
 }
 
 ul.customers img {
-  max-height: 100px
+  max-height: 130px
+}
+
+hr {
+    height: 5px;
+    background-color: #00cc99;
 }

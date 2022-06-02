@@ -46,9 +46,15 @@ paginate = 10
     parent     = "menu.students"
 
 [[menu.main]]
+    name       = "Internship"
+    url        = "/internship"
+    weight     = 2
+    parent     = "menu.students"
+    
+[[menu.main]]
     name       = "Fellowship"
     url        = "/fellowship"
-    weight     = 2
+    weight     = 3
     parent     = "menu.students"
 
 

@@ -3,9 +3,9 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
+> The application period has closed and a student selected. Return to this page later to learn about and follow the progress of our student fellow.
+
 # Purpose 
-=======
-<a href="https://forms.gle/eiVWnuzasQ4XgwD17"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
 
 This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
 
