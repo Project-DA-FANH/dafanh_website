@@ -73,7 +73,7 @@ title: "Our Team"
 
 <br><br>
 
-## Carpentry Instructors
+## [Carpentry Instructors](#carpentry-team)
 
 Carpentry Instructors are the core of our community. Instructors organize and teach Carpentry workshops to spread data literacy and programmatic skills both locally and globally. Members of our Instructor community work together to actively grow their instructional and technical skills. 
 
