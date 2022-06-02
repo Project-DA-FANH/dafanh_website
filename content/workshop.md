@@ -7,13 +7,13 @@ title: "Be the boss of your data"
 
 
 <div class="container">
-    <img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 50%; height: 50%"/>
-    <p>Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. [Meet the instructor team](/team/)</p>
+    <img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 40%; height: 40%"/>
+    <p> <br> Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <a href="/team/#carpentry-team">Meet the instructor team</a></p>
 </div>
 
 
 
-# June 2022 Undergraduate & graduate research participants
+# June 2022 - For Undergraduate & Graduate Summer Researchers
 
 The target audience are learners who have little to no prior computational experience but want to learn how to use data to support their science. The instructors prioritize creating a friendly environment for learning to empower researchers and enable data driven discovery
 
@@ -48,13 +48,13 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 * **Location**: In person on Chico State Campus (Holt 111).
 * **Workshop Curriculum Webpage**: In Development
 
-<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Link to apply" src="/img/workshops/register_button.png" width="20%" style="display: block; margin: auto;"/></a>
+<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Link to apply" src="/img/workshops/register_button.png" width="20%" style="display: block; margin: auto; float:left"/></a>
 
 
 
 ---
 
-# August 2022 - Faculty, staff and Graduate students
+# August 2022 - For Faculty, staff and Graduate students
 
 * **Dates**:  1-2 weeks before fall semester
 * **Location**: Online and in person at both CSU Chico and CSU San Bernardino
@@ -63,10 +63,9 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ---
 
-# January 2023 - Faculty, staff and Graduate students
+# January 2023 - For Faculty, staff and Graduate students
 
 
-
-<img src="static/img/workshops/past_workshop_banner.png" alt="Past workshops listed below here" />
+<img src="img/workshops/past_workshop_banner.png" alt="Past workshops listed below here" />
 
 * 2022-01-13: Data Carpentry for Enhancing Teaching and Research using R [curriculum website](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
