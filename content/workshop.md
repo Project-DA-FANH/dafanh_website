@@ -7,9 +7,8 @@ title: "Be the boss of your data"
 
 
 <div class="container">
-    <img src="https://datacarpentry.org/images//DC_room3.jpg" class="myImage" alt="Alt Text" />
-    <h1>Heading</h1>
-    <p>Paragraph text</p>
+    <img src="https://datacarpentry.org/images//DC_room3.jpg" class="myImage" alt="Alt Text" width="500" height="600"/>
+    <p>Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. [Meet the instructor team](/team/)</p>
 </div>
 
     
@@ -61,7 +60,6 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 ---
 
 # January 2023 - Faculty, staff and Graduate students
-
 
 
 
