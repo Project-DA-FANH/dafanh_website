@@ -13,7 +13,7 @@ title: "Be the boss of your data"
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
     vertical-align="middle" text-align="top" width="70%" height="70%"/></div>
   <div class="col-sm-4"><img src="/img/workshops/DC1_logo_300wd.png" alt="The Data Carpentry Logo"  
-    vertical-align="middle" text-align="center"  width="70%" height="70%"/></div>
+    vertical-align="middle" text-align="center"  width="60%" height="60%"/></div>
   <div class="col-sm-4"><img src="/img/workshops/lc_logo_300wd.png" alt="The Library Carpentry Logo"
   vertical-align="middle" text-align="center" width="70%" height="70%"/></div>
 </div> 
@@ -71,7 +71,6 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ## Coming Soon
 
-Interested in participating in an upcoming training? Fill out the RSVP form and we'll contact you when our next workshop opens. 
 
  <div class="row row-no-gutters">
   <div class="col-sm-6">
@@ -84,7 +83,7 @@ Interested in participating in an upcoming training? Fill out the RSVP form and 
   <div class="col-sm-6">
     <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" 
         src="/img/workshops/rsvp.png" 
-        width="100%" align="right" />
+        width="50%" align="right" />
     </a>
   </div>
 </div> 
