@@ -3,9 +3,6 @@ title: "Be the boss of your data"
 #banner: img/logo/usda-logo-color.png
 ---
 
-> Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. [Meet the instructor team](/team/). 
-
-
 <div class="container">
     <img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 30%; height: 30%"/>
     <p> <br><br><br> Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <a href="/team/#carpentry-team">Meet the instructor team</a></p>
@@ -44,7 +41,7 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 #### Chico State
 
-<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Register for Chico's workshop now" src="/img/workshops/register_button.png" width="20%" style="display: block; margin: auto; align:left"/></a>
+<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Register for Chico's workshop now" src="/img/workshops/register_button.png" width="20%" align="left" /></a>
 
 * **Dates**:  Monday June 27th (8:30am-12:30pm) and Tuesday June 28th (9:00 am - 4:30 pm)
 * **Location**: In person on Chico State Campus (Holt 111).
@@ -65,6 +62,6 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 # January 2023 - For Faculty, staff and Graduate students
 
 
-<img src="img/workshops/past_workshop_banner.png" alt="Past workshops listed below here" />
+<img src="/img/workshops/past_workshop_banner.png" alt="Past workshops listed below here" width="80%"  />
 
 * 2022-01-13: Data Carpentry for Enhancing Teaching and Research using R [[Curriculum website]](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
