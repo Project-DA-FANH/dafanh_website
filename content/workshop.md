@@ -11,23 +11,14 @@ title: "Be the boss of your data"
 
 <div class="row">
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
-    vertical-align="middle" text-align="center" /></div>
+    vertical-align="middle" text-align="top" width="70%" height="70%"/></div>
   <div class="col-sm-4"><img src="/img/workshops/DC1_logo_300wd.png" alt="The Data Carpentry Logo"  
-    vertical-align="middle" text-align="center" /></div>
+    vertical-align="middle" text-align="center"  width="70%" height="70%"/></div>
   <div class="col-sm-4"><img src="/img/workshops/lc_logo_300wd.png" alt="The Library Carpentry Logo"
-  vertical-align="middle" text-align="center"/></div>
+  vertical-align="middle" text-align="center" width="70%" height="70%"/></div>
 </div> 
 
 <br>
-
-<img src="/img/workshops/swc_blue.png" style="float: left; width: 30%; 
-margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/DC1_logo_300wd.png" style="float: middle; width: 30%; 
-margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/lc_logo_300wd.png" style="float: right; width: 30%; 
-margin-right: 1%; margin-bottom: 0.5em;">
-
-
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
 * [Data Carpentry](https://datacarpentry.org/) teaches the introductory computational skills needed for data management and analysis in all domains of research. These lessons are domain-specific, and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research.
@@ -83,15 +74,17 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 
  <div class="row row-no-gutters">
-  <div class="col-sm-4">
-  * August 2022 - For Faculty, staff and Graduate students
-  * January 2023 - For Faculty, staff and Graduate students
-  * Summer 2023 - For Undergraduate & Graduate Summer Researchers
-  </div>
   <div class="col-sm-8">
+    <ul>
+      <li>August 2022 - For Faculty, staff and Graduate students</li>
+      <li>January 2023 - For Faculty, staff and Graduate students</li>
+      <li>Summer 2023 - For Undergraduate & Graduate Summer Researchers</li>
+    </ul> 
+  </div>
+  <div class="col-sm-4">
     <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" 
         src="/img/workshops/rsvp.png" 
-        width="20%" align="right" hspace="50" vspace = "50" />
+        width="50%" align="right" hspace="50" vspace = "50" />
     </a>
   </div>
 </div> 
