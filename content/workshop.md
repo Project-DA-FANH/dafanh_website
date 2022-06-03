@@ -10,9 +10,12 @@ title: "Be the boss of your data"
 [The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified [Carpentry instructors](https://carpentries.org/instructors/) and 4 more in training. We offer the following three lesson programs: 
 
 <div class="row">
-  <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/DC1_logo.png" alt="The Data Carpentry Logo"/ width="50%" height="50%"></div>
-  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="70%" height="70%"></div>
+  <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
+    vertical-align="middle" text-align="center" ></div>
+  <div class="col-sm-4"><img src="/img/workshops/DC1_logo.png" alt="The Data Carpentry Logo"  
+    width="50%" height="50%" vertical-align="middle" text-align="center" ></div>
+  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo"
+  vertical-align="middle" text-align="center" width="70%" height="70%"></div>
 </div> 
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
@@ -79,8 +82,8 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 ----
 
 <p class="aligncenter">
-    <img src=/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-    width = "50%/>
+    <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
+    width = "50%"/>
 </p>
 
 
