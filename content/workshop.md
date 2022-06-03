@@ -70,14 +70,11 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ## Coming Soon
 
-### August 2022 - For Faculty, staff and Graduate students
+<a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="Link to apply" src="/img/workshops/rsvp.png" width="10%" align="right" hspace="50" vspace = "50" /></a>
 
-* **Dates**:  1-2 weeks before fall semester
-* **Location**: Online and in person at both CSU Chico and CSU San Bernardino
-* **Registration**: TBD
-* **Workshop Webpage**: TBD
-
-### January 2023 - For Faculty, staff and Graduate students
+* August 2022 - For Faculty, staff and Graduate students
+* January 2023 - For Faculty, staff and Graduate students
+* Summer 2023 - For Undergraduate & Graduate Summer Researchers
 
 ----
 
