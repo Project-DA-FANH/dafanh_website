@@ -18,7 +18,6 @@ title: "Be the boss of your data"
   vertical-align="middle" text-align="center" width="70%" height="70%"/></div>
 </div> 
 
-<br>
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
 * [Data Carpentry](https://datacarpentry.org/) teaches the introductory computational skills needed for data management and analysis in all domains of research. These lessons are domain-specific, and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research.
@@ -72,19 +71,20 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ## Coming Soon
 
+Interested in participating in an upcoming training? Fill out the RSVP form and we'll contact you when our next workshop opens. 
 
  <div class="row row-no-gutters">
-  <div class="col-sm-8">
+  <div class="col-sm-6">
     <ul>
       <li>August 2022 - For Faculty, staff and Graduate students</li>
       <li>January 2023 - For Faculty, staff and Graduate students</li>
       <li>Summer 2023 - For Undergraduate & Graduate Summer Researchers</li>
     </ul> 
   </div>
-  <div class="col-sm-4">
+  <div class="col-sm-6">
     <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" 
         src="/img/workshops/rsvp.png" 
-        width="50%" align="right" hspace="50" vspace = "50" />
+        width="100%" align="right" />
     </a>
   </div>
 </div> 
