@@ -55,16 +55,15 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 * **Dates**: June 16, 2022 (12:00 - 5:00 PM), June 17, 2022 (9:00 am - 5:00 PM)
 * **Location**: to be announced soon
 * **Workshop Curriculum Webpage**: In Development
-* **Registration**: Reserve a spot by clicking  [HERE](https://forms.gle/9H6LVk1mkQPNj9hQ9). Spots are limited! 
+* **Registration**: Reserve a spot by clicking [HERE](https://forms.gle/9H6LVk1mkQPNj9hQ9)
 
 
 #### Chico State
 
-<a href="https://forms.gle/UUdcsVcJG7kZYGpw9"> <img alt="Register for Chico's workshop now" src="/img/workshops/register_button.png" width="20%" align="left" hspace="50" /></a>
-
 * **Dates**:  Monday June 27th (8:30am-12:30pm) and Tuesday June 28th (9:00 am - 4:30 pm)
-* **Location**: In person on Chico State Campus (Holt 111).
+* **Location**: In person on Chico State Campus (Holt 111)
 * **Workshop Curriculum Webpage**: In Development
+* **Registration**: Reserve a spot by clicking [HERE](https://forms.gle/UUdcsVcJG7kZYGpw9)
 
 
 ---
@@ -81,9 +80,10 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
     </ul> 
   </div>
   <div class="col-sm-6">
-    <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" 
-        src="/img/workshops/rsvp.png" 
-        width="50%" align="right" />
+    <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> 
+    <img alt="RSVP link" 
+         src="/img/workshops/rsvp.png" 
+         width="50%" align="left" />
     </a>
   </div>
 </div> 
