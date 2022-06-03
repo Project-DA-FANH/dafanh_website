@@ -9,7 +9,7 @@ tags: []
 ---
 
 
-<img alt="Link to apply" src="img/blog/data_gov.png" width="50%" style="display: block; margin: auto;"/>
+<img alt="Data to Knowlege to Action" src="data_gov.png" width="50%" style="display: block; margin: auto;"/>
 
 
 #### 4 Reasons why understanding data is key
