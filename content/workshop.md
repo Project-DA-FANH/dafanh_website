@@ -12,7 +12,7 @@ title: "Be the boss of your data"
 <div class="row">
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
   <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo"></div>
+  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="50%" height="50%"></div>
 </div> 
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
@@ -78,4 +78,4 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
      width="70%" align="middle"/>
 
-* 2022-01-13: Data Carpentry for Enhancing Teaching and Research using R [[Curriculum website]](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
+* 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
