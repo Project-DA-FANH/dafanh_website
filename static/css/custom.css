@@ -14,3 +14,16 @@
 .box-simple {
     min-height: 230px;
 }
+
+ul.customers img {
+  max-height: 130px
+}
+
+hr {
+    height: 5px;
+    background-color: #00cc99;
+}
+
+.aligncenter {
+    text-align: center;
+}
