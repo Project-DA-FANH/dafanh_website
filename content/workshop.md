@@ -5,21 +5,27 @@ title: "Be the boss of your data"
 
 <br>
 
-# Our Data Carpentry Workshops
+# Our Carpentry Workshops
 
-[Data Carpentry's](https://datacarpentry.org/) focus is on the introductory computational skills needed for data management and analysis in all domains of research. Our lessons are domain-specific, and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research. Our initial target audience is learners who have little to no prior computational experience. We create a friendly environment for learning to empower researchers and enable data driven discovery. 
-
-<br>
+[The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified Carpentry instructors and 4 more in training. We offer the following three lesson programs: 
 
 <div class="row">
-  <div class="col-sm-3"><img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Image of a Data Carpentry Workshop"/></div>
-  <div class="col-sm-6">Project DA-FANH's goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <p>
-  <a href="/team/#carpentry-team">Meet our instructor team</a></div>
-  <div class="col-sm-3"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
+  <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
+  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
+  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo"></div>
 </div> 
+
+* [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
+* [Data Carpentry](https://datacarpentry.org/) teaches the introductory computational skills needed for data management and analysis in all domains of research. These lessons are domain-specific, and build on the existing knowledge of learners to enable them to quickly apply skills learned to their own research.
+* [Library Carpentry](https://librarycarpentry.org/) teach software and data skills for people working in library and information-related roles. Our shared goal is to empower people to use software and data in their own work and to become advocates for and train others in efficient, effective and reproducible data and software practices.
+
+
+Our initial target audience is learners who have little to no prior computational experience. We create a friendly environment for learning to empower researchers and enable data driven discovery. 
+
 
 <br>
 
+---
 
 ## June 2022 - For Undergraduate & Graduate Summer Researchers
 
@@ -70,6 +76,6 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 
 <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-     width="70%"/>
+     width="70%" align="middle"/>
 
 * 2022-01-13: Data Carpentry for Enhancing Teaching and Research using R [[Curriculum website]](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
