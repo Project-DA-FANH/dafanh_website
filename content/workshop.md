@@ -10,11 +10,11 @@ title: "Be the boss of your data"
 [The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified [Carpentry instructors](https://carpentries.org/instructors/) and 4 more in training. We offer the following three lesson programs: 
 
 <div class="row">
-  <div class="col3"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
+  <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
     vertical-align="middle" text-align="center" /></div>
-  <div class="col3"><img src="/img/workshops/DC1_logo_300wd.png" alt="The Data Carpentry Logo"  
+  <div class="col-sm-4"><img src="/img/workshops/DC1_logo_300wd.png" alt="The Data Carpentry Logo"  
     vertical-align="middle" text-align="center" /></div>
-  <div class="col3"><img src="/img/workshops/lc_logo_300wd.png" alt="The Library Carpentry Logo"
+  <div class="col-sm-4"><img src="/img/workshops/lc_logo_300wd.png" alt="The Library Carpentry Logo"
   vertical-align="middle" text-align="center"/></div>
 </div> 
 
@@ -22,9 +22,9 @@ title: "Be the boss of your data"
 
 <img src="/img/workshops/swc_blue.png" style="float: left; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/DC1_logo_300wd.png" style="float: left; width: 30%; 
+<img src="/img/workshops/DC1_logo_300wd.png" style="float: middle; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/lc_logo_300wd.png" style="float: left; width: 30%; 
+<img src="/img/workshops/lc_logo_300wd.png" style="float: right; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
 
 
@@ -81,18 +81,24 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ## Coming Soon
 
-* August 2022 - For Faculty, staff and Graduate students
-* January 2023 - For Faculty, staff and Graduate students
-* Summer 2023 - For Undergraduate & Graduate Summer Researchers
 
-<a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" src="/img/workshops/rsvp.png" width="20%" align="right" hspace="50" vspace = "50" /></a>
+ <div class="row row-no-gutters">
+  <div class="col-sm-4">
+  * August 2022 - For Faculty, staff and Graduate students
+  * January 2023 - For Faculty, staff and Graduate students
+  * Summer 2023 - For Undergraduate & Graduate Summer Researchers
+  </div>
+  <div class="col-sm-8">
+    <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> <img alt="RSVP link" 
+        src="/img/workshops/rsvp.png" 
+        width="20%" align="right" hspace="50" vspace = "50" />
+    </a>
+  </div>
+</div> 
 
 ----
 
-<p class="aligncenter">
-    <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-    width = "50%"/>
-</p>
+## Past Workshops
 
 
 * 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
