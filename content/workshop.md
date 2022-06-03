@@ -78,7 +78,10 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ----
 
-<img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-     width="50%" align="middle"/>
+<p class="aligncenter">
+    <img src=/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
+    width = "50%/>
+</p>
+
 
 * 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
