@@ -11,8 +11,8 @@ title: "Be the boss of your data"
 
 <div class="row">
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="50%" height="50%"></div>
+  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/ width="90%" height="90%"></div>
+  <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="70%" height="70%"></div>
 </div> 
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
