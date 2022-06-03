@@ -12,23 +12,21 @@ title: "Be the boss of your data"
 <div class="row">
   <div class="col3"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"
     vertical-align="middle" text-align="center" /></div>
-  <div class="col3"><img src="/img/workshops/DC1_logo.png" alt="The Data Carpentry Logo"  
-    width="50%" height="50%" vertical-align="middle" text-align="center" /></div>
-  <div class="col3"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo"
-  vertical-align="middle" text-align="center" width="70%" height="70%" /></div>
+  <div class="col3"><img src="/img/workshops/DC1_logo_300wd.png" alt="The Data Carpentry Logo"  
+    vertical-align="middle" text-align="center" /></div>
+  <div class="col3"><img src="/img/workshops/lc_logo_300wd.png" alt="The Library Carpentry Logo"
+  vertical-align="middle" text-align="center"/></div>
 </div> 
 
 <br>
 
 <img src="/img/workshops/swc_blue.png" style="float: left; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/DC1_logo.png" style="float: left; width: 30%; 
+<img src="/img/workshops/DC1_logo_300wd.png" style="float: left; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/img/workshops/lc_logo.png" style="float: left; width: 30%; 
+<img src="/img/workshops/lc_logo_300wd.png" style="float: left; width: 30%; 
 margin-right: 1%; margin-bottom: 0.5em;">
 
-
-<p style="clear: both;">
 
 
 * [Software Carpentry](https://software-carpentry.org) teaches researchers the computing skills they need to get more done in less time and with less pain. These workshops teach three core topics: the Unix shell, version control with Git, and a programming language (Python or R).
