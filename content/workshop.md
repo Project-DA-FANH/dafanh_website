@@ -11,7 +11,7 @@ title: "Be the boss of your data"
 
 <div class="row">
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/ width="50%" height="50%"></div>
+  <div class="col-sm-4"><img src="/img/workshops/DC1_logo.png" alt="The Data Carpentry Logo"/ width="50%" height="50%"></div>
   <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="70%" height="70%"></div>
 </div> 
 
@@ -65,17 +65,20 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 ---
 
-## August 2022 - For Faculty, staff and Graduate students
+## Coming Soon
+
+### August 2022 - For Faculty, staff and Graduate students
 
 * **Dates**:  1-2 weeks before fall semester
 * **Location**: Online and in person at both CSU Chico and CSU San Bernardino
 * **Registration**: TBD
 * **Workshop Webpage**: TBD
 
-## January 2023 - For Faculty, staff and Graduate students
+### January 2023 - For Faculty, staff and Graduate students
 
+----
 
 <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-     width="70%" align="middle"/>
+     width="50%" align="middle"/>
 
 * 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
