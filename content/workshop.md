@@ -7,11 +7,11 @@ title: "Be the boss of your data"
 
 # Our Carpentry Workshops
 
-[The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified Carpentry instructors and 4 more in training. We offer the following three lesson programs: 
+[The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified [Carpentry instructors](https://carpentries.org/instructors/) and 4 more in training. We offer the following three lesson programs: 
 
 <div class="row">
   <div class="col-sm-4"><img src="/img/workshops/swc_blue.png" alt="The Software Carpentry Logo"/></div>
-  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/ width="90%" height="90%"></div>
+  <div class="col-sm-4"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/ width="50%" height="50%"></div>
   <div class="col-sm-4"><img src="/img/workshops/lc_logo.png" alt="The Library Carpentry Logo" width="70%" height="70%"></div>
 </div> 
 
