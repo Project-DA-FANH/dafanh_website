@@ -12,10 +12,10 @@ title: "Be the boss of your data"
 <br>
 
 <div class="row">
-  <div class="col-sm-3"><img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Image of a Data Carpentry Workshop" width = "50%" height = "50%"/></div>
+  <div class="col-sm-3"><img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Image of a Data Carpentry Workshop"/></div>
   <div class="col-sm-6">Project DA-FANH's goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <p>
   <a href="/team/#carpentry-team">Meet our instructor team</a></div>
-  <div class="col-sm-3"><img src="img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
+  <div class="col-sm-3"><img src="/img/workshops/dc-hex.png" alt="The Data Carpentry Logo"/></div>
 </div> 
 
 <br>
@@ -66,12 +66,10 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 * **Registration**: TBD
 * **Workshop Webpage**: TBD
 
----
-
 ## January 2023 - For Faculty, staff and Graduate students
 
 
 <img src="/img/workshops/past_workshops_banner.png" alt="Past workshops listed below here" 
-     width="60%" align="center"/>
+     width="70%"/>
 
 * 2022-01-13: Data Carpentry for Enhancing Teaching and Research using R [[Curriculum website]](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
