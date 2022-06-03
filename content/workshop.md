@@ -3,15 +3,10 @@ title: "Be the boss of your data"
 #banner: img/logo/usda-logo-color.png
 ---
 
-<div class="container">
-    <img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 30%; height: 30%"/>
-    <p> <br><br><br> Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <a href="/team/#carpentry-team">Meet the instructor team</a></p>
-</div>
-
- <div class="row">
-  <div class="col-sm-3">.col-sm-3</div>
-  <div class="col-sm-6">.col-sm-6</div>
-  <div class="col-sm-3">.col-sm-3</div>
+<div class="row">
+  <div class="col-sm-3"><img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 30%; height: 30%"/></div>
+  <div class="col-sm-6">Our goal is to build and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. <a href="/team/#carpentry-team">Meet the instructor team</a></div>
+  <div class="col-sm-3"><img src="https://datacarpentry.org/images//DC_room3.jpg" alt="Alt Text" style="float:right; width: 30%; height: 30%"/></div>
 </div> 
 
 
