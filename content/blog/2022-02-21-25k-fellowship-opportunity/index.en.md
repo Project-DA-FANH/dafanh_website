@@ -1,5 +1,5 @@
 ---
-banner: img/logo/usda-logo-color.png
+banner: img/logo/Tagline_color.png
 title: $25k Fellowship opportunity
 author: Robin Donatello
 date: '2022-02-21'

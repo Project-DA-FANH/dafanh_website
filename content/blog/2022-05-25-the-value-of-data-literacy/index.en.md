@@ -4,11 +4,11 @@ title: The Value of Data Literacy
 author: Tehama Group Communications
 date: '2022-05-25'
 slug: the-value-of-data-literacy
-categories: []
-tags: []
+categories: [education]
+tags: [data]
 ---
 
-<img alt="Data to Knowlege to Action" src="data_gov.png" width="50%" style="display: block; margin: auto;"/>
+<img alt="Data to Knowledge to Action" src="data_gov.png" width="50%" style="display: block; margin: auto;"/>
 
 ## 4 Reasons why understanding data is key
 
