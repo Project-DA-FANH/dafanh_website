@@ -61,8 +61,9 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 #### Chico State
 
 * **Dates**:  Monday June 27th (8:30am-12:30pm) and Tuesday June 28th (9:00 am - 4:30 pm)
-* **Location**: In person on Chico State Campus (Holt 111)
-* **Workshop Curriculum Webpage**: In Development
+    * Room open at 30 minutes prior for technical assistance
+* **Location**: In person on Chico State Campus (Holt 257)
+* **Workshop Curriculum Webpage**: https://project-da-fanh.github.io/2022-06-27-csuc/
 * **Registration**: Reserve a spot by clicking [HERE](https://forms.gle/UUdcsVcJG7kZYGpw9)
 
 
