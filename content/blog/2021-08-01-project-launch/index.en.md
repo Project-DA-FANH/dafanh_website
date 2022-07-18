@@ -32,6 +32,6 @@ California State University, Chico
 rdonatello@csuchico.edu  
 
 Dr. Essia Hamouda  
-Assistant Professor of Information and Decision Sciences   
+Associate Professor of Information and Decision Sciences   
 California State University, San Bernardino  
 ehamouda@csusb.edu   

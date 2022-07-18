@@ -6,7 +6,6 @@ date: '2022-07-11'
 slug: grants-and-scholarships
 categories: []
 tags: []
-draft: TRUE
 ---
 
 # Grants and Scholarships Help Students: Here’s Why
