@@ -29,11 +29,43 @@ Our initial target audience is learners who have little to no prior computationa
 
 <br>
 
+
+---
+
+## August 2022 - For Faculty, Staff & Graduate Students
+
+This workshop is a joint effort between CSU San Bernardino and Chico State. It is intended for faculty, staff and graduate students interested in enhancing their teaching and research.
+This workshop will be hybrid and in person (room TBD)
+
+<!--The 2 day curriculum is provided in the [workshop website](https://project-da-fanh.github.io/2022-08-08-dafanh-online/)-->
+
+
+Refreshments will be provided throughout both days for in person attendees.
+
+
+
+
+* **Dates**:  Monday August 8th (9:00am-4:30pm) and Tuesday August 9th (9:00 am - 4:30 pm)
+    * Room opens at 30 minutes prior for technical assistance
+* **Location**: 
+    - In person on Chico State Campus (TBD)
+    - On zoom on CSU San Bernardino Campus. A zoom link will be emailed to you upon registration
+* [Workshop Curriculum Webpage]( https://project-da-fanh.github.io/2022-08-08-dafanh-online/)
+* **Registration**: Reserve a spot by visiting the [Workshop Webpage]( https://project-da-fanh.github.io/2022-08-08-dafanh-online/)
+<!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
+
+
+
+
+
+
+
+
 ---
 
 ## June 2022 - For Undergraduate & Graduate Summer Researchers
 
-These workshops are _free_ to anyone involved in the summer research programs (such as CSC2 or Adelante at Chico State)
+These workshops are _free_ to anyone involved in the summer research programs (such as CSC2 or Adelante at Chico State and OSR at CSU San Bernardino)
 
 The 1.5 day curriculum will include:
 
@@ -50,7 +82,7 @@ Refreshments will be provided throughout the day on Day 2.
 
 
 #### CSU San Bernardino
-See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
+See our workshop [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 
 * **Dates**: June 16, 2022 (12:00 - 5:00 PM), June 17, 2022 (9:00 am - 5:00 PM)
 * **Location**: to be announced soon
@@ -75,7 +107,6 @@ See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
  <div class="row row-no-gutters">
   <div class="col-sm-6">
     <ul>
-      <li>August 2022 - For Faculty, staff and Graduate students</li>
       <li>January 2023 - For Faculty, staff and Graduate students</li>
       <li>Summer 2023 - For Undergraduate & Graduate Summer Researchers</li>
     </ul> 

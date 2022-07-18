@@ -40,9 +40,9 @@ title: "Our Team"
   <td>
     <a href="https://www.csusb.edu/profile/essia.hamouda"><strong>Dr. Essia Hamouda, PhD</strong></a><br>
     <strong>San Bernardino</strong><br> 
-    <strong>Contact:</strong> essia.hamouda@csusb.edu
+    <strong>Contact:</strong> ehamouda@csusb.edu
   </td>
-  <td>Dr. Essia Hamouda was born in Tunisia. She is assistant Professor of Information and Decision Sciences at California State San Bernardino. Essia moved to the USA when she was seventeen to pursue an engineering degree and has visited over twenty countries outside the USA. During her free time, Essia enjoys traveling, hiking and spending time with family and friends. </td>
+  <td>Dr. Essia Hamouda was born in Tunisia and moved to the USA to pursue an engineering degree. Currently, she is an Associate Professor of Information and Decision Sciences at California State University San Bernardino. During her free time, Essia enjoys traveling, hiking and spending time with family and friends. </td>
 </tr>
 </table>
 
