@@ -6,7 +6,6 @@ date: '2022-08-01'
 slug: women-in-data
 categories: []
 tags: []
-draft: true
 ---
 
 # Women in Data
@@ -21,3 +20,26 @@ While it is clear there is a huge amount of progress to be made for women in dat
 Another positive statistic regarding women in data is the diversity among women subgenre. The 2020 NCWIT report found that women in the computing workforce are more ethnically and racially diverse than men in the field. There is a higher percentage of women who are African American, Black and Asian holding computing roles than men. 
 
 Overall, gender and ethnic diversity in the workplace are extremely important in reducing bias and making a difference in the field. A study done by Columbia University shows us that diversity in the workplace can even improve quality of the work produced – and while diversity reduces bias, it also leads to higher innovation revenue, according to an earlier study from BCG. According to this same study, 73 percent of women entering the data science and machine learning field prioritize tangible impact in their career choice, compared to 50 percent of men. This statistic, along with many more, is a perfect example of why we need to prioritize and recruit women in data – simply put, they have the initiative to change the world.
+
+
+## Other references for Women in Data Groups
+
+* [Black Women in Data](https://twitter.com/BlkWomenInData) 
+* [Women in Data](https://www.womenindata.org/)
+* [Girls who code](https://girlswhocode.com/)
+* [Women in Data Science](https://www.widsconference.org/)
+* [R Ladies Global](https://rladies.org/)
+
+Also check out the people and organizations we follow on our [@calstate_dafanh](https://twitter.com/calstate_dafanh) Twitter. Lots of good sharable stories and resources!
+
+
+----
+
+**About the Author**  
+Emma Mitchell is an Assistant Account Executive for the Tehama Group Communications
+Department of Journalism & Public Relations
+California State University, Chico
+E-mail: tehamagroup@csuchico.edu
+Web: http://tehamagrouppr.com/
+
+
