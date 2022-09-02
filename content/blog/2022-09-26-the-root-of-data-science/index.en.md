@@ -2,11 +2,10 @@
 banner: img/blog/rootdata.png
 title: The Root of Data Science
 author: Emma Mitchell
-date: '2022-09-26'
+date: '2022-09-02'
 slug: the-root-of-data-science
 categories: []
 tags: []
-draft: TRUE
 ---
 
 # The Root of Data Science
@@ -24,3 +23,6 @@ In 1928, Fritz Pfleumer, invented a method of storing information magnetically o
 
 Each decade since the early 1900’s has brought immense progression in the world of modern data science. Today, it is truly an enterprise that generates billions of dollars, creating millions of careers and essentially powering our entire world. While it can be hard to remember or even understand its roots, data science has come a long way thanks to the early inventors and civilizations that molded its path.
 
+----
+
+This contributed blog post was written by students from the [Tehama Group Communications](http://tehamagrouppr.com/). 

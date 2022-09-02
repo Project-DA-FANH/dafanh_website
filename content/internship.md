@@ -2,9 +2,11 @@
 title: "Applied Research Internship"
 ---
 
+<!---
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
+--->
 
-> PRIORITY APPLICATION DEADLINE: 5pm on July 8th, 2022
+> Application period for Fall 2022 cohort is now closed. 
 
 
 # Overview 

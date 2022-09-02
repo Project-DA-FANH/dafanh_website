@@ -234,9 +234,15 @@ paginate = 10
     parent     = "menu.about"
 
 [[menu.main]]
+    name       = "Timeline of Activities"
+    url        = "/timeline/"
+    weight     = 2
+    parent     = "menu.about"
+    
+[[menu.main]]
     name       = "Our Team"
     url        = "/team/"
-    weight     = 2
+    weight     = 3
     parent     = "menu.about"
 
 #[[menu.main]]
