@@ -3,9 +3,11 @@ description: Career Connection
 title: "Career Connection"
 ---
 
+Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
+
 ## September: Mariby Cruz  
 
-<img src="AMA_images/Mariby IG.png" alt="Picture of Mariby Cruz sitting on steps looking at the camera" width="500" height="600"> 
+<img src="/img/AMA/Mariby IG.png" alt="Picture of Mariby Cruz sitting on steps looking at the camera" width="500" height="600" /> 
  
 * **Title**: Process Analyst I
 * **Company**: Quidel
