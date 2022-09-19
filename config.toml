@@ -38,23 +38,31 @@ paginate = 10
     identifier = "menu.students"
     url        = ""
     weight     = 3
-    
+
+
+[[menu.main]]
+    name       = "AMA Career Conversations"
+    url        = "/careers/"
+    weight     = 1
+    parent     = "menu.students"
+
+       
 [[menu.main]]
     name       = "Data Skills Workshops"
     url        = "/workshop/"
-    weight     = 1
+    weight     = 2
     parent     = "menu.students"
 
 [[menu.main]]
     name       = "Applied Research Internship"
     url        = "/internship"
-    weight     = 2
+    weight     = 3
     parent     = "menu.students"
-    
+
 [[menu.main]]
     name       = "Fellowship"
     url        = "/fellowship"
-    weight     = 3
+    weight     = 4
     parent     = "menu.students"
 
 
