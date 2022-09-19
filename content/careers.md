@@ -7,7 +7,7 @@ Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https
 
 ## September: Mariby Cruz  
 
-<img src="/img/AMA/Mariby IG.png" alt="Picture of Mariby Cruz sitting on steps looking at the camera" width="500" height="600" /> 
+<img src="/img/AMA/Mariby IG.png" alt="Picture of Mariby Cruz sitting on steps looking at the camera" width="250" height="250" /> 
  
 * **Title**: Process Analyst I
 * **Company**: Quidel
