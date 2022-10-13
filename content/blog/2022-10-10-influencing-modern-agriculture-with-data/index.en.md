@@ -6,7 +6,6 @@ date: '2022-10-10'
 slug: influencing-modern-agriculture-with-data
 categories: []
 tags: []
-draft: TRUE
 ---
 
 # Influencing Modern Agriculture with Data
