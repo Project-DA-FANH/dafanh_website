@@ -21,3 +21,9 @@ Improving management of the supply chain using modern data analytics is another 
 Lastly, and arguably the most important, modern science has allowed agribusinesses to track and work on reducing their waste in ways never seen before. Waste reduction is essential for businesses to remain profitable, and according to [Proagrica](https://proagrica.com/news/how-data-analytics-is-transforming-agriculture/), “through the incorporation of a data analytics strategy, agribusinesses gain the ability to answer sales-related questions through data from a single platform, creating the opportunity to make timely, evidence-based decisions. They also gain visibility of pricing, which allows for decisions to be made based on profitability. Additionally, the right analytics will uncover opportunities at the customer level and inform the sales team in order to increase market share.”
 
 Data is essential to every aspect of our society and continues to influence changes to the daily lives of people everywhere. Enterprises such as big science, medical care, businesses and even our central government would not be functioning bodies without statistics. While we see amazing progress thanks to data in the world of agriculture, an important next step would be to continue to implement these tools toward more action in saving our planet.
+
+
+----
+
+This contributed blog post was written by Emma Mitchell from the [Tehama Group Communications](http://tehamagrouppr.com/). 
+
