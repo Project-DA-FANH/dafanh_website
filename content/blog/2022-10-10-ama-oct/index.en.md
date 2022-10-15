@@ -1,5 +1,5 @@
 ---
-banner: img/blog/ANA_Zepeda.png
+banner: img/AMA/ANA_Zepeda.png
 title: October Career Conversations - Social Sciences + Agricultural issues = impactful research!
 author: Robin Donatello
 date: '2022-10-10'
