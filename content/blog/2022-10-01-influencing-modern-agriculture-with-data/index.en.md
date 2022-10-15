@@ -2,7 +2,7 @@
 banner: img/blog/modern_ag.png
 title: Influencing Modern Agriculture with Data
 author: Emma Mitchell
-date: '2022-10-10'
+date: '2022-10-01'
 slug: influencing-modern-agriculture-with-data
 categories: []
 tags: []
