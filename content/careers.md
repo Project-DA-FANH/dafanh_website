@@ -5,7 +5,7 @@ title: "Career Connection"
 
 Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
 
-## September: Ana Zepeda
+## October: Ana Zepeda
 <img src="/img/AMA/Ana_Zepeda.png" alt="Picture of Ana Zepeda" width="250" height="250" /> 
 
 * **Title**: PHD Student in Geography
