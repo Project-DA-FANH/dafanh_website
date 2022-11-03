@@ -5,6 +5,17 @@ title: "Career Connection"
 
 Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
 
+## November: Jeff Gonzalez 
+<img src="/img/AMA/Jeff_Gonzalez.png" alt="Picture of Jeff Gonzalez" width="250" height="250" />
+
+* **Title**: Director of the Mathematical Statistics Research Center in the Office of Survey Methods Research
+* **Company**: The U.S. Bureau of Labor Statistics
+* **Date & Time**: November 17, 12pm-1pm PST
+* **Room & Zoom**: Online Only. [Zoom link](https://csuchico.zoom.us/j/85150749923?pwd=MG52aUFaZzVaQlR0SmhTME5wQXhjQT09&from=addon) 
+* **Bio**: Jeffrey Gonzalez is the Director of the Mathematical Statistics Research Center in the Office of Survey Methods Research at the U.S. Bureau of Labor Statistics. He completed his Ph.D. in Survey Methodology at the University of Maryland in 2012, following a MS degree in Biostatistics at the University of Michigan and a Bachelor’s degree from the University of North Carolina. Jeff has over 15 years of service in the Federal Statistical System, having recently been a Research Mathematical Statistician with the Economic Research Service at the USDA where he served as the technical lead for survey and data development for the Second National Food Acquisition and Purchase Survey as well as a Mathematical Statistician at the BLS from 2007 to 2019. His research interests include modular survey designs, responsive/adaptive designs, respondent burden, and nonresponse bias and in his free time enjoys spending time with his spouse their three cocker spaniels - Griffin, Winston, and Stirling - and enjoys traveling, marathoning, and non-competitive Cross Fitting. 
+
+<br><br>
+
 ## October: Ana Zepeda
 <img src="/img/AMA/Ana_Zepeda.png" alt="Picture of Ana Zepeda" width="250" height="250" /> 
 
