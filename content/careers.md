@@ -5,6 +5,18 @@ title: "Career Connection"
 
 Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
 
+
+## November: Natalia Cañas
+<img src="/img/AMA/Natalia_Canas.png" alt="Picture of Jeff Gonzalez" width="250" height="250" />
+
+* **Title**: Research and Policy Associate
+* **Company**: National Alliance for Hispanic Health
+* **Date & Time**: November 30, 12pm-1pm PST
+* **Room & Zoom**: Online Only. [Zoom link](https://csusb.zoom.us/j/83781639287) 
+* **Bio**: Natalia leads research efforts on the NIH All of Us Research Program at the National Alliance for Hispanic Health. She is part of a team working to understand the impact of COVID-19 on the Hispanic community using All of Us data. Additionally, she has conducted qualitative research with the Latinx community in Washington, D.C. and in Colombia with Venezuelan migrants. Additionally, she has written mixed-methods reports on COVID-19 perceptions among Hispanics throughout the U.S. for CDC grants. 
+
+<br><br>
+
 ## November: Jeff Gonzalez 
 <img src="/img/AMA/Jeff_Gonzalez.png" alt="Picture of Jeff Gonzalez" width="250" height="250" />
 
