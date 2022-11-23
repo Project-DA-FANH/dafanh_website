@@ -6,7 +6,6 @@ date: '2022-11-21'
 slug: scholarship-and-internship-opportunities
 categories: []
 tags: []
-draft: TRUE
 ---
 
 # Upcoming Scholarship and Internship Opportunities
