@@ -63,7 +63,7 @@ title: "Our Team"
 <tr>
   <td><img src="/img/project_staff/Christine.jpg" alt="Dr. Christine Hererra"/></td>
   <td>
-    <a href="https://www.norcalbiostat.com/"><strong>Dr. Christine Hererra, PhD</strong></a><br>
+    <a href="https://www.csuchico.edu/math/people/faculty/herrera-christine.shtml"><strong>Dr. Christine Hererra, PhD</strong></a><br>
     <strong>Pedagogy Specialist</strong><br> 
     <strong>Contact:</strong> caherrera@csuchico.edu
   </td>
@@ -91,16 +91,13 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.</td>
 </tr>
 <tr>
-  <td><img src="/img/project_staff/Rosie.jpg" alt="Rosie Diaz"/></td>
-  <td>
-    <a href=""><strong>Rosie Diaz</strong></a><br>
+  <td class=td.pic><img src="/img/project_staff/Rosie.jpg" alt="Rosie Diaz"/></td>
+  <td class=td.name>
+    <strong>Rosie Diaz</strong><br>
     <strong>Undergraduate Student Fellow</strong><br> 
-    <strong>Contact:rediazsierra@csuchico.edu</strong> 
+    <strong>Contact:</strong> rediazsierra@csuchico.edu
   </td>
-  <td>Rosie was born and raised in the Santa Maria Valley. While living there she
-developed a passion for agriculture and made it a goal to help farmers. She is
-currently an Agricultural Business student at CSU Chico. During her free time, she
-enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
+  <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
 </tr>
 </table>
 
