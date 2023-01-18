@@ -27,7 +27,7 @@ title: "Our Team"
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Robin.jpg" alt="Dr. Robin Donatello"/></td>
+  <td class=td.pic><img src="/img/project_staff/Robin2.jpg" alt="Dr. Robin Donatello"/></td>
   <td class=td.name>
     <a href="https://www.norcalbiostat.com/"><strong>Dr. Robin Donatello, DrPH</strong></a><br>
     <strong>Chico State</strong><br> 
