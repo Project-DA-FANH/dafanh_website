@@ -82,7 +82,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/isabel.jpg" alt="Isabel Ramos" /></td>
+  <td class=td.pic><img src="/img/project_staff/isabel2.jpg" alt="Isabel Ramos" /></td>
   <td class=td.name>
     <strong>Isabel Ramos</strong><br>
     <strong>Project Assistant</strong><br> 
@@ -91,7 +91,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.</td>
 </tr>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Rosie.jpg" alt="Rosie Diaz"/></td>
+  <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
   <td class=td.name>
     <strong>Rosie Diaz</strong><br>
     <strong>Undergraduate Student Fellow</strong><br> 
