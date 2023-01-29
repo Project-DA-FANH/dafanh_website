@@ -5,6 +5,16 @@ title: "Career Connection"
 
 Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
 
+## Feburary: Ricardo Aguilar
+<img src="/img/AMA/Ricardo_Aguilar.png" alt="Picture of Ricardo Aguilar" width="250" height="250" />
+
+* **Title**:  Research Computational Scientist I
+* **Company**: Children's Health of Orange County (CHOC)
+* **Date & Time**: Feburary 10, 12pm-12:45pm PST
+* **Room & Zoom**: Online Only. [Zoom link](https://csuchico.zoom.us/j/5808362949?pwd=U2tUTW9udjBqYS80bG11MWM1dUwrdz09&from=addon) 
+* **Bio**: Ricardo Aguilar is a graduate from the University of California, Los Angeles with a MS degree in Biostatistics. His academic research focused on identifying interaction terms in correlated, high-dimensional data using a feature selection machine learning algorithm. He has 5 years of experience as a statistical consultant where he gained experience in various areas of research such as life sciences, community health sciences, education, and agriculture. He is now a Research Computational Scientist I at Children's Health of Orange County (CHOC) where he supports research through project ideation, study design, data management, inferential statistics, statistical and machine learning model building, and manuscript writing. Additionally, he catalogs and investigates databases to expand the scope of research conducted at CHOC.
+
+<br><br>
 
 ## November: Natalia Cañas
 <img src="/img/AMA/Natalia_Canas.png" alt="Picture of Jeff Gonzalez" width="250" height="250" />
