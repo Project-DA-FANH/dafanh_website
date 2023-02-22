@@ -1,8 +1,8 @@
 ---
 banner: img/AMA/Sara_Bleich.png
-title: November Career Conversations - Nutrition Security and Health Equity at the USDA
+title: March Career Conversations - Nutrition Security and Health Equity at the USDA
 author: Isabel Ramos
-date: '2023-2-22'
+date: '2023-02-22'
 slug: ama-march
 categories: []
 tags: []

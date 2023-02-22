@@ -1,6 +1,6 @@
 ---
 banner: img/AMA/Ricardo_Aguilar.png
-title: November Career Conversations - Data to Advance Pediatric Care
+title: February Career Conversations - Data to Advance Pediatric Care
 author: Isabel Ramos
 date: '2023-01-29'
 slug: ama-feb

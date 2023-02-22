@@ -3,9 +3,7 @@ description: Career Connection
 title: "Career Connection"
 ---
 
-<a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/reg_button.png" alt="Registration button" /></a>
-
-<img src="/img/reg_button.png" alt="Registration button" />
+<a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/reg_button.png" alt="Registration button" width="500" height="250"/></a>
 
 
 ## March: Dr. Sara Bleich
