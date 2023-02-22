@@ -8,7 +8,7 @@ categories: []
 tags: []
 ---
 
-Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college? Our monthly "Ask me Anything" speaker series continues with Ricardo Aguilar. Come ask Ricardo about his journey to become a Research Computational Scientist I at Children's Health of Orange County and learn how he supports research through  project ideation, study design, data management, inferential statistics, statistical and machine learning model building, and manuscript writing to advance pediatric care.
+Happy Spring! We kick off February's "Ask me Anything" speaker series with Ricardo Aguilar, a Chico State Statistics Alumni now working to better the health of children.  Come ask Ricardo about his journey to become a Research Computational Scientist I at Children's Health of Orange County and learn how he supports research through  project ideation, study design, data management, inferential statistics, statistical and machine learning model building, and manuscript writing to advance pediatric care.
 
 > See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 
 

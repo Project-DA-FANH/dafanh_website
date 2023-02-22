@@ -3,7 +3,10 @@ description: Career Connection
 title: "Career Connection"
 ---
 
-Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
+<a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/reg_button.png" alt="Registration button" /></a>
+
+<img src="/img/reg_button.png" alt="Registration button" />
+
 
 ## March: Dr. Sara Bleich
 <img src="/img/AMA/Sara_Bleich.png" alt="Picture of Sara Bleich" width="250" height="250" />
