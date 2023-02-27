@@ -11,7 +11,7 @@ title: "Career Connection"
 
 * **Title**:  Director of Nutrition Security and Health Equity 
 * **Company**: Food and Nutrition Service at the U.S. Department of Agriculture (USDA)
-* **Date & Time**: March 7, 10am-11:00am PST
+* **Date & Time**: March 7, 11am-12:00noon PST
 * **Room & Zoom**: In person (STAR Center - MLIB 161) and Online. [Zoom link](https://csuchico.zoom.us/j/5808362949?pwd=U2tUTW9udjBqYS80bG11MWM1dUwrdz09&from=addon) 
 * **Bio**: Dr. Sara Bleich is the Director of Nutrition Security and Health Equity in the Food and Nutrition Service at the U.S. Department of Agriculture (USDA), after serving as the Senior Advisor for COVID-19 in the Office of the Secretary at USDA (2021). She is a policy expert and researcher who specializes in diet-related diseases, food insecurity and racial inequality with more than 175 peer-reviewed publications. She is on leave from her post as a Professor of Public Health Policy at the Harvard T.H. Chan School of Public Health, the Kennedy School of Government, and the Radcliffe Institute for Advanced Study. Dr. Bleich was also a White House Fellow during the Obama administration, where she worked at USDA as a Senior Policy Adviser for Food, Nutrition and Consumer Services and with the First Lady Michelle Obama’s Let’s Move! Initiative. She holds degrees from Columbia (BA, Psychology) and Harvard (PhD, Health Policy).
 
