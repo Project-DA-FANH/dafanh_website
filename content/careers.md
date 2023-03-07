@@ -3,7 +3,7 @@ description: Career Connection
 title: "Career Connection"
 ---
 
-<a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/reg_button.png" alt="Registration button" width="300" height="150" /></a>
+<a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
 
 ## March: Full Career Panel! - Save the date. 
@@ -12,7 +12,7 @@ title: "Career Connection"
 
 * **Areas of interest**: USDA Agriculture, Geospatial Data, Nutrient Management, Bioinformatics
 * **Date & Time**: March 27, 11-12noon
-* **Room & Zoom**: Zoom link TBD
+* [**Zoom link**](https://csuchico.zoom.us/j/87412313869?pwd=dkh4dzcxWDB6YnI0Z0YrdTFJSWVXUT09)
 <br><br>
 
 
