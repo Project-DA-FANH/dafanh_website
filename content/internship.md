@@ -1,12 +1,9 @@
 ---
-title: "Applied Research Internship"
+title: "Now accepting applications for Fall 2023!"
 ---
 
-<!---
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Link to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
---->
 
-> Application period for Fall 2022 cohort is now closed. 
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Click image to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
 
 
 # Overview 
@@ -14,6 +11,9 @@ title: "Applied Research Internship"
 This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space. In addition to synchronous meetings with the faculty mentor, students will work directly with research project staff at organizations such as the Center for Healthy Communities and the Center for Regenerative Agriculture. Students will learn about and contribute to the day-to-day operations of these organizations. 
 
 **We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
+
+
+
 
 ## Details
 
