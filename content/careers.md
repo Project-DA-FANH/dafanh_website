@@ -7,6 +7,7 @@ title: "Career Connection"
 
 
 ## March: Full Career Panel! - Save the date. 
+<img src="/img/blog/Career_Panel.png" alt="Picture of Sara Bleich" width="250" height="250" />
 
 ### REGISTER HERE: https://forms.gle/PFdqWqYPq4xKvm6r9
 
