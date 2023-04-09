@@ -6,9 +6,7 @@ date: '2023-04-12'
 slug: intern-reflection
 categories: []
 tags: []
-draft: FALSE
 ---
-# Learn About Recommended Courses From Our AMA Speakers 
 
 [Click this link](https://youtu.be/zX38rnf1Qj4) to see a recap of highlights from our monthly Ask Me Anything sessions where our data science professionals share classes they recommended undergraduates take in order to succeed in graduate school or in their data science careers.
 
