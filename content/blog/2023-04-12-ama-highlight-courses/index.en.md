@@ -3,7 +3,7 @@ banner: img/blog/ama_highlights_courses.png
 title: Learn About Recommended Courses From Our AMA Speakers 
 author: Isabel Ramos
 date: '2023-04-12'
-slug: intern-reflection
+slug: ama-recommended_courses
 categories: []
 tags: []
 ---
