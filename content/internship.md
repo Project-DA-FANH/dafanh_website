@@ -1,6 +1,8 @@
 ---
-title: "Now accepting applications for Fall 2023!"
+title: "Applications for Fall 2023 Internship Now Closed"
 ---
+
+# Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
 
 
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Click image to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
