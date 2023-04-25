@@ -1,5 +1,5 @@
 ---
-banner: img/blog/2023_Career_Panel.png
+banner: img/blog/2023_Career_Panel.jpg
 title: Post-Spring 2023 Career Panel
 author: Isabel Ramos
 date: '2023-04-24'
@@ -13,7 +13,8 @@ The Spring 2023 Career Panel happened late in March and we had a great time meet
 
 Video highlights are coming soon, so stay posted!
 
-<img src="/img/blog/Career_Panel.png" alt="Picture of Sara Bleich" width="300" height="400" />
+<img src="/img/blog/2023_Career_Panel.jpg" alt="Picture of Sara Bleich" width="400" height="300" />
+
 
 
 
