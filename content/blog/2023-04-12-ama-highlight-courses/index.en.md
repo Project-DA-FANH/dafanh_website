@@ -12,5 +12,4 @@ See a recap of highlights from our monthly Ask Me Anything sessions where our da
 
 <a href="https://youtu.be/zX38rnf1Qj4"> <img alt="Click to see highlights video" src="/img/AMA/ama_courses_yt_screenshot.png" style="display: block; margin: auto;"/></a>
 
-
 Our next AMA speaker for the month of April will be announced soon! [Learn more and check out upcoming speakers here](https://project-dafanh.netlify.app/careers)
