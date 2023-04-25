@@ -13,7 +13,7 @@ The Spring 2023 Career Panel happened late in March and we had a great time meet
 
 Video highlights are coming soon, so stay posted!
 
-<img src="/img/blog/2023_Career_Panel.jpg" alt="Picture of Sara Bleich" width="400" height="300" />
+<img src="/img/blog/2023_Career_Panel.jpg" alt="Picture of 2023 Career Panel" width="400" height="300" />
 
 
 
