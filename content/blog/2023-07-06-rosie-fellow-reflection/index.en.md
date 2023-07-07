@@ -2,11 +2,10 @@
 banner: img/blog/Rosie_Diaz_Fellow.png
 title: Project DA-FANH Fellow and Fall 2022 Intern Shares Her Experiences
 author: Isabel Ramos
-date: '2023-07-06'
+date: '2023-07-07'
 slug: dafanh-fellow
 categories: []
 tags: []
-draft: TRUE
 ---
 
 Are you interested in learning more about the DA-FANH internship or our fellowship? Keep reading to hear from our fellowship recipient and Fall 2022 intern, Rosie Diaz!
@@ -40,7 +39,7 @@ Rosie offers valuable advice to others who may be hesitant about applying for in
 ## What is Next for Rosie
 Currently, Rosie is in the process of onboarding and training for a new internship with the USDA. Rosie shared that she owes her ability to secure this internship to the support she received from her Project DA-FANH mentors and connections within the USDA she made through her involvement with Project DA-FANH.  Her connection at the USDA helped her personally through the USDA hiring process, including teaching her how to make a federal resume to submit along with the application, and virtually introducing her to a USDA HR staff to help make more connections at the organization. Rosie also attributes skills she gained through working as a Project Assistant for Project DA-FANH to her success in obtaining this internship. Prior to her interview for her internship, she assisted in the interview process for the Fall 2023 cohort of Project DA-FANH interns. Being on the other side of the interview for the first time helped Rosie improve her interview skills to become a better interviewer by making the interview more personal and better representing herself.
 
-Her responsibilities at this new internship include assisting with paperwork for farm loans, handling data entry, providing support at the front desk, and attending to calls from farmers seeking assistance. Working in the rural development office, she finds fulfillment in serving her community and contributing to the agricultural sector. Rosie is incredibly excited to continue developing her skills and professional network through this new experience.
+Her responsibilities at this new internship include assisting with paperwork for farm loans, handling data entry, providing support at the front desk, and attending to calls from farmers seeking assistance. Working in the farm service agency, she finds fulfillment in serving her community and contributing to the agricultural sector. Rosie is incredibly excited to continue developing her skills and professional network through this new experience.
 
 Want to connect with Rosie or check up on how she is doing now? Connect with Rosie at her [LinkedIn page](https://www.linkedin.com/in/rosie-diaz/) 
 
