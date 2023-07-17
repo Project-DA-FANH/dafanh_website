@@ -37,11 +37,15 @@ hr {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 24px;
+  font-size: 20px;
   float: left;
   border: 2px solid black;
 }
 
+.button:hover {
+  background-color: yellow; 
+  color: white;
+}
 
 
 

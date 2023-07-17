@@ -9,14 +9,17 @@ title: "Applications for Fall 2023 Internship Now Closed"
 
 
 
-<img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/>
+<button class="button">Apply Here (F23 closed)</button>
+<button class="button">Apply Here (F23 closed)</button>
+<button class="button">Apply Here (F23 closed)</button>
 
 
-
-<button class="button button4">Apply Here (F23 closed)</button>
-
+# test
 
 
+<button class="button">Apply Here (F23 closed)</button><button class="button">Apply Here (F23 closed)</button>
+
+</br>
 
 # Overview 
 
