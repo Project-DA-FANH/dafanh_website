@@ -5,6 +5,24 @@ banner: img/logo/usda-logo-color.png
 
 > The application period has closed and a student selected. Return to this page later to learn about and follow the progress of our student fellow.
 
+# Selected Fellow
+
+<img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" />
+
+Chico State Agricultural Business Student, Rosie Diaz, was selected for the Project DA-FANH Multi-Year Fellowship Opportunity. She started at Chico State in the Fall of 2023 after transferring from a community college in her hometown. Before coming to Chico State, Rosie Rosie had an interest in being able to use data to improve her field of Ag Business but did not really know what it was all about. With no prior background in data science or experience with tools like R, she embarked on a journey of learning and growth, embracing new skills and overcoming challenges.
+
+Receiving this fellowship gave Rosie the financial support she needed to succeed as a new transfer student. The financial aid it provided covered her tuition, significantly alleviating the burden of self-financing her education. This financial relief also enabled her to focus more on her studies without worrying about the costs associated with attending college. The fellowship provided her with a new laptop, which has been an amazing tool for Rosie throughout her studies. 
+
+Financial assistance is not the only support Rosie has received through the fellowship. The guidance and mentorship that Rosie received from the DA-FANH team was invaluable to her experience and success as a Chico State student. Having Robin Donatello, Project Director for Project DA-FANH and statistics professor at Chico State, as a mentor to help guide her through the college experience as a new transfer student and learn how to be at a 4-year university has been of immense value to Rosie.
+
+Currently, Rosie is in the process of onboarding and training for a new internship with the USDA. Rosie shared that she owes her ability to secure this internship to the support she received from her Project DA-FANH mentors and connections within the USDA she made through her involvement with Project DA-FANH.  Her connection at the USDA helped her personally through the internship hiring process, including teaching her how to make a federal resume to submit along with the application, and virtually introducing her to a USDA HR staff to help make more connections at the organization. Rosie also attributes skills she gained through working as a Project Assistant for Project DA-FANH to her success in obtaining this internship. Prior to her interview for her internship, she assisted in the interview process for the Fall 2023 cohort of Project DA-FANH interns. Being on the other side of the interview for the first time helped Rosie improve her interview skills to become a better interviewer.
+
+Her responsibilities at this new internship include assisting with paperwork for farm loans, handling data entry, providing support at the front desk, and attending to calls from farmers seeking assistance. Working in the farm service agency, she finds fulfillment in serving her community and contributing to the agricultural sector. Rosie is incredibly excited to continue developing her skills and professional network through this new experience.
+
+Want to connect with Rosie or check up on how she is doing now? Connect with Rosie at her [LinkedIn page](https://www.linkedin.com/in/rosie-diaz/) 
+
+
+
 # Purpose 
 
 This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
