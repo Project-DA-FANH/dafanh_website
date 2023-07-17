@@ -8,6 +8,16 @@ title: "Applications for Fall 2023 Internship Now Closed"
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Click image to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
 
 
+
+<img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/><img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/>
+
+
+
+<button class="button button4">this is a button</button>
+
+
+
+
 # Overview 
 
 This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space. In addition to synchronous meetings with the faculty mentor, students will work directly with research project staff at organizations such as the Center for Healthy Communities and the Center for Regenerative Agriculture. Students will learn about and contribute to the day-to-day operations of these organizations. 
