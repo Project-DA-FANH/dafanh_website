@@ -2,6 +2,51 @@
 title: "Pre-Professional Experiential Learning"
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+</style>
+
+
 # Overview 
 
 This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space.
@@ -15,26 +60,55 @@ This internship provides an authentic virtual (and in person when available) car
 <a href="intern_testimonials"><button class="button">Testimonials</button></a>
 
 
-
 </p>
 
 ### Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
 
 
-</br>
+<hr>
 
-# Available Placement Partners
+# Partner Organizations
 
-In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about and contribute to the day-to-day operations of these organizations. We are 
+In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about how data is used and contribute to the day-to-day operations of these organizations. 
  
 
- <div class="card">
-  <img src="project_staff/Robin.jpg" alt="Temp" style="width:100%">
-  <div class="container">
-    <h4><b>Center for Healthy Communities</b></h4>
-    <p>Blurb about them here</p>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+      <div class="container">
+        <h4><b>Center for Healthy Communities</b></h4>
+        <p>Blurb about them here</p>
+      </div>
+    </div> 
+  </div>
+  <div class="column">
+    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+      <div class="container">
+        <h4><b>IRSA</b></h4>
+        <p>Blurb about them here</p>
+      </div>
+  </div>
+  <div class="column">
+    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+      <div class="container">
+        <h4><b>CRARS</b></h4>
+        <p>Blurb about them here</p>
+      </div>
+  </div>
+  <div class="column">
+    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+      <div class="container">
+        <h4><b>NEW 4 </b></h4>
+        <p>Blurb about them here</p>
+      </div>
   </div>
 </div> 
+
+
+
+
+We are always seeking new organizations interested in hosting interns. 
 
 <hr>
 

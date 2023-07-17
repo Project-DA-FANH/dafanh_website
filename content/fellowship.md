@@ -1,10 +1,8 @@
 ---
-title: "Multi-year fellowship Opportunity"
+title: "Multi-year Fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
-
-> The application period has closed and a student selected. Return to this page later to learn about and follow the progress of our student fellow.
 
 
 # Selected Fellow
@@ -25,7 +23,9 @@ Want to connect with Rosie or check up on how she is doing now? Connect with Ros
 
 
 
-# Purpose 
+<hr>
+
+# Purpose of Fellowship
 
 This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
 
@@ -40,7 +40,7 @@ The funding for this fellowship comes from a grant provided by the National Inst
 A single student will receive up to $10k in tuition assistance, up to $10k in research stipends & equipment, fully supported travel to professional conferences, and graduate school application assistance. 
 
 
-
+<!---
 # Eligibility Criteria
 
 * Currently enrolled at CSU, Chico or CSU, San Bernardino as an undergraduate student. 
@@ -65,6 +65,8 @@ A single student will receive up to $10k in tuition assistance, up to $10k in re
     - Unofficial transcripts from your current university
     - One letter of recommendation from a faculty or staff member who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school. Letters of recommendation are requsted by project staff and due by April 22nd. 
     - (Optional) An additional letter of recommendation (does not have to be from faculty or staff) who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school.
+
+--->
 
 ----
 
@@ -109,6 +111,7 @@ The USDA HSI Education Grants Program lists the occupations below as examples of
 * Food Inspection Specialist
 * Agricultural Commodity Grader
 
+<!---
 **THIS IS NOT AN ELIGIBILITY LIST. OTHER MAJORS & INTERESTS ARE ENCOURAGED TO APPLY**. Search [data-enabled careers at USDA](https://www.usajobs.gov/Search/Results?d=AG&k=data&wma=15509).
 
 If you are unsure if your major or career interest qualifies please email <fanh.analytics@gmail.com>. 
@@ -116,3 +119,5 @@ If you are unsure if your major or career interest qualifies please email <fanh.
 ### Further Details on Citizenship requirement
 
 For purposes of applicant citizenship, USDA-NIFA follows the U.S. Customs and Immigration Service (USCIS) definitions, unless otherwise stated in the RFA. U.S. citizens are individuals born in the United States, Puerto Rico, Guam, Northern Mariana Islands, and U.S. Virgin Islands, (persons born in American Samoa, or Swains Island are generally considered nationals of the United States);foreign-born children, under age 18, residing in the United States with their birth or adoptive parents, at least one of whom is a U.S. citizen by birth or naturalization; and individuals granted citizenship status by USCIS. The term “national of the United States” means a person who, though not a citizen of the United States, owes permanent allegiance to the United States (for example, persons born in American Samoa or Swains Island). 
+
+--->
