@@ -3,11 +3,13 @@ title: "Multi-year fellowship Opportunity"
 banner: img/logo/usda-logo-color.png
 ---
 
+
 > The application period has closed and a student selected. Return to this page later to learn about and follow the progress of our student fellow.
+
 
 # Selected Fellow
 
-<img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" />
+<img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Picture of Rosie Diaz" width="300" height="300" style="display: block; margin: auto;"/>
 
 Chico State Agricultural Business Student, Rosie Diaz, was selected for the Project DA-FANH Multi-Year Fellowship Opportunity. She started at Chico State in the Fall of 2023 after transferring from a community college in her hometown. Before coming to Chico State, Rosie Rosie had an interest in being able to use data to improve her field of Ag Business but did not really know what it was all about. With no prior background in data science or experience with tools like R, she embarked on a journey of learning and growth, embracing new skills and overcoming challenges.
 
