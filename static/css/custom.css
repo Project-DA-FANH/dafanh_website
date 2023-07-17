@@ -37,10 +37,11 @@ hr {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 24px;
+  float: left;
+  border: 2px solid black;
 }
 
-.button4 {border-radius: 12px;}
 
 
 
