@@ -1,27 +1,42 @@
 ---
-title: "Applications for Fall 2023 Internship Now Closed"
+title: "Pre-Professional Experiential Learning"
 ---
 
-# Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
+# Overview 
+
+This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space.
+
+**We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
 
 
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"> <img alt="Click image to apply" src="/img/apply_here/apply_1.png" width="30%" style="display: block; margin: auto;"/></a>
-
-
-
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply for Chico 23 (Closed)</button></a>
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply for SB 23 (Closed)</button></a>
-<a href="Chico22"><button class="button">Fall 2022 Cohort</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico (Closed)</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino (Closed)</button></a>
+<a href="meet_interns"><button class="button">Meet our Interns</button></a>
 <a href="intern_testimonials"><button class="button">Testimonials</button></a>
+
 
 
 </p>
 
-# Overview 
+### Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
 
-This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space. In addition to synchronous meetings with the faculty mentor, students will work directly with research project staff at organizations such as the Center for Healthy Communities and the Center for Regenerative Agriculture. Students will learn about and contribute to the day-to-day operations of these organizations. 
 
-**We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
+</br>
+
+# Available Placement Partners
+
+In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about and contribute to the day-to-day operations of these organizations. We are 
+ 
+
+ <div class="card">
+  <img src="project_staff/Robin.jpg" alt="Temp" style="width:100%">
+  <div class="container">
+    <h4><b>Center for Healthy Communities</b></h4>
+    <p>Blurb about them here</p>
+  </div>
+</div> 
+
+<hr>
 
 
 > how to update for SB separate from Chico?
