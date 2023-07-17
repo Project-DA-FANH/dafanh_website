@@ -9,17 +9,13 @@ title: "Applications for Fall 2023 Internship Now Closed"
 
 
 
-<button class="button">Apply Here (F23 closed)</button>
-<button class="button">Apply Here (F23 closed)</button>
-<button class="button">Apply Here (F23 closed)</button>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply for Chico 23 (Closed)</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply for SB 23 (Closed)</button></a>
+<a href="Chico22"><button class="button">Fall 2022 Cohort</button></a>
+<a href="intern_testimonials"><button class="button">Testimonials</button></a>
 
 
-# test
-
-
-<button class="button">Apply Here (F23 closed)</button><button class="button">Apply Here (F23 closed)</button>
-
-</br>
+</p>
 
 # Overview 
 
@@ -28,14 +24,14 @@ This internship provides an authentic virtual (and in person when available) car
 **We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
 
 
-
+> how to update for SB separate from Chico?
 
 ## Details
 
 * Campus: Chico State
 * Status: Semester Internship (3 Units)
 * Time Commitment:  9 hours per week for 16 weeks
-* Salary/Wage: $15/hr.
+* Salary/Wage: $15/hr. (as available)
 * Requirements: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
 * Academic Level: Graduate and Undergraduate
 * Majors: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
@@ -43,6 +39,8 @@ This internship provides an authentic virtual (and in person when available) car
 
 
 ### Example Responsibilities Include: 
+
+> Split this into the two types of interns, applied and technical? 
 
 * Understand and contribute to the file organization and data flow of current projects
 * Collaborate with other project staff to understand the background information for current grants and projects, what the needs are, and identify data products that can be developed to fit their needs. 
