@@ -2,6 +2,25 @@
 title: "What our interns have to say about the experience"
 ---
 
+<style>
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+</style>
+
+
 > Style as testimonial page
 > https://www.w3schools.com/howto/howto_css_testimonials.asp
 > or slideshow: https://www.w3schools.com/howto/howto_js_quotes_slideshow.asp
@@ -19,4 +38,15 @@ title: "What our interns have to say about the experience"
 "This internship expanded my network in a whole different area that I could not have in my school program."
 
 "I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
+
+<hr>
+
+
+ <div class="card">
+  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+  <div class="container">
+    <h4><b>John Doe</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div> 
 
