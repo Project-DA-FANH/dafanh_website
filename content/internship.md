@@ -140,7 +140,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1485160497022-3e09382fb310?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Desert">
+    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Desert">
       <div class="card__content">
         <h3 class="card__header">Misty mornings</h3>
         <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
@@ -149,7 +149,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=3300&amp;q=80" alt="Canyons">
+    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Canyons">
       <div class="card__content">
         <h2 class="card__header">Utah sunsets</h2>
         <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
@@ -158,16 +158,16 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/clients/chc.jpg" alt="Center for Healthy Communities">
       <div class="card__content">
-        <h4 class="card__header">A starry night</h4>
+        <h4 class="card__header">Center for Healthy Communities</h4>
         <p class="card__text">Stuff </p>
         <button class="card__btn">Learn More</button>
       </div>
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
       <div class="card__content">
         <h4 class="card__header">Your Organization</h4>
         <p class="card__text">Support Student Success</p>
@@ -176,7 +176,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
       <div class="card__content">
         <h4 class="card__header">Your Organization</h4>
         <p class="card__text">Support Student Success</p>
