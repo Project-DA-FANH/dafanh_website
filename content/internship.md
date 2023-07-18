@@ -18,7 +18,7 @@ body {
   padding: 0 10px;
 }
 
-/* Remove extra left and right margins, due to padding in columns */
+/* Remove extra left and right margins, due to padding */
 .row {margin: 0 -5px;}
 
 /* Clear floats after the columns */
@@ -28,21 +28,21 @@ body {
   clear: both;
 }
 
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
-}
-
-/* Responsive columns - one column layout (vertical) on small screens */
+/* Responsive columns */
 @media screen and (max-width: 600px) {
   .column {
     width: 100%;
     display: block;
     margin-bottom: 20px;
   }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
 }
 </style>
 
@@ -54,15 +54,15 @@ This internship provides an authentic virtual (and in person when available) car
 **We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
 
 
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico (Closed)</button></a>
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino (Closed)</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
 <a href="meet_interns"><button class="button">Meet our Interns</button></a>
 <a href="intern_testimonials"><button class="button">Testimonials</button></a>
 
 
 </p>
 
-### Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
+Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
 
 
 <hr>
@@ -105,8 +105,42 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
   </div>
 </div> 
 
+<div class="row">
+  <div class="column">
+    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+    <div class="card">
+      <h3>Card 1</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
 
+  <div class="column">
+    <div class="card">
+      <h3>Card 2</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Card 3</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <h3>Card 4</h3>
+      <p>Some text</p>
+      <p>Some text</p>
+    </div>
+  </div>
+</div>
 
+<p>
 
 We are always seeking new organizations interested in hosting interns. 
 

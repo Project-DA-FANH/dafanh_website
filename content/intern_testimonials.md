@@ -4,6 +4,8 @@ title: "What our interns have to say about the experience"
 
 > Style as testimonial page
 > https://www.w3schools.com/howto/howto_css_testimonials.asp
+> or slideshow: https://www.w3schools.com/howto/howto_js_quotes_slideshow.asp
+
 
 
 “There’s nothing better than having a supervisor that communicative and easy to reach. I really enjoyed working with them because they were always encouraging.The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that.” 
