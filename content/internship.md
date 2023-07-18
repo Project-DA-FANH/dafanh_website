@@ -154,7 +154,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     <div class="card"><img class="card__img" src="/img/clients/chico_state.png" alt="Chico State Logo" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">Institutional Research And Strategic Analytics</h4>
-        <p class="card__text"> Institutional Research And Strategic Analytics (IRSA) provide the University with factual data related to university functions like applications, enrollments, degrees granted, test scores, grades, courses, outcomes, and demographics. 
+        <p class="card__text"> Institutional Research And Strategic Analytics (IRSA) provides the University with factual data related to university functions including applications, enrollments, degrees granted, test scores, grades, courses, outcomes, and demographics. 
 </p>
         <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Learn More</a>
       </div>
