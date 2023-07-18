@@ -134,7 +134,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
         <p class="card__text">The Center for Healthy Communities (CHC) is a nonprofit organization that aims to provide equitable support to individuals and partners.The CHC envisions all Californians having the resources to live their healthiest lives. </p>
-        <<a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</button>
+        <<a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
@@ -143,7 +143,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
       <div class="card__content">
         <h4 class="card__header">Center For Regenerative Agriculture And Resilient Systems</h4>
         <p class="card__text">CRARS seeks to promote regenerative farming practices to reduce greenhouse gasses, restore soil resiliency, increase the sustainability of farms and ranches, and address food and water insecurity.</p>
-        <a href="https://www.csuchico.edu/regenerativeagriculture/" class="card__btn">Your Page</button>
+        <a href="https://www.csuchico.edu/regenerativeagriculture/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
@@ -152,7 +152,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
       <div class="card__content">
         <h4 class="card__header">Institutional Research And Strategic Analytics</h4>
         <p class="card__text"> IRSA provide the University with factual data related to university functions like applications, enrollments, degrees granted, and demographics.</p>
-        <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Your Page</button>
+        <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
