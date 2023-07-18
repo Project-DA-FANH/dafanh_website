@@ -134,7 +134,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
         <p class="card__text">The Center for Healthy Communities (CHC) is a nonprofit organization that aims to provide equitable support to individuals and partners.The CHC envisions all Californians having the resources to live their healthiest lives. </p>
-        <<a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
+        <a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
