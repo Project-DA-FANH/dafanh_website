@@ -22,44 +22,32 @@ title: "What our interns have to say about the experience"
 
 "I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
 
-
-
-<section class="testimonial text-center">
-  <div class="container">
-  
-  <div class="heading white-heading">
-    Testimonial
-  </div>
-  <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
-         
-    <div class="carousel-inner" role="listbox">
-        <div class="carousel-item active">
-            <div class="testimonial4_slide">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-                            <h4>Client 1</h4>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="testimonial4_slide">
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-                            <h4>Client 2</h4>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="testimonial4_slide">
-                            <img src="https://i.ibb.co/8x9xK4H/team.jpg" class="img-circle img-responsive" />
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
-                            <h4>Client 3</h4>
-                        </div>
-                    </div>
-                </div>
-                <a class="carousel-control-prev" href="#testimonial4" data-slide="prev">
-                    <span class="carousel-control-prev-icon"></span>
-                </a>
-                <a class="carousel-control-next" href="#testimonial4" data-slide="next">
-                    <span class="carousel-control-next-icon"></span>
-                </a>
-            </div>
-        </div>
-    </section>
-
+<p class="explanation"> So this says 'Slider' but the testimonials fade-in and out... to change that, simply edit the css inside the keyframe animations (transform-translate, using absolute positioning 'left', etc.)</p>
+<div class="testimonial-slider">
+  <ul class="slider">
+    <li>
+      <div class="testimonial-slider-content">
+        <q>This is the first quote in your slider!</q>
+        <p class="source">- Paul C, TX</p>
+      </div>
+    </li>
+    <li>
+      <div class="testimonial-slider-content">
+        <q>Here is the second one, this is awesome!</q>
+        <p class="source">- Ella M, TX</p>
+      </div>
+    </li>
+    <li>
+      <div class="testimonial-slider-content">
+        <q>Next, the third quote - AMAZING!</q>
+        <p class="source">- Blaine B, TX</p>
+      </div>
+    </li>
+    <li>
+      <div class="testimonial-slider-content">
+        <q>This is the last quote, I can't believe how well this worked!</q>
+        <p class="source">- Guillermo O, TX</p>
+      </div>
+    </li>
+  </ul>
+</div>
