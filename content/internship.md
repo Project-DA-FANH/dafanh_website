@@ -40,9 +40,15 @@ body {
 /* Style the counter cards */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 
   padding: 16px;
   text-align: center;
   background-color: #f1f1f1;
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
 }
 </style>
 
@@ -75,66 +81,31 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
+      <img src="chc.jpg" alt="Center for Healthy Communities" style="width:100%">
       <div class="container">
-        <h4><b>Center for Healthy Communities</b></h4>
-        <p>Blurb about them here</p>
+        <h4>Center for Healthy Communities</h4>
+        <p>Stuff about them</p>
       </div>
-    </div> 
-  </div>
-  <div class="column">
-    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
-      <div class="container">
-        <h4><b>IRSA</b></h4>
-        <p>Blurb about them here</p>
-      </div>
-  </div>
-  <div class="column">
-    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
-      <div class="container">
-        <h4><b>CRARS</b></h4>
-        <p>Blurb about them here</p>
-      </div>
-  </div>
-  <div class="column">
-    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
-      <div class="container">
-        <h4><b>NEW 4 </b></h4>
-        <p>Blurb about them here</p>
-      </div>
-  </div>
-</div> 
-
-<div class="row">
-  <div class="column">
-    <img src="img/clients/chc.jpg" alt="Temp" style="width:100%">
-    <div class="card">
-      <h3>Card 1</h3>
-      <p>Some text</p>
-      <p>Some text</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <h3>Card 2</h3>
-      <p>Some text</p>
+      <h3>CRARS</h3>
       <p>Some text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <h3>Card 3</h3>
-      <p>Some text</p>
+      <h3>IRSA</h3>
       <p>Some text</p>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
-      <h3>Card 4</h3>
-      <p>Some text</p>
+      <h3>NEW 4</h3>
       <p>Some text</p>
     </div>
   </div>
