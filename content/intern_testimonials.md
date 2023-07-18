@@ -78,39 +78,41 @@ body {
 <hr>
 
 
-<div class="card">
-  <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div> 
-<div class="card">
-  <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div> 
-
-
  <div class="row">
   <div class="column">
     <div class="card">
-    <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
     </div>
-  </div>
-  </div>
-  <div class="column">
-    <div class="card">..</div>
+    </div>
   </div>
   <div class="column">
-    <div class="card">..</div>
+    <div class="card">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+    </div>
   </div>
   <div class="column">
-    <div class="card">..</div>
+    <div class="card">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+    </div>
   </div>
 </div> 
