@@ -2,6 +2,49 @@
 title: "What our interns have to say about the experience"
 ---
 
+<style>
+ /* Style the container with a rounded border, grey background and some padding and margin */
+.container {
+  border: 2px solid #ccc;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+/* Clear floats after containers */
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Increase the font-size of a span element */
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+/* Add media queries for responsiveness. This will center both the text and the image inside the container */
+@media (max-width: 500px) {
+  .container {
+    text-align: center;
+  }
+
+  .container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+} 
+</style>
 
 
 > Style as testimonial page?
@@ -22,32 +65,16 @@ title: "What our interns have to say about the experience"
 
 "I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
 
-<p class="explanation"> So this says 'Slider' but the testimonials fade-in and out... to change that, simply edit the css inside the keyframe animations (transform-translate, using absolute positioning 'left', etc.)</p>
-<div class="testimonial-slider">
-  <ul class="slider">
-    <li>
-      <div class="testimonial-slider-content">
-        <q>This is the first quote in your slider!</q>
-        <p class="source">- Paul C, TX</p>
-      </div>
-    </li>
-    <li>
-      <div class="testimonial-slider-content">
-        <q>Here is the second one, this is awesome!</q>
-        <p class="source">- Ella M, TX</p>
-      </div>
-    </li>
-    <li>
-      <div class="testimonial-slider-content">
-        <q>Next, the third quote - AMAZING!</q>
-        <p class="source">- Blaine B, TX</p>
-      </div>
-    </li>
-    <li>
-      <div class="testimonial-slider-content">
-        <q>This is the last quote, I can't believe how well this worked!</q>
-        <p class="source">- Guillermo O, TX</p>
-      </div>
-    </li>
-  </ul>
+
+ <div class="container">
+  <img src="bandmember.jpg" alt="Avatar" style="width:90px">
+  <p><span>Chris Fox.</span> CEO at Mighty Schools.</p>
+  <p>John Doe saved us from a web disaster.</p>
 </div>
+
+<div class="container">
+  <img src="avatar_g2.jpg" alt="Avatar" style="width:90px">
+  <p><span >Rebecca Flex.</span> CEO at Company.</p>
+  <p>No one is better than John Doe.</p>
+</div> 
+
