@@ -82,15 +82,14 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
   <div class="column">
     <div class="card">
       <img src="chc.jpg" alt="Center for Healthy Communities" style="width:100%">
-      <div class="container">
-        <h4>Center for Healthy Communities</h4>
-        <p>Stuff about them</p>
-      </div>
+      <h4>Center for Healthy Communities</h4>
+      <p>Stuff about them</p>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
+      <img src="logo/Tagline_color.png" alt="test" style="width:100%">
       <h3>CRARS</h3>
       <p>Some text</p>
     </div>
