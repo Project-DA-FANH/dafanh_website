@@ -3,52 +3,102 @@ title: "Pre-Professional Experiential Learning"
 ---
 
 <style>
-* {
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
   box-sizing: border-box;
+  font-size: 62.5%;
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 6rem;
+  background-color: #f5f5f5;
+  font-family: "Inter", sans-serif;
 }
-
-/* Float four columns side by side */
-.column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
-}
-
-/* Remove extra left and right margins, due to padding */
-.row {margin: 0 -5px;}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive columns */
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
+@media (max-width: 60em) {
+  body {
+    padding: 3rem;
   }
 }
 
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  border: 
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
+.grid {
+  display: grid;
+  width: 114rem;
+  grid-gap: 6rem;
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  align-items: start;
+}
+@media (max-width: 60em) {
+  .grid {
+    grid-gap: 3rem;
+  }
+}
+.grid__item {
+  background-color: #fff;
+  border-radius: 0.4rem;
+  overflow: hidden;
+  box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: 0.2s;
+}
+.grid__item:hover {
+  transform: translateY(-0.5%);
+  box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.2);
 }
 
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
+.card__img {
+  display: block;
+  width: 100%;
+  height: 18rem;
+  object-fit: cover;
+}
+.card__content {
+  padding: 3rem 3rem;
+}
+.card__header {
+  font-size: 3rem;
+  font-weight: 500;
+  color: #0d0d0d;
+  margin-bottom: 1.5rem;
+}
+.card__text {
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  line-height: 1.7;
+  color: #3d3d3d;
+  margin-bottom: 2.5rem;
+}
+.card__btn {
+  display: block;
+  width: 100%;
+  padding: 1.5rem;
+  font-size: 2rem;
+  text-align: center;
+  color: #3363ff;
+  background-color: #e6ecff;
+  border: none;
+  border-radius: 0.4rem;
+  transition: 0.2s;
+  cursor: pointer;
+}
+.card__btn span {
+  margin-left: 1rem;
+  transition: 0.2s;
+}
+.card__btn:hover, .card__btn:active {
+  background-color: #dce4ff;
+}
+.card__btn:hover span, .card__btn:active span {
+  margin-left: 1.5rem;
 }
 </style>
 
@@ -77,35 +127,32 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 
 In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about how data is used and contribute to the day-to-day operations of these organizations. 
  
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="chc.jpg" alt="Center for Healthy Communities" style="width:100%">
-      <h4>Center for Healthy Communities</h4>
-      <p>Stuff about them</p>
+<div class="grid">
+  <div class="grid__item">
+    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+      <div class="card__content">
+        <h1 class="card__header">A starry night</h1>
+        <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen. </p>
+        <button class="card__btn">Explore <span>&rarr;</span></button>
+      </div>
     </div>
   </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="logo/Tagline_color.png" alt="test" style="width:100%">
-      <h3>CRARS</h3>
-      <p>Some text</p>
+  <div class="grid__item">
+    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1485160497022-3e09382fb310?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Desert">
+      <div class="card__content">
+        <h1 class="card__header">Misty mornings</h1>
+        <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
+        <button class="card__btn">Explore <span>&rarr;</span></button>
+      </div>
     </div>
   </div>
-  
-  <div class="column">
-    <div class="card">
-      <h3>IRSA</h3>
-      <p>Some text</p>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <h3>NEW 4</h3>
-      <p>Some text</p>
+  <div class="grid__item">
+    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=3300&amp;q=80" alt="Canyons">
+      <div class="card__content">
+        <h1 class="card__header">Utah sunsets</h1>
+        <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
+        <button class="card__btn">Explore <span>&rarr;</span></button>
+      </div>
     </div>
   </div>
 </div>
@@ -118,37 +165,8 @@ We are always seeking new organizations interested in hosting interns.
 
 # trying bootstrap4 cards
 
-<div class="card" style="width:400px">
-  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
-  <div class="card-body">
-    <h4 class="card-title">John Doe</h4>
-    <p class="card-text">Some example text.</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
-  </div>
-</div>
-
-
-<div class="card-group">
-  <div class="card bg-primary">
-    <div class="card-body text-center">
-      <p class="card-text">Some text inside the first card</p>
-    </div>
-  </div>
-  <div class="card bg-warning">
-    <div class="card-body text-center">
-      <p class="card-text">Some text inside the second card</p>
-    </div>
-  </div>
-  <div class="card bg-success">
-    <div class="card-body text-center">
-      <p class="card-text">Some text inside the third card</p>
-    </div>
-  </div>
-  <div class="card bg-danger">
-    <div class="card-body text-center">
-      <p class="card-text">Some text inside the fourth card</p>
-    </div>
-  </div>
+<div class="card">
+  <div class="card-body">Basic card</div>
 </div>
 
 <hr>
