@@ -129,6 +129,8 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 
 In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about how data is used and contribute to the day-to-day operations of these organizations. 
 
+
+<div class="grid">
   <div class="grid__item">
     <div class="card"><img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities">
       <div class="card__content">
