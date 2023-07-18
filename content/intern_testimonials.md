@@ -81,7 +81,7 @@ body {
  <div class="row">
   <div class="column">
     <div class="card">
-    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" style="width:90px" alt="Snowy Mountains">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
@@ -90,7 +90,7 @@ body {
   </div>
   <div class="column">
     <div class="card">
-    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" style="width:90px" alt="Snowy Mountains">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
@@ -99,7 +99,7 @@ body {
   </div>
   <div class="column">
     <div class="card">
-    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" style="width:90px" alt="Snowy Mountains">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
@@ -108,7 +108,7 @@ body {
   </div>
   <div class="column">
     <div class="card">
-    <img src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png" style="width:90px" alt="Snowy Mountains">
     <div class="container">
       <h4><b>John Doe</b></h4>
       <p>Architect & Engineer</p>
