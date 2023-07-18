@@ -128,59 +128,31 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 # Partner Organizations
 
 In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about how data is used and contribute to the day-to-day operations of these organizations. 
- 
-<div class="grid">
+
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
-      <div class="card__content">
-        <h1 class="card__header">A starry night</h1>
-        <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen. </p>
-        <button class="card__btn">Learn More</button>
-      </div>
-    </div>
-  </div>
-  <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Desert">
-      <div class="card__content">
-        <h3 class="card__header">Misty mornings</h3>
-        <p class="card__text">Capture the stunning <strong>essence</strong> of the early morning sunrise in the Californian wilderness.</p>
-        <button class="card__btn">Learn More</button>
-      </div>
-    </div>
-  </div>
-  <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Canyons">
-      <div class="card__content">
-        <h2 class="card__header">Utah sunsets</h2>
-        <p class="card__text">Sunsets over the <strong>stunning</strong> Utah Canyonlands, is truly something much more than incredible.</p>
-        <button class="card__btn">Learn More</button>
-      </div>
-    </div>
-  </div>
-  <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/clients/chc.jpg" alt="Center for Healthy Communities">
+    <div class="card"><img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities">
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
-        <p class="card__text">Stuff </p>
-        <button class="card__btn">Learn More</button>
+        <p class="card__text">The Center for Healthy Communities (CHC) is a nonprofit organization that aims to provide equitable support to individuals and partners.The CHC envisions all Californians having the resources to live their healthiest lives. </p>
+        <<a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</button>
       </div>
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/clients/crars.png" alt="CRARS">
       <div class="card__content">
-        <h4 class="card__header">Your Organization</h4>
-        <p class="card__text">Support Student Success</p>
-        <button class="card__btn">Your Page</button>
+        <h4 class="card__header">Center For Regenerative Agriculture And Resilient Systems</h4>
+        <p class="card__text">CRARS seeks to promote regenerative farming practices to reduce greenhouse gasses, restore soil resiliency, increase the sustainability of farms and ranches, and address food and water insecurity.</p>
+        <a href="https://www.csuchico.edu/regenerativeagriculture/" class="card__btn">Your Page</button>
       </div>
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/clients/chico_state.png" alt="Chico State Logo">
       <div class="card__content">
-        <h4 class="card__header">Your Organization</h4>
-        <p class="card__text">Support Student Success</p>
-        <button class="card__btn">Your Page</button>
+        <h4 class="card__header">Institutional Research And Strategic Analytics</h4>
+        <p class="card__text"> IRSA provide the University with factual data related to university functions like applications, enrollments, degrees granted, and demographics.</p>
+        <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Your Page</button>
       </div>
     </div>
   </div>

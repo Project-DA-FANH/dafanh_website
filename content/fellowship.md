@@ -65,56 +65,12 @@ A single student will receive up to $10k in tuition assistance, up to $10k in re
     - Unofficial transcripts from your current university
     - One letter of recommendation from a faculty or staff member who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school. Letters of recommendation are requsted by project staff and due by April 22nd. 
     - (Optional) An additional letter of recommendation (does not have to be from faculty or staff) who can speak to your work and/or academic challenges and successes, and/or your potential for graduate school.
+    
+If you are unsure if your major or career interest qualifies please email <fanh.analytics@gmail.com>. 
 
 --->
 
 ----
-
-# What are the FANH Sciences?
-The term "food, agriculture, natural resources and human sciences" (FANH sciences) includes activities in food and fiber, agricultural, renewable energy and natural resources, forestry, and physical and social sciences, or rural economic, community, or business development including activities relating to the following:
-
-* Animal health, production, and well-being;
-* Plant health and production;
-* Animal and plant germ plasm collection and preservation;
-* Aquaculture;
-* Food safety;
-* Soil and water conservation and improvement;
-* Forestry, horticulture, and range management;
-* Nutritional sciences and promotion;
-Farm enhancement, including financial management, input efficiency, and profitability;
-* Home economics;
-* Rural human ecology;
-* Youth development and agricultural education, including 4–H clubs;
-* Expansion of domestic and international markets for agricultural commodities and products, including agricultural trade barrier identification and analysis;
-* Information management and technology transfer related to agriculture;
-* Biotechnology related to agriculture;
-* Big DATA related to agriculture; and
-* The processing, distributing, marketing, and utilization of food and agricultural products.
-
-
-Review the [USDA Agency list here](https://www.usda.gov/our-agency/agencies). 
-    
-## Example careers under the FANH scienes
-
-The USDA HSI Education Grants Program lists the occupations below as examples of "mission critical" occupations that the USDA is looking to recruit talented students from Hispanic Serving Institutions into. 
-
-* Forestry Specialist, Technician
-* General Biological Scientists, Technicians
-* Soil Conservation Specialist, Technicians
-* Dietician and Nutritionist Specialist
-* Consumer Safety Specialist
-* Soil Science Specialist
-* Veterinary Medical Officer
-* General Business and Industry
-* Statistician Specialist
-* Consumer Safety Inspection
-* Food Inspection Specialist
-* Agricultural Commodity Grader
-
-<!---
-**THIS IS NOT AN ELIGIBILITY LIST. OTHER MAJORS & INTERESTS ARE ENCOURAGED TO APPLY**. Search [data-enabled careers at USDA](https://www.usajobs.gov/Search/Results?d=AG&k=data&wma=15509).
-
-If you are unsure if your major or career interest qualifies please email <fanh.analytics@gmail.com>. 
 
 ### Further Details on Citizenship requirement
 

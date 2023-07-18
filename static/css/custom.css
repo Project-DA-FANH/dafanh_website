@@ -50,3 +50,11 @@ hr {
   cursor: not-allowed;
 }
 
+.caption {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 10px;
+}
+
