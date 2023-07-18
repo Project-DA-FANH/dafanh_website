@@ -132,28 +132,30 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
 
 <div class="grid">
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities">
+    <div class="card"><img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
-        <p class="card__text">The Center for Healthy Communities (CHC) is a nonprofit organization that aims to provide equitable support to individuals and partners.The CHC envisions all Californians having the resources to live their healthiest lives. </p>
+        <p class="card__text">The Center for Healthy Communities (CHC) is a leader and connector, striving to provide equitable support to individuals and partners across diverse communities in California by building sustainable access to nourishing food and active environments.
+ </p>
         <a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/clients/crars.png" alt="CRARS">
+    <div class="card"><img class="card__img" src="/img/clients/crars.png" alt="CRARS" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">Center For Regenerative Agriculture And Resilient Systems</h4>
-        <p class="card__text">CRARS seeks to promote regenerative farming practices to reduce greenhouse gasses, restore soil resiliency, increase the sustainability of farms and ranches, and address food and water insecurity.</p>
+        <p class="card__text">The Center For Regenerative Agriculture And Resilient Systems (CRARS) seeks to promote regenerative farming practices to reduce greenhouse gasses, restore soil resiliency, increase the sustainability of farms and ranches, and address food and water insecurity.</p>
         <a href="https://www.csuchico.edu/regenerativeagriculture/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/clients/chico_state.png" alt="Chico State Logo">
+    <div class="card"><img class="card__img" src="/img/clients/chico_state.png" alt="Chico State Logo" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">Institutional Research And Strategic Analytics</h4>
-        <p class="card__text"> IRSA provide the University with factual data related to university functions like applications, enrollments, degrees granted, and demographics.</p>
+        <p class="card__text"> Institutional Research And Strategic Analytics (IRSA) provide the University with factual data related to university functions like applications, enrollments, degrees granted, test scores, grades, courses, outcomes, and demographics. 
+</p>
         <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Learn More</a>
       </div>
     </div>
