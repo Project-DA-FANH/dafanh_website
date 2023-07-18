@@ -3,10 +3,37 @@ title: "What our interns have to say about the experience"
 ---
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
 .card {
-  /* Add shadows to create the "card" effect */
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -17,6 +44,15 @@ title: "What our interns have to say about the experience"
 /* Add some padding inside the card container */
 .container {
   padding: 2px 16px;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
 </style>
 
@@ -43,17 +79,38 @@ title: "What our interns have to say about the experience"
 
 
 <div class="card">
-  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+  <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
   <div class="container">
     <h4><b>John Doe</b></h4>
     <p>Architect & Engineer</p>
   </div>
 </div> 
 <div class="card">
-  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+  <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
   <div class="container">
     <h4><b>John Doe</b></h4>
     <p>Architect & Engineer</p>
   </div>
 </div> 
 
+
+ <div class="row">
+  <div class="column">
+    <div class="card">
+    <img src="/img/blog/Rosie_Diaz_Fellow.png"  width="30" height="30" alt="Snowy Mountains">
+    <div class="container">
+      <h4><b>John Doe</b></h4>
+      <p>Architect & Engineer</p>
+    </div>
+  </div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+</div> 

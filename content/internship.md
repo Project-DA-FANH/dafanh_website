@@ -65,22 +65,22 @@ body {
   padding: 3rem 3rem;
 }
 .card__header {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   color: #0d0d0d;
   margin-bottom: 1.5rem;
 }
 .card__text {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   letter-spacing: 0.1rem;
-  line-height: 1.7;
+  line-height: 1.5;
   color: #3d3d3d;
   margin-bottom: 2.5rem;
 }
 .card__btn {
   display: block;
   width: 100%;
-  padding: 1.5rem;
+  padding: 0.7rem;
   font-size: 2rem;
   text-align: center;
   color: #3363ff;
@@ -118,7 +118,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
  
 <div class="grid">
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2250&amp;q=80" alt="Snowy Mountains">
+    <div class="card"><img class="card__img" src="/img/blog/Rosie_Diaz_Fellow.png" alt="Snowy Mountains">
       <div class="card__content">
         <h1 class="card__header">A starry night</h1>
         <p class="card__text">Look up at the night sky, and find yourself <strong>immersed</strong> in the amazing mountain range of Aspen. </p>
