@@ -36,6 +36,10 @@ body {
   background-color: #f1f1f1;
 }
 
+.card-blue{
+  background-color: #00cc99;
+}
+
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
   .column {
@@ -61,7 +65,7 @@ body {
 
  <div class="row">
   <div class="column">
-    <div class="card">
+    <div class="card card-blue">
     “There’s nothing better than having a supervisor that communicative and easy to reach. I really enjoyed working with them because they were always encouraging.The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that.” 
     </div>
   </div>
