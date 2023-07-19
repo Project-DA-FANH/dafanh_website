@@ -2,7 +2,6 @@
 title: "Meet our Interns!"
 ---
 
-
 <style>
 * {
   box-sizing: border-box;
@@ -29,17 +28,7 @@ body {
   clear: both;
 }
 
-/* Style the counter cards */
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
-  padding: 16px;
-  text-align: center;
-  background-color: #f1f1f1;
-}
 
-.card-color{
-  background-color: #00cc99;
-}
 
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
@@ -52,23 +41,20 @@ body {
 </style>
 
 
-add info here
-
-Use canva images as a grid. similar to testimonial page cards
-
-
 # 2023 Chico 
 
 <div class="row">
   <div class="column">
-    <div class="card card-color">
-      <img src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
-    </div>
+      <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone" 
   </div>
   <div class="column">
-    <div class="card">
-      <img src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
-    </div>
+      <img src="/img/interns/Zoe_Kunhart.png" alt="Picture and Bio of Zoe">
+  </div>
+    <div class="column">
+      <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason" 
+  </div>
+  <div class="column">
+      <img src="/img/interns/Rosie_Diaz.png" alt="Picture and Bio of Rosie">
   </div>
 </div> 
 
