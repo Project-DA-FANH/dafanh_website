@@ -125,7 +125,7 @@ This internship provides an authentic virtual (and in person when available) car
 
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
-<a href="meet_interns"><button class="button">Meet our Interns</button></a>
+<a href="../meet_interns"><button class="button">Meet our Interns</button></a>
 <a href="#intern_testimonials"><button class="button">Testimonials</button></a>
 <a href="#partners"><button class="button">Partners</button></a>
 
