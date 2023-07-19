@@ -102,7 +102,8 @@ This internship provides an authentic virtual (and in person when available) car
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
 <a href="meet_interns"><button class="button">Meet our Interns</button></a>
-<a href="intern_testimonials"><button class="button">Testimonials</button></a>
+<a href="#intern_testimonials"><button class="button">Testimonials</button></a>
+<a href="#partners"><button class="button">Partners</button></a>
 
 
 </p>
@@ -122,17 +123,42 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 * Begin to understand the reporting, research and evaluation requirements of grant funded projects
 
 
+### Example Responsibilities Include
+
+
+* Understand and contribute to the file organization and data flow of current projects
+* Collaborate with other project staff to understand the background information for current grants and projects, what the needs are, and identify data products that can be developed to fit their needs. 
+* Assist and support others with programming tasks by writing pieces of, or entire scripts in R
+* Assist with data collection, codebook creation, data management, creating visualizations, exploratory and statistical analysis
+* Create and contribute to data products including reports, manuscripts, websites, and interactive dashboards. 
+
+
+### Details & Requirements
+
+> convert to a table - one column per campus
+
+* Campus: Chico State
+* Status: Semester Internship (3 Units)
+* Time Commitment:  9 hours per week for 16 weeks
+* Salary/Wage: $15/hr. (as available)
+* Requirements: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
+* Academic Level: Graduate and Undergraduate
+* Majors: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
+
+
+
 
 <hr>
 
-# Partner Organizations
+# Partner Organizations {#partners}
 
 In addition to synchronous meetings with the faculty mentor, student teams will work directly with research project staff at one of the organizations listed below. Students will learn about how data is used and contribute to the day-to-day operations of these organizations. 
 
 
 <div class="grid">
   <div class="grid__item">
-    <div class="card"><img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 100%;">
+    <div class="card">
+      <img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
         <p class="card__text">The Center for Healthy Communities (CHC) is a leader and connector, striving to provide equitable support to individuals and partners across diverse communities in California by building sustainable access to nourishing food and active environments.
@@ -165,36 +191,40 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
 <p>
 
 
-
-### Example Responsibilities Include
-
-
-* Understand and contribute to the file organization and data flow of current projects
-* Collaborate with other project staff to understand the background information for current grants and projects, what the needs are, and identify data products that can be developed to fit their needs. 
-* Assist and support others with programming tasks by writing pieces of, or entire scripts in R
-* Assist with data collection, codebook creation, data management, creating visualizations, exploratory and statistical analysis
-* Create and contribute to data products including reports, manuscripts, websites, and interactive dashboards. 
-
-
 <hr>
 
+# What our interns have to say about the experience {#intern_testimonials}
 
 
-> how to update for SB separate from Chico?
+ <div class="row">
+  <div class="column">
+    <div class="card card-color">
+    “There’s nothing better than having a supervisor that communicative and easy to reach. I really enjoyed working with them because they were always encouraging.The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that.” 
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+    “Before starting the internship, my knowledge with data analysis was at zero. But now after completing the internship and learning a programming language to make sense of it all, has helped me develop a new skill that will help expand my professional network depending on what I want to do with my career.” 
+    </div>
+  </div>
+  <div class="column">
+    <div class="card card-color">
+    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+"I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
+    </div>
+  </div>
+</div> 
 
-## Details
-
-* Campus: Chico State
-* Status: Semester Internship (3 Units)
-* Time Commitment:  9 hours per week for 16 weeks
-* Salary/Wage: $15/hr. (as available)
-* Requirements: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
-* Academic Level: Graduate and Undergraduate
-* Majors: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
+<hr>
 
 
 
 ## Questions about this or other opportunities?
 
 Contact us at fanh.analytics@gmail.com. 
+
 
