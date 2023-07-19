@@ -69,6 +69,15 @@ title: "Our Team"
   </td>
   <td> Dr. Christine Hererra was born and raised in Denver, Colorado. She is Mathematics Education Professor at CSU, Chico, and the Pedagogy Specialist for this project. One fun fact is that her favorite part of her job is spending her summers teaching the LSAMP Summer Calculus Boot Camp. During her free time, Christine enjoys creating mosaic art. </td>
 </tr>
+<tr>
+  <td><img src="/img/project_staff/kathleen.jpg" alt="Kathleen Johnson"/></td>
+  <td>
+    <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/program-administration-manager/kathleen-johnson.shtml"><strong>Kathleen Johnson, MS</strong></a><br>
+    <strong> Fiscal Lead </strong><br> 
+    <strong>Contact:</strong> caherrera@csuchico.edu
+  </td>
+  <td> Kathleen was born and raised in Chico, CA surrounded by an agricultural community. She has always had a passion for nutrition and all that goes into supporting local farmers as well as providing access to food. Currently she supports those efforts at her organization through program administration and overseeing contract compliance as well as finances. During her free time, she loves to cook, watch movies with her daughter, play with her many pets and go to Disneyland as often as possible! </td>
+</tr>
 </table>
 
 <br><br>
