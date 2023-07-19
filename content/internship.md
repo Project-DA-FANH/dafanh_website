@@ -111,7 +111,7 @@ body {
 }
 
 .card-color{
-  background-color: #4ea3a2;
+  background-color: #f5c721;
 }
 </style>
 
@@ -220,33 +220,28 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
 # What our interns have to say about the experience {#intern_testimonials}
 
 
- <div class="row">
+<div class="row">
   <div class="column">
-    <div class="card card-color">
+    <div class="card">
     “There’s nothing better than having a supervisor that communicative and easy to reach. I really enjoyed working with them because they were always encouraging.The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that.” 
     </div>
-    <div class="card">
+    <div class="card card-color">
     “Before starting the internship, my knowledge with data analysis was at zero. But now after completing the internship and learning a programming language to make sense of it all, has helped me develop a new skill that will help expand my professional network depending on what I want to do with my career.” 
     </div>
-    <div class="card card-color">
-    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
-    </div>
     <div class="card">
-"I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
+    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
     </div>
   </div>
   <div class="column">
-    <div class="card">
-    "I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
-    </div>
     <div class="card card-color">
-    “There’s nothing better than having a supervisor that communicative and easy to reach. I really enjoyed working with them because they were always encouraging.The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that.”
-    </div>
-    <div class="card card-color">
-    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
+"I really enjoyed being able develop a skill that I never imagined myself doing before. I came into this internship with zero knowledge with programming languages and being able to use R to create something so simple brings so much excitement."
     </div>
     <div class="card">
-    “Before starting the internship, my knowledge with data analysis was at zero. But now after completing the internship and learning a programming language to make sense of it all, has helped me develop a new skill that will help expand my professional network depending on what I want to do with my career.” 
+  "The whole point of the internship was to learn something new, develop a new skill or expand your knowledge. No matter how silly of a question you had, you will get at least some type of answer. There was only room for success in this internship if you tried and my supervisor did an amazing job reminding us of that"
+    </div>
+    <div class="card card-color">
+  "I liked that this internship was very flexible with my schedule and situation. I also liked that everyone
+was very friendly and welcoming."
     </div>
   </div>
 </div> 
