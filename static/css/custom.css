@@ -21,7 +21,7 @@ ul.customers img {
 
 hr {
     height: 5px;
-    background-color: #cc7c28;
+    background-color: #627c81;
 }
 
 .aligncenter {
@@ -30,7 +30,7 @@ hr {
 
 /* buttons */
 .button {
-  background-color: #cc7c28; /* change to darker blue */
+  background-color: #4ea3a2; /* change to darker blue */
   color: white;
   padding: 15px 32px;
   text-align: center;

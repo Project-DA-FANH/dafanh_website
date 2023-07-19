@@ -228,9 +228,6 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     <div class="card card-color">
     “Before starting the internship, my knowledge with data analysis was at zero. But now after completing the internship and learning a programming language to make sense of it all, has helped me develop a new skill that will help expand my professional network depending on what I want to do with my career.” 
     </div>
-    <div class="card">
-    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
-    </div>
   </div>
   <div class="column">
     <div class="card card-color">
@@ -242,6 +239,11 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     <div class="card card-color">
   "I liked that this internship was very flexible with my schedule and situation. I also liked that everyone
 was very friendly and welcoming."
+    </div>
+  </div>
+    <div class="column">
+    <div class="card">
+    “What I liked most was getting to learn a whole new world of data science and learning R. It has made me have a new found love for statistics and having this as a possible career.” 
     </div>
   </div>
 </div> 
