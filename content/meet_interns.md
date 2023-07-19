@@ -59,7 +59,7 @@ Use canva images as a grid. similar to testimonial page cards
 
 # 2023 Chico 
 
- <div class="row">
+<div class="row">
   <div class="column">
     <div class="card card-color">
       <img src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
@@ -67,17 +67,7 @@ Use canva images as a grid. similar to testimonial page cards
   </div>
   <div class="column">
     <div class="card">
-
-    </div>
-  </div>
-  <div class="column">
-    <div class="card card-color">
-
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-
+      <img src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
     </div>
   </div>
 </div> 
