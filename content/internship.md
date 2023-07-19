@@ -58,7 +58,7 @@ body {
 .card__img {
   display: block;
   width: 100%;
-  height: 18rem;
+  height: 10rem;
   object-fit: cover;
 }
 .card__content {
