@@ -45,17 +45,29 @@ title: "Meet our Interns!"
 <div class="row">
   <div class="column">
       <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone">
-      <img src="/img/clients/chc.png" alt="Picture and Bio of Zoe">
+  </div>
+  <div class="column">
+    <img src="/img/clients/chc.png" alt="Picture and Bio of Zoe">
+  </div>
+  <div class="column">
       <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason">
+  </div>
+  <div class="column">
       <img src="/img/clients/crars.png" alt="Picture and Bio of Rosie">
   </div>
 </div> 
 <div class="row">
   <div class="column">
-      <img src="/img/clients/crars.png" alt="Picture and Bio of Matt Solone">
-      <img src="/img/interns/Zoe_Kunhart.png" alt="Picture and Bio of Zoe">
-      <img src="/img/clients/chico_state.png" alt="Picture and Bio of Mason">
-      <img src="/img/interns/Rosie_Diaz.png" alt="Picture and Bio of Rosie">
+      <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone">
+  </div>
+  <div class="column">
+    <img src="/img/clients/chc.png" alt="Picture and Bio of Zoe">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason">
+  </div>
+  <div class="column">
+      <img src="/img/clients/crars.png" alt="Picture and Bio of Rosie">
   </div>
 </div> 
 
