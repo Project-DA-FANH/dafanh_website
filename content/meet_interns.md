@@ -3,39 +3,38 @@ title: "Meet our Interns!"
 ---
 
 <style>
-* {
-  box-sizing: border-box;
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Float four columns side by side */
+/* Create four equal columns that sits next to each other */
 .column {
-  float: left;
-  width: 25%;
-  padding: 0 10px;
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
 }
 
-/* Remove extra left and right margins, due to padding in columns */
-.row {margin: 0 -5px;}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
 }
 
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
 
-
-/* Responsive columns - one column layout (vertical) on small screens */
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
+    flex: 100%;
+    max-width: 100%;
   }
 }
 </style>
@@ -45,19 +44,20 @@ body {
 
 <div class="row">
   <div class="column">
-      <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone" 
+      <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone">
+      <img src="/img/clients/chc.png" alt="Picture and Bio of Zoe">
+      <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason">
+      <img src="/img/clients/crars.png" alt="Picture and Bio of Rosie">
   </div>
+</div> 
+<div class="row">
   <div class="column">
+      <img src="/img/clients/crars.png" alt="Picture and Bio of Matt Solone">
       <img src="/img/interns/Zoe_Kunhart.png" alt="Picture and Bio of Zoe">
-  </div>
-    <div class="column">
-      <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason" 
-  </div>
-  <div class="column">
+      <img src="/img/clients/chico_state.png" alt="Picture and Bio of Mason">
       <img src="/img/interns/Rosie_Diaz.png" alt="Picture and Bio of Rosie">
   </div>
 </div> 
-
 
 
 # 2022 Chico

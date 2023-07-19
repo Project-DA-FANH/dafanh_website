@@ -37,7 +37,7 @@ body {
 }
 
 .card-color{
-  background-color: #00cc99;
+  background-color: #4ea3a2;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
