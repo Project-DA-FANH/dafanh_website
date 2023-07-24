@@ -42,25 +42,47 @@ title: "Meet our Interns!"
 
 # 2023 Chico 
 
-<div class="row">
-  <div class="column">
-      <img src="/img/interns/Matthew Solone.png" alt="Picture and Bio of Matt Solone">
-  </div>
-  <div class="column">
-    <img src="/img/interns/Zoe_Kunhart.png" alt="Picture and Bio of Zoe">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Rosie_Diaz.png" alt="Picture and Bio of Rosie">
-  </div>
-</div> 
-<div class="row">
-  <div class="column">
-      <img src="/img/interns/Desiree Orozco.png" alt="Picture and Bio of Desiree">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Mason McBride.png" alt="Picture and Bio of Mason">
-  </div>
-</div> 
-
 
 # 2022 Chico
+
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Matthew.png" alt="Picture and Bio of Matt Solone">
+  <a href="https://csuchico.box.com/s/gtczxdqq5syrg0szttfnco0bohl1d8s"
+  </div>
+  <div class="column">
+    <img src="/img/interns/Fall 22 Interns- Zoe.png" alt="Picture and Bio of Zoe">
+  <a href="https://www.csuchico.edu/ir/by-the-numbers/women-urm-firstgen-stem.shtml"
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Rosie.png" alt="Picture and Bio of Rosie">
+  <a href="https://csuchico.box.com/s/v4jijimqe9xiuovceloim8c5hetm146"
+  </div>
+</div> 
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Desiree.png" alt="Picture and Bio of Desiree">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Mason.png" alt="Picture and Bio of Mason">
+ <a href="https://csuchico.box.com/s/9454lejqr83ri5kk94s1038oi9zuanzq"
+</div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Ashley.png" alt="Picture and Bio of Ashley">
+<a href="https://csuchico.box.com/s/x3wqlhjt64dywxx8jfd704ozstow6y09"
+</div>
+</div> 
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Prasanna.png" alt="Picture and Bio of Prasanna">
+<a href="https://csuchico.box.com/s/bixwjaq00fkwu8u4j46fcg2kbcxi8y2o"
+</div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Terry.png" alt="Picture and Bio of Terry">
+<a href="https://csuchico.box.com/s/s1s828g8j71yd8jtwwo8gbwb6pwuju6d"
+</div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Abe.png" alt="Picture and Bio of Abe">
+<a href="https://csuchico.box.com/s/bixwjaq00fkwu8u4j46fcg2kbcxi8y2o"
+  </div>
+</div> 
