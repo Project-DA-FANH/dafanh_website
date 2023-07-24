@@ -12,7 +12,7 @@ title: "Meet our Interns!"
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 33%;
-  max-width: 3%;
+  max-width: 33%;
   padding: 0 6px;
 }
 
