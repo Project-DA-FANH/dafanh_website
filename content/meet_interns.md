@@ -6,14 +6,14 @@ title: "Meet our Interns!"
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding: 0 6px;
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
+  flex: 33%;
+  max-width: 3%;
+  padding: 0 6px;
 }
 
 .column img {
