@@ -1,0 +1,64 @@
+---
+title: "CRARS Final Project"
+author: "Rosie Diaz"
+date: "05 December 2022"
+output:
+html_document: default
+knitr: 
+  opts_chunks:
+    echo: true
+    warning: false
+    message: false
+---
+
+#### CRARS Sample Processing Times for each step. Steps include : when product was received, dried, sieved, ground, and vialed. The graphs will be showing an estimate of how long each process takes and comparing each process to one another.
+
+```{r include=FALSE}
+library(lubridate)
+library(tidyverse)
+library(ggplot2)
+library(readxl)
+library(readr) 
+```
+
+```{r echo=FALSE}
+samples_times <- read_excel("/Users/rosiediaz/Desktop/Desktop/Internship R Projects/Book3.xlsx")
+```
+
+
+##### All Data Plotted
+```{r echo=FALSE}
+plot(samples_times)
+plot.ts(samples_times)
+```
+
+# Processing Times for Each Step
+```{r fig.cap= "For Graph: Time in hours, Time in minutes", echo=FALSE, results='hide'}
+table(samples_times$Received)
+ggplot(samples_times, aes(x=Received)) + geom_bar()
+table(samples_times$Dried)
+ggplot(samples_times, aes(x=Dried)) + geom_bar()
+table(samples_times$Sieved)
+ggplot(samples_times, aes(x=Sieved)) + geom_bar()
+table(samples_times$Ground)
+ggplot(samples_times, aes(x=Ground)) + geom_bar()
+table(samples_times$Vialed)
+ggplot(samples_times, aes(x=Vialed)) + geom_bar()
+```
+
+# Comparing steps to each other
+```{r echo=FALSE, results='hide'}
+ggplot(samples_times, aes(x=Received, y=Dried)) + geom_point()
+ggplot(samples_times, aes(x=Sieved, y=Ground)) + geom_point()
+ggplot(samples_times, aes(x=Ground, y=Vialed)) + geom_point()
+```
+
+# Looking at each step individually
+```{r echo=FALSE, results='hide'}
+plot(samples_times$Received)
+plot(samples_times$Dried)
+plot(samples_times$Sieved)
+plot(samples_times$Ground)
+plot(samples_times$Vialed)
+```
+
