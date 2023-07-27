@@ -78,8 +78,10 @@ title: "Meet our Interns!"
       <img src="/img/interns/Fall 22 Interns- Prasanna.png" alt="Picture and Bio of Prasanna">
   </div>
   <div class="column">
+   <a href="/intern_final_projects/Mcbride_final_presentation.pptx" target="_blank">
       <img src="/img/interns/Fall 22 Interns- Terry.png" alt="Picture and Bio of Terry">
   </div>
+   </a>
   <div class="column">
       <img src="/img/interns/Fall 22 Interns- Abe.png" alt="Picture and Bio of Abe">
   </div>
