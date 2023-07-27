@@ -78,7 +78,7 @@ title: "Meet our Interns!"
       <img src="/img/interns/Fall 22 Interns- Prasanna.png" alt="Picture and Bio of Prasanna">
   </div>
   <div class="column">
-   <a href="/intern_final_projects/Hori_final_presentation.pptx" target="_blank">
+   <a href="/intern_final_projects/Hori_final_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 22 Interns- Terry.png" alt="Picture and Bio of Terry">
   </div>
    </a>
