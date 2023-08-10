@@ -1,0 +1,9 @@
+{{ $link := .Get "link" }}
+{{ $imgSrc := .Get "imgSrc" }}
+{{ $altText := .Get "altText" }}
+
+<div class="column">
+  <a href="{{ $link }}" target="_blank">
+    <img src="{{ $imgSrc }}" alt="{{ $altText }}">
+  </a>
+</div>
