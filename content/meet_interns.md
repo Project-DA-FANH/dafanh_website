@@ -71,7 +71,7 @@ title: "Meet our Interns!"
       </a>
   </div>
   <div class="column">
-  {{< ashley link="/intern_final_projects/Wicochea_final_presentation.html" imgSrc="/img/interns/Fall 22 Interns- Ashley.png" altText="Picture and Bio of Ashley" >}}
+  {{< ashley_project link="/intern_final_projects/Wicochea_final_presentation.html" imgSrc="/img/interns/Fall 22 Interns- Ashley.png" altText="Picture and Bio of Ashley" >}}
   </div>
 </div> 
 
