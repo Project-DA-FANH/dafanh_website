@@ -70,8 +70,10 @@ title: "Meet our Interns!"
       <img src="/img/interns/Fall 22 Interns- Mason.png" alt="Picture and Bio of Mason">
       </a>
   </div>
-  <div class="column">
-  {{< ashley_project link="/intern_final_projects/Wicochea_final_presentation.html" imgSrc="/img/interns/Fall 22 Interns- Ashley.png" altText="Picture and Bio of Ashley" >}}
+<div class="column">
+  <a href="/img/intern_final_projects/Wicochea_final_presentation.html" target="_blank">
+    <img src="/img/interns/Fall 22 Interns- Ashley.png" alt="Picture and Bio of Ashley">
+  </a>
   </div>
 </div> 
 
