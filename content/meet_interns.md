@@ -71,7 +71,9 @@ title: "Meet our Interns!"
       </a>
   </div>
   <div class="column">
+  <a href="/intern_final_projects/Wicochea_final_presentation.html?param1=value1&amp;param2=value2" target="_blank">
       <img src="/img/interns/Fall 22 Interns- Ashley.png" alt="Picture and Bio of Ashley">
+      </a>
   </div>
 </div> 
 
