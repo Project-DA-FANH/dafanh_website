@@ -68,7 +68,8 @@
         │   │   ├───carousel
         │   │   ├───clients
         │   │   ├───features
-        │   │   └───testimonials
+        │   │   ├───testimonials
+        │   │   └───whatisfanh        
         │   └───static
         │       ├───css
         │       └───img

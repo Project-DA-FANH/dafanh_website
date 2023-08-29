@@ -261,20 +261,27 @@ paginate = 10
 
 
 # Top bar social links menu
+    
 [[menu.topbar]]
     weight = 1
+    name = "YouTube"
+    url = "https://www.youtube.com/@calstate_dafanh"
+    pre = "<i class='fab fa-2x fa-youtube'></i>"
+    
+[[menu.topbar]]
+    weight = 2
     name = "Twitter"
     url = "http://twitter.com/calstate_dafanh"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 2
+    weight = 3
     name = "Instagram"
     url = "http://instagram.com/calstate_dafanh/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 4
     name = "Email"
     url = "mailto:fanh.analytics@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
@@ -423,6 +430,12 @@ paginate = 10
     title = "Testimonials"
     subtitle = "Hear what people have to say "
 
+[params.whatisfanh]
+    enable = true
+    title = "What are the FANH Sciences?"
+    subtitle = "The term “food, agriculture, natural resources and human sciences” (FANH sciences) includes activities in food and fiber, agricultural, renewable energy and natural resources, forestry, and physical and social sciences, or rural economic, community, or business development including activities relating to the following:"
+    subtitle2 = "What careers exist in FANH? The USDA HSI Education Grants Program lists the occupations below as examples of “mission critical” occupations that the USDA is looking to recruit talented students from Hispanic Serving Institutions into:"
+    
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items

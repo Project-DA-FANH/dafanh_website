@@ -1,0 +1,74 @@
+{{ if isset .Site.Params "whatisfanh" }}
+{{ if .Site.Params.whatisfanh.enable }}
+{{ if gt (len .Site.Data.whatisfanh) 0 }}
+<section class="bar background-gray no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.whatisfanh.title | markdownify }}</h2>
+                </div>
+
+                <p class="lead">
+                    {{ .Site.Params.whatisfanh.subtitle | markdownify }}
+                </p>
+
+                <ul class="owl-carousel customers"
+                    data-items="{{ default 6 .Site.Params.CarouselCustomers.items }}"
+                    data-autoplay="{{ default false .Site.Params.CarouselCustomers.auto_play }}"
+                    data-slide-speed="{{ default 2000 .Site.Params.CarouselCustomers.slide_speed }}"
+                    data-pagination-speed="{{ default 1000 .Site.Params.CarouselCustomers.pagination_speed }}">
+                    {{ range .Site.Data.whatisfanh }}
+                    <li class="item" title="{{ .name }}">
+                        {{ if .url }}
+                        <a href="{{ .url }}" target="_blank">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        </a>
+                        {{ else }}
+                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        {{ end }}
+                        <p class="caption">{{ .caption }}</p>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.whatisfanh.title2 | markdownify }}</h2>
+                </div>
+
+                <p class="lead">
+                    {{ .Site.Params.whatisfanh.subtitle2 | markdownify }}
+                </p>
+
+                <ul class="owl-carousel customers"
+                    data-items="{{ default 6 .Site.Params.CarouselCustomers.items }}"
+                    data-autoplay="{{ default false .Site.Params.CarouselCustomers.auto_play }}"
+                    data-slide-speed="{{ default 2000 .Site.Params.CarouselCustomers.slide_speed }}"
+                    data-pagination-speed="{{ default 1000 .Site.Params.CarouselCustomers.pagination_speed }}">
+                    {{ range .Site.Data.whatisfanh2 }}
+                    <li class="item" title="{{ .name }}">
+                        {{ if .url }}
+                        <a href="{{ .url }}" target="_blank">
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        </a>
+                        {{ else }}
+                        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                        {{ end }}
+                        <p class="caption">{{ .caption }}</p>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ end }}
+{{ end }}
+{{ end }}
