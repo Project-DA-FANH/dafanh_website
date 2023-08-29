@@ -6,6 +6,17 @@ title: "Career Connection"
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
 
+## September: Bryan Castro (Cancelled)
+<img src="/img/AMA/Bryan_Castro.png" alt="Picture of Bryan Castro" width="250" height="250" />
+
+* **Title**:  Health Program and Research Associate
+* **Company**: The National Alliance for Hispanic Health (the Alliance
+* **Date & Time**: September 14, 11:45-12:15pm
+* [**Zoom link**](https://csuchico.zoom.us/j/88088871649?pwd=bVpVeEdWMnFBWmZaOTV4aDVYV0k1QT09)
+* **Bio**: Bryan J Castro is Health Program and Research Associate at The National Alliance for Hispanic Health (the Alliance) in Washington, DC.  Bryan assists project directors in a variety of initiatives to improve health for Hispanic communities in the nation, including the promotion of All of Us Research Program,  a CDC vaccination and education project, CDC Diabetes prevention program, and ¡Vive tu vida! Get Up! Get Moving!®, the Alliance’s signature events for promotion of physical activity, healthy eating, and information on local resources. Before joining the Alliance, Bryan worked for the interpreter program at VCU Health as well as an ORISE Health Equity Research Fellow at the United States Department of Health and Human Services, Office of Minority Health.
+
+<br><br>
+
 ## March: Full Career Panel! - Save the date. 
 <img src="/img/blog/Career_Panel.png" alt="Picture of Sara Bleich" width="250" height="250" />
 
