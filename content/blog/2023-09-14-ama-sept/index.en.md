@@ -8,6 +8,9 @@ categories: []
 tags: []
 ---
 
+## This event has been cancelled, stay tuned for updates about it's resheduling 
+
+
 Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college?
 
 Then come check out this month's "Ask me Anything" speaker, Brian Castro, a Health Program and Research Associate at The National Alliance for Hispanic Health (the Alliance).
