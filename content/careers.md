@@ -6,6 +6,17 @@ title: "Career Connection"
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
 
+## October: Sara Bleich
+<img src="/img/AMA/Sara_Bleich_Oct.png" alt="Picture of Sara Bleich" width="250" height="250" />
+
+* **Title**:  Director of Nutrition Security and Health Equity 
+* **Company**: Food and Nutrition Service at the U.S. Department of Agriculture (USDA)
+* **Date & Time**: October 24, 12:00-12:50pm PST
+* **Room & Zoom**: Online Only. [Zoom Link](https://csuchico.zoom.us/j/87325095177?pwd=bXdSY0NaUmJrcC96Rm1kTVlVblN5UT09&from=addon)
+* **Bio**: Dr. Sara Bleich is the Director of Nutrition Security and Health Equity in the Food and Nutrition Service at the U.S. Department of Agriculture (USDA), after serving as the Senior Advisor for COVID-19 in the Office of the Secretary at USDA (2021). She is a policy expert and researcher who specializes in diet-related diseases, food insecurity and racial inequality with more than 175 peer-reviewed publications. She is on leave from her post as a Professor of Public Health Policy at the Harvard T.H. Chan School of Public Health, the Kennedy School of Government, and the Radcliffe Institute for Advanced Study. Dr. Bleich was also a White House Fellow during the Obama administration, where she worked at USDA as a Senior Policy Adviser for Food, Nutrition and Consumer Services and with the First Lady Michelle Obama’s Let’s Move! Initiative. She holds degrees from Columbia (BA, Psychology) and Harvard (PhD, Health Policy).
+
+<br><br>
+
 ## September: Bryan Castro (Cancelled)
 <img src="/img/AMA/Bryan_Castro.png" alt="Picture of Bryan Castro" width="250" height="250" />
 
