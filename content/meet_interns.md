@@ -42,6 +42,49 @@ title: "Meet our Interns!"
 
 # 2023 Chico 
 
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Evan.png" alt="Picture and Bio of Evan  Burkhardt">
+      </a>
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Benjamin.png" alt="Picture and Bio of Benjamin Broadley">
+    </a>
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Christabel.png" alt="Picture and Bio of Christabel Siemens">
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Isaias.png" alt="Picture and Bio of Isaias Velasquez">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Juan.png" alt="Picture and Bio of Juan Cortes-Aguiar">
+      </a>
+  </div>
+<div class="column">
+    <img src="/img/interns/Fall 23 Interns- Sruthi.png" alt="Picture and Bio of Sruthi Vobbilisetti">
+  </a>
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Telma.png" alt="Picture and Bio of Telma Cruz">
+   </a>
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 22 Interns- Yazmin.png" alt="Picture and Bio of Yazmin Chiquito">
+   </a>
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 23 Interns- Edrick.png" alt="Placeholder for Edrick">
+   </a>
+  </div>
+</div>
+
 
 # 2022 Chico
 

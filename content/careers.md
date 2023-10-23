@@ -5,6 +5,16 @@ title: "Career Connection"
 
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
+## November: Bryan Castro 
+<img src="/img/AMA/Bryan_Castro_new.png" alt="Picture of Bryan Castro" width="250" height="250" />
+
+* **Title**:  Health Program and Research Associate
+* **Company**: The National Alliance for Hispanic Health (the Alliance
+* **Date & Time**: November 7, 12:00-12:50pm PST
+* **Room & Zoom**: In person at the STAR Center and on Zoom
+* **Bio**: Bryan J Castro is Health Program and Research Associate at The National Alliance for Hispanic Health (the Alliance) in Washington, DC.  Bryan assists project directors in a variety of initiatives to improve health for Hispanic communities in the nation, including the promotion of All of Us Research Program,  a CDC vaccination and education project, CDC Diabetes prevention program, and ¡Vive tu vida! Get Up! Get Moving!®, the Alliance’s signature events for promotion of physical activity, healthy eating, and information on local resources. Before joining the Alliance, Bryan worked for the interpreter program at VCU Health as well as an ORISE Health Equity Research Fellow at the United States Department of Health and Human Services, Office of Minority Health.
+
+<br><br>
 
 ## October: Sara Bleich
 <img src="/img/AMA/Sara_Bleich_Oct.png" alt="Picture of Sara Bleich" width="250" height="250" />
@@ -12,7 +22,7 @@ title: "Career Connection"
 * **Title**:  Director of Nutrition Security and Health Equity 
 * **Company**: Food and Nutrition Service at the U.S. Department of Agriculture (USDA)
 * **Date & Time**: October 24, 12:00-12:50pm PST
-* **Room & Zoom**: Online Only. [Zoom Link](https://csuchico.zoom.us/j/87325095177?pwd=bXdSY0NaUmJrcC96Rm1kTVlVblN5UT09&from=addon)
+* **Room & Zoom**: Zoom and in person in  Butte 209 [Zoom Link](https://csuchico.zoom.us/j/87325095177?pwd=bXdSY0NaUmJrcC96Rm1kTVlVblN5UT09&from=addon)
 * **Bio**: Dr. Sara Bleich is the Director of Nutrition Security and Health Equity in the Food and Nutrition Service at the U.S. Department of Agriculture (USDA), after serving as the Senior Advisor for COVID-19 in the Office of the Secretary at USDA (2021). She is a policy expert and researcher who specializes in diet-related diseases, food insecurity and racial inequality with more than 175 peer-reviewed publications. She is on leave from her post as a Professor of Public Health Policy at the Harvard T.H. Chan School of Public Health, the Kennedy School of Government, and the Radcliffe Institute for Advanced Study. Dr. Bleich was also a White House Fellow during the Obama administration, where she worked at USDA as a Senior Policy Adviser for Food, Nutrition and Consumer Services and with the First Lady Michelle Obama’s Let’s Move! Initiative. She holds degrees from Columbia (BA, Psychology) and Harvard (PhD, Health Policy).
 
 <br><br>
