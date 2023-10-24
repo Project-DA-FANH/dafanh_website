@@ -1,14 +1,12 @@
 ---
-banner: img/AMA/Bryan_Castro.png
-title: September Career Conversations - Health Equity Programs and Research
+banner: img/AMA/Bryan_Castro_new.png
+title: November Career Conversations - Health Equity Programs and Research
 author: Isabel Ramos
-date: '2023-08-24'
-slug: ama-sept
+date: '2023-10-23'
+slug: ama-nov
 categories: []
 tags: []
 ---
-
-## This event has been cancelled, stay tuned for updates about it's resheduling 
 
 
 Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college?

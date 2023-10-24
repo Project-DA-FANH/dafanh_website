@@ -159,7 +159,6 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 
 ### Details & Requirements
 
-> convert to a table - one column per campus
 
 * Campus: Chico State
 * Status: Semester Internship (3 Units)
@@ -207,6 +206,16 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
         <p class="card__text"> Institutional Research And Strategic Analytics (IRSA) provides the University with factual data related to university functions including applications, enrollments, degrees granted, test scores, grades, courses, outcomes, and demographics. 
 </p>
         <a href="https://www.csuchico.edu/ir/index.shtml" class="card__btn">Learn More</a>
+      </div>
+    </div>
+  </div>
+  <div class="grid__item">
+    <div class="card"><img class="card__img" src="/img/clients/lsamp.png" alt="LSAMP Logo" style="object-fit: contain; height: 100%;">
+      <div class="card__content">
+        <h4 class="card__header">California State University Louis Stokes Alliance for Minority Participation </h4>
+        <p class="card__text"> California State University Louis Stokes Alliance for Minority Participation (CSU-LSAMP) serves as a comprehensive California State University (CSU) system-wide program dedicated to increasing the number of underrepresented students successfully completing quality degree programs in science, technology, engineering and mathematics (STEM).
+</p>
+        <a href="https://www.csuchico.edu/lsamp/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>
