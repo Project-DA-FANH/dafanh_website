@@ -58,7 +58,7 @@ title: "Meet our Interns!"
 
 <div class="row">
   <div class="column">
-      <img src="/img/interns/Fall 23 Interns- Isaias.png" alt="Picture and Bio of Isaias Velasquez">
+      <img src="/img/interns/Fall 23 Interns- Isaias.jpg" alt="Picture and Bio of Isaias Velasquez">
   </div>
   <div class="column">
       <img src="/img/interns/Fall 23 Interns- Juan.png" alt="Picture and Bio of Juan Cortes-Aguiar">
@@ -72,11 +72,11 @@ title: "Meet our Interns!"
 
 <div class="row">
   <div class="column">
-      <img src="/img/interns/Fall 23 Interns- Telma.png" alt="Picture and Bio of Telma Cruz">
+      <img src="/img/interns/Fall 23 Interns- Telma.jpg" alt="Picture and Bio of Telma Cruz">
    </a>
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 22 Interns- Yazmin.png" alt="Picture and Bio of Yazmin Chiquito">
+      <img src="/img/interns/Fall 23 Interns- Yazmin.png" alt="Picture and Bio of Yazmin Chiquito">
    </a>
   </div>
   <div class="column">
