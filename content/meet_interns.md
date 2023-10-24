@@ -44,7 +44,7 @@ title: "Meet our Interns!"
 
 <div class="row">
   <div class="column">
-      <img src="/img/interns/Fall 23 Interns- Evan.png" alt="Picture and Bio of Evan  Burkhardt">
+      <img src="/img/interns/Fall 23 Interns - Evan.png" alt="Picture and Bio of Evan  Burkhardt">
       </a>
   </div>
   <div class="column">
