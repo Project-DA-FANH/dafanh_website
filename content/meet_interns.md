@@ -44,27 +44,33 @@ title: "Meet our Interns!"
 
 <div class="row">
   <div class="column">
-      <img src="/img/interns/Fall 23 Interns - Evan.png" alt="Picture and Bio of Evan  Burkhardt">
+     <a href="/intern_final_projects/Telma_Evan_final_presentation.pdf" target="_blank">
+       <img src="/img/interns/Fall 23 Interns - Evan.png" alt="Picture and Bio of Evan  Burkhardt">
       </a>
   </div>
   <div class="column">
+     <a href="/intern_final_projects/Issias_Benjamin_final_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 23 Interns- Benjamin.png" alt="Picture and Bio of Benjamin Broadley">
     </a>
   </div>
   <div class="column">
+    <a href="hhttps://youtu.be/CkFSQB4N9iQ?feature=shared">
       <img src="/img/interns/Fall 23 Interns- Christabel.png" alt="Picture and Bio of Christabel Siemens">
   </div>
 </div> 
 
 <div class="row">
   <div class="column">
+    <a href="/intern_final_projects/Issias_Benjamin_final_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 23 Interns- Isaias.jpg" alt="Picture and Bio of Isaias Velasquez">
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Juan_final_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 23 Interns- Juan.png" alt="Picture and Bio of Juan Cortes-Aguiar">
       </a>
   </div>
 <div class="column">
+    <a href="/intern_final_projects/Sruthi_final_presentation.pdf" target="_blank">
     <img src="/img/interns/Fall 23 Interns- Sruthi.png" alt="Picture and Bio of Sruthi Vobbilisetti">
   </a>
   </div>
@@ -72,10 +78,12 @@ title: "Meet our Interns!"
 
 <div class="row">
   <div class="column">
+      <a href="/intern_final_projects/Telma_Evan_final_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 23 Interns- Telma.jpg" alt="Picture and Bio of Telma Cruz">
    </a>
   </div>
   <div class="column">
+    <a href="hhttps://youtu.be/CkFSQB4N9iQ?feature=shared">  
       <img src="/img/interns/Fall 23 Interns- Yazmin.png" alt="Picture and Bio of Yazmin Chiquito">
    </a>
   </div>
