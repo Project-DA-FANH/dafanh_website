@@ -108,7 +108,31 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   </td>
   <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
 </tr>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/juan2.jpg" alt="Juan Cortes" /></td>
+  <td class=td.name>
+    <strong>Isabel Ramos</strong><br>
+    <strong>Project Assistant</strong><br> 
+    <strong>Contact:</strong> fanh.analytics@gmail.com
+  </td>
+  <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.</td>
+</tr>
 </table>
 
 
 <br><br>
+## Past Staff
+
+<table>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/isabel2.jpg" alt="Isabel Ramos" /></td>
+  <td class=td.name>
+    <strong>Isabel Ramos</strong><br>
+    <strong>Project Assistant</strong><br> 
+    <strong>Contact:</strong> fanh.analytics@gmail.com
+  </td>
+  <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.</td>
+</tr>
+
+</table>
+
