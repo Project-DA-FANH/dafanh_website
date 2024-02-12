@@ -111,7 +111,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 <tr>
   <td class=td.pic><img src="/img/project_staff/juan2.jpg" alt="Juan Cortes" /></td>
   <td class=td.name>
-    <strong>Isabel Ramos</strong><br>
+    <strong>Juan Cortes</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> fanh.analytics@gmail.com
   </td>
