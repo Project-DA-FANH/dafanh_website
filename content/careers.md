@@ -5,6 +5,18 @@ title: "Career Connection"
 
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
+## February: Elmera Azadpour
+<img src="/img/AMA/Jesus_Velazquez.png" alt="Picture of Bryan Castro" width="250" height="250" />
+
+* **Title**:  Data Science Intern
+* **Company**: JP Morgan 
+* **Date & Time**: December 7, 11:00-11:50pm PST
+* **Room & Zoom**: Zoom only [Zoom Link](https://csuchico.zoom.us/j/84445576213)  Passcode: `Data`
+
+
+* **Bio**: Jesus is a current Chico State student working on his degree in Computer Science. He worked as a Data Science Intern with JP Morgan where he designed and implemented analytical solutions to problems that were found across the firm using custom data visualization in Python and Excel to effectively communicate trends, patterns, and analysis results. He also used Excel and SQL to find and narrow down data to make actionable insights for JP Morgan.
+
+<br><br>
 ## December: Jesus Velazquez
 <img src="/img/AMA/Jesus_Velazquez.png" alt="Picture of Bryan Castro" width="250" height="250" />
 
