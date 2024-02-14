@@ -78,15 +78,6 @@ title: "Our Team"
   </td>
   <td> Kathleen was born and raised in Chico, CA surrounded by an agricultural community. She has always had a passion for nutrition and all that goes into supporting local farmers as well as providing access to food. Currently she supports those efforts at her organization through program administration and overseeing contract compliance as well as finances. During her free time, she loves to cook, watch movies with her daughter, play with her many pets and go to Disneyland as often as possible! </td>
 </tr>
-<tr>
-  <td class=td.pic><img src="/img/project_staff/Maizong2.jpg" alt="Maizong Lor" /></td>
-  <td class=td.name>
-    <strong>Maizong Lor</strong><br>
-    <strong>Office Services Manager</strong><br> 
-    <strong>Contact:</strong> mlor25@csuchico.edu
-  </td>
-  <td class=td.bio>Maizong Lor was born and raised in Chico, CA and currently works as an Office Services Manager for the Center for Healthy Communities. She supports the project and organization with operational and administrative tasks. During her free time, she enjoys the outdoors and spending time with her family.</td>
-</tr>
 </table>
 
 <br><br>
@@ -109,13 +100,22 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
 </tr>
 <tr>
+  <td class=td.pic><img src="/img/project_staff/Maizong2.jpg" alt="Maizong Lor" /></td>
+  <td class=td.name>
+    <strong>Maizong Lor</strong><br>
+    <strong>Office Services Manager</strong><br> 
+    <strong>Contact:</strong> mlor25@csuchico.edu
+  </td>
+  <td class=td.bio>Maizong Lor was born and raised in Chico, CA and currently works as an Office Services Manager for the Center for Healthy Communities. She supports the project and organization with operational and administrative tasks. During her free time, she enjoys the outdoors and spending time with her family.</td>
+</tr>
+<tr>
   <td class=td.pic><img src="/img/project_staff/juan2.jpg" alt="Juan Cortes" /></td>
   <td class=td.name>
     <strong>Juan Cortes</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> jccortes-aguiar@csuchico.edu
   </td>
-  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, majoring in Statistics. He began as a DAFANH intern as part of the Research and Evaluation team, and now is part of staff as a Program Assistant. He enjoys the art of statistics and being able to apply his analytical skills. During his free time, he enjoys reading, playing the guitar, and weightlifting.</td>
+  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, majoring in Statistics. He began as a DAFANH intern as part of the Research and Evaluation team, and later became part of staff as a Program Assistant. He enjoys the art of statistics and being able to apply his analytical skills. During his free time, he enjoys reading, playing the guitar, and weightlifting.</td>
 </tr>
 </table>
 
