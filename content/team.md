@@ -109,7 +109,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   <td class=td.bio>Maizong Lor was born and raised in Chico, CA and currently works as an Office Services Manager for the Center for Healthy Communities. She supports the project and organization with operational and administrative tasks. During her free time, she enjoys the outdoors and spending time with her family.</td>
 </tr>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/juan2.jpg" alt="Juan Cortes" /></td>
+  <td class=td.pic><img src="/img/project_staff/Juan.jpg" alt="Juan Cortes" /></td>
   <td class=td.name>
     <strong>Juan Cortes</strong><br>
     <strong>Project Assistant</strong><br> 
