@@ -5,18 +5,32 @@ title: "Career Connection"
 
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
-## February: Elmera Azadpour
-<img src="/img/AMA/Jesus_Velazquez.png" alt="Picture of Bryan Castro" width="250" height="250" />
+## April: Chisoo Lyons
+<img src="/img/AMA/Chisoo_Lyons.png" alt="Picture of Chisoo Lyons" width="250" height="250" />
 
-* **Title**:  Data Science Intern
-* **Company**: JP Morgan 
-* **Date & Time**: December 7, 11:00-11:50pm PST
-* **Room & Zoom**: Zoom only [Zoom Link](https://csuchico.zoom.us/j/84445576213)  Passcode: `Data`
+* **Title**:  Chief Program Director
+* **Company**: WiDS Worldwide 
+* **Date & Time**: April 11, 11:00-11:50pm PST
+* **Room & Zoom**: TBD
 
 
-* **Bio**: Jesus is a current Chico State student working on his degree in Computer Science. He worked as a Data Science Intern with JP Morgan where he designed and implemented analytical solutions to problems that were found across the firm using custom data visualization in Python and Excel to effectively communicate trends, patterns, and analysis results. He also used Excel and SQL to find and narrow down data to make actionable insights for JP Morgan.
+* **Bio**: As Chief Program Director at Women in Data Science (WiDS), Chisoo is overseeing the portfolio of programs designed to elevate and empower women in the data science and AI fields.Prior to joining WiDS, Chisoo held numerous leadership positions in the Financial Services industry.  She is a high-impact leader that brings strategic visions to life by controlling the intersection of technology, analytics, and human experts.  She has built and led top-performing, global team and programs, in various organizational structures. She enjoys fostering innovation, developing game-changing solutions, and leveraging human expertise to produce tangible business results. 
 
 <br><br>
+
+## March: Elmera Azadpour
+<img src="/img/AMA/Elmera_Azadpour.png" alt="Picture of Elmera Azadpour" width="250" height="250" />
+
+* **Title**: Data Scientist/Data Visualization Specialist
+* **Company**: US Geological Survey, Water Mission Area
+* **Date & Time**: March 5, 1:00-1:50pm PST
+* **Room & Zoom**: TBD
+
+
+* **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products.
+
+<br><br>
+
 ## December: Jesus Velazquez
 <img src="/img/AMA/Jesus_Velazquez.png" alt="Picture of Bryan Castro" width="250" height="250" />
 
