@@ -19,12 +19,11 @@ She has a lot of field experience including utilizing remote sensing and project
 
 Her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is also passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products. 
 
-
+Come visit and learn more about Elmera and all of her experiences.
 
 Room and Zoom information at https://www.dataanalytics4fanh.science/careers
 Register (FREE) at: https://forms.gle/vwtjYMeyFQN7VxXH8 
 
-Come visit and learn more about Elmera and all of her experiences.
 
 > See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 
 

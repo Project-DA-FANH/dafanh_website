@@ -1,6 +1,6 @@
 ---
 banner: img/AMA/Chisoo_Lyons.png
-title: March Data Career Conversations - Women in Data Science
+title: April Data Career Conversations - Women in Data Science
 author: Juan Cortes
 date: '2024-04-11'
 slug: ama-apr
@@ -21,6 +21,7 @@ She traveled the world evangelizing credit scoring capabilities, driven by advan
 
 Come visit and learn more about Chisoo and all her experiences as Chief Program Director.
 
-#update> See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 
 
-#updateRegister for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
+> See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 
+
+Register for all talks at this link: [https://forms.gle/nCJDEtZNRiWVXJqf6](https://forms.gle/nCJDEtZNRiWVXJqf6)
