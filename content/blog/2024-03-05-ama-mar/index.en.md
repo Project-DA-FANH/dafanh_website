@@ -9,8 +9,6 @@ tags: []
 ---
 
 
-Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college? 
-
 Join us on March 5th at 1:00-1:50pm PST, for Project DA-FANH's monthly “Ask me Anything” speaker series. This time with Elmera Azadpour.
 
 Elmera is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). Her work involves contributing to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences. 
@@ -19,10 +17,9 @@ She has a lot of field experience including utilizing remote sensing and project
 
 Her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is also passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products. 
 
-Come visit and learn more about Elmera and all of her experiences.
+Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college? 
 
-Room and Zoom information at https://www.dataanalytics4fanh.science/careers
-Register (FREE) at: https://forms.gle/vwtjYMeyFQN7VxXH8 
+Come visit and learn more about Elmera and all of her experiences.
 
 
 > See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 

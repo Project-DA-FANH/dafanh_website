@@ -9,9 +9,7 @@ tags: []
 ---
 
 
-Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college? 
-
-Join us April 11, 11:00-11:50pm PST for Project DA-FANH's monthly “Ask me Anything” speaker series. This time with Chisoo Lyons.
+ Join us April 11, 11:00-11:50pm PST for Project DA-FANH's monthly “Ask me Anything” speaker series. This time with Chisoo Lyons.
 
 Chisoo is a Chief Program Director at Women in Data Science (WiDS), overseeing the portfolio of programs designed to elevate and empower women in the data science and AI fields.
 
@@ -19,7 +17,9 @@ She is a high-impact leader that brings strategic visions to life by controlling
 
 She traveled the world evangelizing credit scoring capabilities, driven by advanced analytics, which led to the adoption of credit risk management.  While she directly contributed to numerous organizations’ success and profitable growth, it was the fact that her solutions opened credit access to underserved populations that persists as a career highlight for her. 
 
-Come visit and learn more about Chisoo and all her experiences as Chief Program Director.
+Are you interested in careers that use data to make informed decisions in the Food, Agriculture, Natural Resources or Human sciences? Do you want to know how professionals landed their career or what they wished they did during college?
+
+Come visit and learn more about Chisoo and all her experiences as a Chief Program Director.
 
 
 > See the [careers](https://www.dataanalytics4fanh.science/careers/) page for speaker information, dates & times, room and zoom links. 
