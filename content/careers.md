@@ -18,6 +18,18 @@ title: "Career Connection"
 
 <br><br>
 
+## March: Full Career Panel! 
+<img src="/img/blog/Career_Panel24.png" alt="" width="250" height="250" />
+
+### REGISTER HERE: https://forms.gle/PFdqWqYPq4xKvm6r9
+
+* **Areas of interest**: 
+* **Date & Time**: Wed March 13, 10-10:50 am
+* [**Zoom link**](https://csuchico.zoom.us/j/88047643050?pwd=RXdrZGFPQjNRTnplZVpYUWs4L1dtdz09)
+
+<br><br>
+
+
 ## March: Elmera Azadpour
 <img src="/img/AMA/Elmera_Azadpour.png" alt="Picture of Elmera Azadpour" width="250" height="250" />
 
