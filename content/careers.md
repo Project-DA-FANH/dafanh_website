@@ -36,7 +36,7 @@ title: "Career Connection"
 * **Title**: Data Scientist/Data Visualization Specialist
 * **Company**: US Geological Survey, Water Mission Area
 * **Date & Time**: March 5, 1:00-1:50pm PST
-* **Room & Zoom**: https://csuchico.zoom.us/j/88903629096?pwd=OEFVUGxDY1lCUFJtMktLZDdTL3ZsQT09&from=addon
+* **Room & Zoom**: Zoom only [Zoom Link](https://csuchico.zoom.us/j/88903629096?pwd=OEFVUGxDY1lCUFJtMktLZDdTL3ZsQT09&from=addon)
 
 
 * **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products.
