@@ -2,7 +2,7 @@
 banner: img/AMA/Elmera_Azadpour.png
 title: March Data Career Conversations - Data Science in Climate-Ecosystem Interaction
 author: Juan Cortes
-date: '2024-03-05'
+date: '2024-02-25'
 slug: ama-mar
 categories: []
 tags: []

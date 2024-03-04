@@ -19,12 +19,14 @@ title: "Career Connection"
 <br><br>
 
 ## March: Full Career Panel! 
-<img src="/img/blog/Career_Panel24.png" alt="" width="250" height="250" />
+<img src="/img/blog/CP24.png" alt="" width="250" height="250" />
 
-### REGISTER HERE: https://forms.gle/PFdqWqYPq4xKvm6r9
+Come learn from industry experts about various careers in the Agriculture and Natural Sciences fields. This is your chance to learn, network, and interact with professionals focusing on data analytics!
 
-* **Areas of interest**: 
+Our panel brings data-driven professionals from the USDA Economic Research Service, the California Department of Public Health, Red Bull and Conservation X Labs. 
+
 * **Date & Time**: Wed March 13, 10-10:50 am
+* Live screening in Holt 171 (Chico State Campus)
 * [**Zoom link**](https://csuchico.zoom.us/j/88047643050?pwd=RXdrZGFPQjNRTnplZVpYUWs4L1dtdz09)
 
 <br><br>

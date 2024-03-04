@@ -1,15 +1,15 @@
 ---
-banner: img/blog/2024_Career_Panel.jpg
+banner: img/blog/CP24.png
 title: Data Driven Career Panel
 author: Robin Donatello
-date: '2024-03-13'
+date: '2024-02-28'
 categories: [career panel]
 tags: []
 ---
 
 # Spring 2024 Career Panel
 
-Interested in careers in data? Well then do not miss this year's Data Driven Career Panel happening in March!
+Interested in careers in data? Well then do not miss this year's Data Driven Career Panel happening on March 13th!
 
 In collaboration with the San Bernardino and Chico State Career Centers, Project DA-FANH is virtually bringing four amazing professionals in the data science field to talk with students about their careers.
 
