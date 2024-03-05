@@ -1,5 +1,5 @@
 ---
-banner: img/blog/CP24.png
+banner: img/blog/CP24-2.png
 title: Data Driven Career Panel
 author: Robin Donatello
 date: '2024-02-28'
