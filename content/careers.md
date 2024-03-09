@@ -53,7 +53,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 
 
 * **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products.
-Checkout her resource page: [Resources](https://elmeraa-usgs.github.io/)
+* **Resources**: Checkout her website: [Elmera's Website](https://elmeraa-usgs.github.io/)
 
 <br><br>
 
