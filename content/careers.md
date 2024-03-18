@@ -18,6 +18,18 @@ title: "Career Connection"
 
 <br><br>
 
+## March: Danny Maciel
+<img src="/img/AMA/Danny_Maciel.png" alt="Picture of Danny Maciel" width="250" height="250" />
+
+* **Title**: Agricultural Biologist
+* **Company**: Butte County Agricultural Department 
+* **Date & Time**: March 26, 1:00-1:50pm PST
+* **Room & Zoom**: Zoom only [Zoom Link](https://csuchico.zoom.us/j/84924229206?pwd=Q1JnK2hLUUVFVEVHdUNwaVh3dXpOdz09&from=addon)
+
+
+* **Bio**: Danny is an Agricultural Biologist for the Butte County Agricultural Department. He was born in Southern California but raised in Baja California Mexico. Coming from a 3rd generation farming family, he's made farming a huge part of his life. In 2015, he transferred to Chico State University to obtain an Agricultural Science degree in Crops and Horticulture. In 2019, he began to work full time at the Butte County Agricultural Department as an Agricultural Biologist. The primary goal and purpose of all county Agricultural Commissioners, statewide, is "To Promote and To Protect" agriculture. He inspects anything that is chemical related, for example; agriculture, structure pest control and maintenance garners. He is often in charge of overseeing the apiary program, certifying producers’ certificates and farmer markets, and not limited to other programs.
+<br><br>
+
 ## March: Full Career Panel! 
 <img src="/img/blog/CP24.png" alt="" width="250" height="250" />
 
@@ -31,7 +43,6 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 
 <br><br>
 
-
 ## March: Elmera Azadpour
 <img src="/img/AMA/Elmera_Azadpour.png" alt="Picture of Elmera Azadpour" width="250" height="250" />
 
@@ -42,6 +53,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 
 
 * **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products.
+* **Resources**: Checkout her website: [Elmera's Website](https://elmeraa-usgs.github.io/)
 
 <br><br>
 
