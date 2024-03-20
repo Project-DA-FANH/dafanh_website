@@ -1,10 +1,10 @@
 ---
 banner: img/logo/Tagline_color.png
 title: $25k Fellowship opportunity
-author: Robin Donatello
+author: Emma Mitchell
 date: '2022-02-21'
 slug: fellowship
-categories: []
+categories: [scholarship]
 tags: []
 ---
 
@@ -18,3 +18,7 @@ A full list of all eligibility requirements and other details about applying to 
 Applications are due by Friday, April 8, 2022. 
 
 If you have any questions or concerns, please contact fanh.analytics@gmail.com. 
+
+----
+
+This contributed blog post was written by Emma Mitchell from the [Tehama Group Communications](http://tehamagrouppr.com/). 

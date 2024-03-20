@@ -25,4 +25,4 @@ Each decade since the early 1900’s has brought immense progression in the worl
 
 ----
 
-This contributed blog post was written by students from the [Tehama Group Communications](http://tehamagrouppr.com/). 
+This contributed blog post was written by Emma Mitchell from the [Tehama Group Communications](http://tehamagrouppr.com/). 

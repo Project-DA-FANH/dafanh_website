@@ -1,11 +1,11 @@
 ---
 banner: img/blog/datafest_logo.png
-title: DataFest 2022 Recap
-author: Robin Donatello
+title: A Thrilling, Statistic-Filled Weekend at Chico State Data Fest 2022
+author: Emma Mitchell
 date: '2022-05-04'
 slug: datafest-2022-recap
-categories: []
-tags: []
+categories: [ASADataFest]
+tags: [data]
 ---
 
 
@@ -40,3 +40,6 @@ Lastly, we would like to take this opportunity to acknowledge everyone who took 
 
 Following this year’s DataFest, the DSI is already looking to plan next year’s DataFest and looks forward to exposing more students to real world data issues. If you would like to be directly involved in next year’s festivities, please contact Robin Donatello at [rdonatello@csuchico.edu](mailto:rdonatello@csuchico.edu).
 
+----
+
+This contributed blog post was written by Emma Mitchell from the [Tehama Group Communications](http://tehamagrouppr.com/). 
