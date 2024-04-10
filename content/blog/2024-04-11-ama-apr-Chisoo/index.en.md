@@ -2,7 +2,7 @@
 banner: img/AMA/Chisoo_Lyons.png
 title: April Data Career Conversations - Women in Data Science
 author: Juan Cortes
-date: '2024-03-27'
+date: '2024-03-10'
 slug: ama-apr
 categories: []
 tags: []

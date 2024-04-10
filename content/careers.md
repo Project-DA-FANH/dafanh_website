@@ -11,7 +11,7 @@ title: "Career Connection"
 * **Title**:  Chief Program Director
 * **Company**: WiDS Worldwide 
 * **Date & Time**: April 11, 11:00-11:50pm PST
-* **Room & Zoom**: TBD
+* **Room and Zoom**: Zoom only [**Zoom link**](https://csuchico.zoom.us/j/82827227445?pwd=Ui9YdUJoVHltaEFmR01TampZeG0vdz09&from=addon)
 
 
 * **Bio**: As Chief Program Director at Women in Data Science (WiDS), Chisoo is overseeing the portfolio of programs designed to elevate and empower women in the data science and AI fields.Prior to joining WiDS, Chisoo held numerous leadership positions in the Financial Services industry.  She is a high-impact leader that brings strategic visions to life by controlling the intersection of technology, analytics, and human experts.  She has built and led top-performing, global team and programs, in various organizational structures. She enjoys fostering innovation, developing game-changing solutions, and leveraging human expertise to produce tangible business results. 
