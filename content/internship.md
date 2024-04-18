@@ -123,8 +123,8 @@ This internship provides an authentic virtual (and in person when available) car
 **We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
 
 
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply at Chico</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply at San Bernardino</button></a>
 <a href="../meet_interns"><button class="button">Meet our Interns</button></a>
 <a href="#intern_testimonials"><button class="button">Testimonials</button></a>
 <a href="#partners"><button class="button">Partners</button></a>
@@ -132,8 +132,7 @@ This internship provides an authentic virtual (and in person when available) car
 
 </p>
 
-Applications for the Fall 2023 intern cohort are now closed. Internship applications will open again next spring, so check back later!
-
+Applications for the Fall 2024 intern cohort are now open!
 
 ### Example Skills Developed 
 
@@ -163,10 +162,12 @@ Applications for the Fall 2023 intern cohort are now closed. Internship applicat
 * Campus: Chico State
 * Status: Semester Internship (3 Units)
 * Time Commitment:  9 hours per week for 16 weeks
-* Salary/Wage: $15/hr. (as available)
+* Salary/Wage: Restrictions may apply. Contact fanh.analytics@gmail.com. for more information.
 * Requirements: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
 * Academic Level: Graduate and Undergraduate
 * Majors: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
+* GPA: 3.0
+
 
 
 
