@@ -159,16 +159,15 @@ Applications for the Fall 2024 intern cohort are now open!
 ### Details & Requirements
 
 
-* Campus: Chico State
-* Status: Semester Internship (3 Units)
-* Time Commitment:  9 hours per week for 16 weeks
-* Salary/Wage: Funding is possible but not guaranteed. Funding for internship placements varies. Some placements may have funding available to pay interns and some placements may not. In addition, students may be eligible for a paid internship due to their individual financial needs. Please contact fanh.analytics@gmail.com for questions.
-* Requirements: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
-* Academic Level: Graduate and Undergraduate
-* Majors: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
-* GPA: There is no minimum GPA required to be considered for this internship, but preference will be given to students with a proven track record of academic success (generally B's/3.0).
+* **Campus**: Chico State
+* **Time Commitment**:  135 hours during the Fall semseter. This is roughly 9 hours per week for 16 weeks. 
+* **Funding**: $15-17/hour. Funding is possible but not guaranteed. Funding for internship placements varies. Some placements may have funding available to pay interns and some placements may not. In addition, students may be eligible for a paid internship due to their individual financial needs. Please contact fanh.analytics@gmail.com for questions.
+* **Requirements**: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
+* **Academic Level**: Graduate and Undergraduate
+* **Majors**: Data-centric majors such as Statistics, Data Science or any majors in areas of Food, Agriculture, Natural Resources and Human Sciences
+* **GPA**: There is no minimum GPA required to be considered for this internship, but preference will be given to students with a proven track record of academic success (generally B's/3.0).
 
-**Applications are due by Friday, May 10th, 2024**
+**Priority will be given to applications submitted by Friday, May 10th, 2024**
 
 
 
