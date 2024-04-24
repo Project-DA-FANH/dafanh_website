@@ -160,7 +160,8 @@ Applications for the Fall 2024 intern cohort are now open!
 
 
 * **Campus**: Chico State
-* **Time Commitment**:  135 hours during the Fall semseter. This is roughly 9 hours per week for 16 weeks. 
+* **Time Commitment**:  135 hours during the Fall semseter. This is 9 hours per week for 16 weeks with in person meetings Wednesday 9-10am.
+* **Course Credit**: Enrollment in MATH 589 is required. 
 * **Funding**: $15-17/hour. Funding is possible but not guaranteed. Funding for internship placements varies. Some placements may have funding available to pay interns and some placements may not. In addition, students may be eligible for a paid internship due to their individual financial needs. Please contact fanh.analytics@gmail.com for questions.
 * **Requirements**: At least one class in Statistics, basic proficiency in both Excel and at least one statistical programming language (R preferred). 
 * **Academic Level**: Graduate and Undergraduate
