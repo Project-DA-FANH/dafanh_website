@@ -1,0 +1,29 @@
+---
+banner: img/blog/sc2.png
+title: Data Carpentry Python Workshop
+author: Juan Cortes
+date: '2024-08-30'
+slug: workshop
+categories: [workshop]
+tags: []
+---
+
+We are excited for the kickoff of our workshop series and hope you are too. Our first and upcoming workshop will be on August 19th - 21st, 2024, from 9am - 1pm. A few notes:
+
+
+* This is a free virtual event, open to all faculty, staff and students at any CSU campus. Checkout the workshop website for more info: [Plotting and Programming in Python](https://project-da-fanh.github.io/2024-08-19-CSU-online/)
+
+* Be sure to complete the pre-workshop survey. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.
+
+* Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., 3.6 is fine). There are setup instructions on the workshop website. We will teach Python using the Jupyter Notebook, a programming environment that runs in a web browser (Jupyter Notebook will be installed by Anaconda). Someone will be there by 8:30 (Mon) to help with installation issues and answer general questions.
+
+* We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
+
+**[Register Here!](https://forms.gle/ZQ3KPq2UBxxvPH9YA)**
+
+
+Let us know if you have any questions, please contact fanh.analytics@gmail.com. Otherwise, we will see you Monday morning!
+
+Looking forward to seeing you soon!
+
+----
