@@ -123,7 +123,7 @@ This internship provides an authentic virtual (and in person when available) car
 **We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
 
 
-<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button">Apply at Chico</button></a>
+<a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
 <a href="../meet_interns"><button class="button">Meet our Interns</button></a>
 <a href="#intern_testimonials"><button class="button">Testimonials</button></a>
@@ -132,7 +132,7 @@ This internship provides an authentic virtual (and in person when available) car
 
 </p>
 
-Applications for the Fall 2024 intern cohort are now open!
+Applications for the Fall 2024 intern cohort have closed. 
 
 ### Example Skills Developed 
 

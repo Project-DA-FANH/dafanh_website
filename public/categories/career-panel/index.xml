@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career Panel on Grow your Future with us</title>
+    <link>http://localhost:6407/categories/career-panel/</link>
+    <description>Recent content in Career Panel on Grow your Future with us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:6407/categories/career-panel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Driven Career Panel</title>
+      <link>http://localhost:6407/blog/2024/02/28/2024-03-13-career-panel24/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6407/blog/2024/02/28/2024-03-13-career-panel24/</guid>
+      <description>Spring 2024 Career Panel Interested in careers in data? Well then do not miss this year&amp;rsquo;s Data Driven Career Panel happening on March 13th!&#xA;In collaboration with the San Bernardino and Chico State Career Centers, Project DA-FANH is virtually bringing four amazing professionals in the data science field to talk with students about their careers.</description>
+    </item>
+  </channel>
+</rss>

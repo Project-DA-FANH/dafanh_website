@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Grow your Future with us</title>
+    <link>http://localhost:6407/categories/workshop/</link>
+    <description>Recent content in Workshop on Grow your Future with us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:6407/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free Python Workshop</title>
+      <link>http://localhost:6407/blog/2024/08/10/2024-08-30-software-carpentry/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6407/blog/2024/08/10/2024-08-30-software-carpentry/</guid>
+      <description>We’re excited to be hosting a Software Carpentry workshop and hope you are too. Our upcoming workshop will be on August 19th - 21st, 2024, from 9am - 1pm. A few notes:&#xA;Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills.</description>
+    </item>
+  </channel>
+</rss>

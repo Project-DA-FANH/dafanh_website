@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scholarship on Grow your Future with us</title>
+    <link>http://localhost:6407/categories/scholarship/</link>
+    <description>Recent content in Scholarship on Grow your Future with us</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:6407/categories/scholarship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$25k Fellowship opportunity</title>
+      <link>http://localhost:6407/blog/2022/02/21/2022-02-21-25k-fellowship-opportunity/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6407/blog/2022/02/21/2022-02-21-25k-fellowship-opportunity/</guid>
+      <description>USDA offers a $25K fellowship opportunity for a student through Project DA-FANH Through Project DA-FANH, the United States Department of Agriculture is offering a $25k fellowship to one undergraduate student. The fellowship program will cover an entire year of tuition, provide funded research support and conference travel opportunities. If you are a Chico State student who is interested in pursuing a career related to Data Science, Data Analytics or the Food, Agriculture, Natural Resources and Human Sciences (FANH) domain and who has faced or faces social, educational or economic barriers, you may be eligible to apply.</description>
+    </item>
+  </channel>
+</rss>
