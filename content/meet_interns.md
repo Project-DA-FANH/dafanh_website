@@ -40,7 +40,35 @@ title: "Meet our Interns!"
 </style>
 
 
+
 # 2024 Chico 
+
+<div class="row">
+  <div class="column">
+       <img src="/img/interns/Fall 24 Interns- Yizhak.png" alt="Picture and Bio of Yizhak Cohen">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of Victoria Worthington">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+       <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
+  </div>
+</div> 
+
+
+# 2023 Chico 
 
 
 <div class="row">
@@ -92,32 +120,6 @@ title: "Meet our Interns!"
   </div>
 </div>
 
-
-# 2023 Chico 
-
-<div class="row">
-  <div class="column">
-       <img src="/img/interns/Fall 24 Interns- Yizhak.png" alt="Picture and Bio of Yizhak Cohen">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Fall 24 Interns- Victoria.png" alt="Picture and Bio of Victoria Worthington">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
-  </div>
-</div> 
-
-<div class="row">
-  <div class="column">
-       <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
-  </div>
-  <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
-  </div>
-</div> 
 
 
 # 2022 Chico
