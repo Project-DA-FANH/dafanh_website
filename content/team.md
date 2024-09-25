@@ -1,6 +1,7 @@
 ---
-description: Our Team
 title: "Our Team"
+description: Our Team
+output: pdf_document
 ---
 
 
@@ -110,14 +111,14 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 </tr>
 <tr>
   <td class=td.pic>
-    <img src="/img/project_staff/Juan.jpg" alt="Juan Cortes" />
+    <img src="/img/project_staff/Juan2.jpg" alt="Juan Cortes" />
   </td>
   <td class=td.name>
     <strong>Juan Cortes</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> jccortes-aguiar@csuchico.edu
   </td>
-  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, majoring in Statistics. He began as a DAFANH intern as part of the Research and Evaluation team, and later became part of staff as a Program Assistant. He enjoys the art of statistics and being able to apply his analytical skills. During his free time, he enjoys reading, playing the guitar, and weightlifting.
+  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, where he is majoring in Statistics. He initially joined the DAFANH team as a Research and Evaluation intern and later transitioned to a staff role as a Program Assistant and Peer Mentor for the DAFANH 2024 Cohort. Juan enjoys the art of statistics, particularly in applying analytical skills to real-world problems. Outside of his academic and professional pursuits, he enjoys reading, playing the guitar, and weightlifting.
   </td>
 </tr>
 </table>
