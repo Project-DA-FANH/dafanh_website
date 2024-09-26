@@ -101,7 +101,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
 </tr>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Maizong2.jpg" alt="Maizong Lor" /></td>
+  <td class=td.pic><img src="/img/project_staff/Maizong2.jpeg" alt="Maizong Lor" /></td>
   <td class=td.name>
     <strong>Maizong Lor</strong><br>
     <strong>Office Services Manager</strong><br> 
@@ -111,7 +111,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 </tr>
 <tr>
   <td class=td.pic>
-    <img src="/img/project_staff/Juan2.jpg" alt="Juan Cortes" />
+    <img src="/img/project_staff/Juan2.png" alt="Juan Cortes" />
   </td>
   <td class=td.name>
     <strong>Juan Cortes</strong><br>

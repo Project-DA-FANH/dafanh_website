@@ -67,16 +67,16 @@ output:
       <img src="/img/interns/Fall 24 Interns- Allan.png" alt="Picture and Bio of Allan Constanza">
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 24 Interns- Linda.png" alt="Picture and Bio of X">
+      <img src="/img/interns/Fall 24 Interns- Linda.png" alt="Picture and Bio of Linda Figueroa">
   </div>
 </div> 
 
 <div class="row">
   <div class="column">
-       <img src="/img/interns/Fall 24 Interns- Rowan.png" alt="Picture and Bio of Kaitlin Pulmano">
+       <img src="/img/interns/Fall 24 Interns- Rowan.png" alt="Picture and Bio of Rowan Morkner">
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 24 Interns- Sheldon.png" alt="Picture and Bio of Allan Constanza">
+      <img src="/img/interns/Fall 24 Interns- Sheldon.png" alt="Picture and Bio of Sheldon Henriques">
   </div>
   <div class="column">
       <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
