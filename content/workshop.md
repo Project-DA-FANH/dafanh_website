@@ -31,14 +31,11 @@ Our initial target audience is learners who have little to no prior computationa
 
 ---
 
-## August 2024 - For Faculty, Staff & Graduate Students
+## August 2024 - For all CSU affiliates!
 
-This software carpentry workshop is a joint effort between CSU San Bernardino and Chico State. This is a free online event, open to all faculty, staff and students at any CSU campus. Join us for Plotting and Programming in Python.
+This software carpentry workshop is a joint effort between CSU Chico, Fullerton and San Bernardino. This is a free online event, open to all faculty, staff and students at any CSU campus. Join us for Plotting and Programming in Python.
 
-<!--The 2 day curriculum is provided in the [workshop website](https://project-da-fanh.github.io/2024-08-19-CSU-online/)-->
-
-This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to help one another and to apply what they have learned to their own research problems:
-
+This hands-on workshop is an introduction to programming in Python 3 for people with little or no previous programming experience. Participants will be encouraged to help one another and to apply what they have learned to their own research problems:
 
 
 * **Dates**: Our upcoming workshop will be on August 19th - 21st, 2024, from 9am - 1pm.
@@ -48,7 +45,6 @@ This hands-on workshop will cover basic concepts and tools, including program de
 * [Workshop Curriculum Webpage](https://project-da-fanh.github.io/2024-08-19-CSU-online//)
 * **Registration**: Reserve a spot by visiting the [Workshop Webpage](https://project-da-fanh.github.io/2024-08-19-CSU-online/)
 <!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
-
 
 
 
