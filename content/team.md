@@ -121,16 +121,6 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/isabel2.jpg" alt="Isabel Ramos" /></td>
-  <td class=td.name>
-    <strong>Isabel Ramos</strong><br>
-    <strong>Project Assistant</strong><br> 
-    <strong>Contact:</strong> fanh.analytics@gmail.com
-  </td>
-  <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.
-  </td>
-</tr>
-<tr>
   <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
   <td class=td.name>
     <strong>Rosie Diaz</strong><br>
@@ -138,6 +128,16 @@ Carpentry Instructors are the core of our community. Instructors organize and te
     <strong>Contact:</strong> rediazsierra@csuchico.edu
   </td>
   <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She graduated with an Agricultural Business degree at CSU, Chico and is a current intern at the USDA. Rosie shared that she owes her ability to secure this internship to the support she received from her Project DA-FANH mentors, and connections within the USDA she made through her involvement with Project DA-FANH.  </td>
+</tr>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/isabel2.jpg" alt="Isabel Ramos" /></td>
+  <td class=td.name>
+    <strong>Isabel Ramos</strong><br>
+    <strong>Project Assistant</strong><br> 
+    <strong>Contact:</strong> fanh.analytics@gmail.com
+  </td>
+  <td class=td.bio>Isabel was born and raised in San Diego, California. She graduated from CSU Chico with a degree in Microbiology and Public Health, and is a current grad student at UC Davis. As a Project Assistant, she assisted with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.
+  </td>
 </tr>
 
 </table>
