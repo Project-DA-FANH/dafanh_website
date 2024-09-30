@@ -92,15 +92,6 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
-  <td class=td.name>
-    <strong>Rosie Diaz</strong><br>
-    <strong>Undergraduate Student Fellow</strong><br> 
-    <strong>Contact:</strong> rediazsierra@csuchico.edu
-  </td>
-  <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
-</tr>
-<tr>
   <td class=td.pic><img src="/img/project_staff/Maizong2.jpeg" alt="Maizong Lor" /></td>
   <td class=td.name>
     <strong>Maizong Lor</strong><br>
@@ -138,6 +129,15 @@ Carpentry Instructors are the core of our community. Instructors organize and te
   </td>
   <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.
   </td>
+</tr>
+<tr>
+  <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
+  <td class=td.name>
+    <strong>Rosie Diaz</strong><br>
+    <strong>Undergraduate Student Fellow</strong><br> 
+    <strong>Contact:</strong> rediazsierra@csuchico.edu
+  </td>
+  <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She graduated with an Agricultural Business degree at CSU, Chico and is a current intern at the USDA. Rosie shared that she owes her ability to secure this internship to the support she received from her Project DA-FANH mentors, and connections within the USDA she made through her involvement with Project DA-FANH.  </td>
 </tr>
 
 </table>
