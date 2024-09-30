@@ -1,6 +1,7 @@
 ---
-description: Our Team
 title: "Our Team"
+description: Our Team
+output: pdf_document
 ---
 
 
@@ -91,16 +92,7 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 
 <table>
 <tr>
-  <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
-  <td class=td.name>
-    <strong>Rosie Diaz</strong><br>
-    <strong>Undergraduate Student Fellow</strong><br> 
-    <strong>Contact:</strong> rediazsierra@csuchico.edu
-  </td>
-  <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She is currently an Agricultural Business student at CSU Chico. During her free time, she enjoys hiking, baking, cooking, spending time with family, her dog and 2 kitties. </td>
-</tr>
-<tr>
-  <td class=td.pic><img src="/img/project_staff/Maizong2.jpg" alt="Maizong Lor" /></td>
+  <td class=td.pic><img src="/img/project_staff/Maizong2.jpeg" alt="Maizong Lor" /></td>
   <td class=td.name>
     <strong>Maizong Lor</strong><br>
     <strong>Office Services Manager</strong><br> 
@@ -110,14 +102,14 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 </tr>
 <tr>
   <td class=td.pic>
-    <img src="/img/project_staff/Juan.jpg" alt="Juan Cortes" />
+    <img src="/img/project_staff/Juan2.png" alt="Juan Cortes" />
   </td>
   <td class=td.name>
     <strong>Juan Cortes</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> jccortes-aguiar@csuchico.edu
   </td>
-  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, majoring in Statistics. He began as a DAFANH intern as part of the Research and Evaluation team, and later became part of staff as a Program Assistant. He enjoys the art of statistics and being able to apply his analytical skills. During his free time, he enjoys reading, playing the guitar, and weightlifting.
+  <td class=td.bio>Juan is from the Central Coast of California. He is currently a senior at CSU Chico, where he is majoring in Statistics. He initially joined the DAFANH team as a Research and Evaluation intern and later transitioned to a staff role as a Program Assistant and Peer Mentor for the DAFANH 2024 Cohort. Juan enjoys the art of statistics, particularly in applying analytical skills to real-world problems. Outside of his academic and professional pursuits, he enjoys reading, playing the guitar, and weightlifting.
   </td>
 </tr>
 </table>
@@ -129,13 +121,22 @@ Carpentry Instructors are the core of our community. Instructors organize and te
 
 <table>
 <tr>
+  <td class=td.pic><img src="/img/project_staff/Rosie2.jpeg" alt="Rosie Diaz"/></td>
+  <td class=td.name>
+    <strong>Rosie Diaz</strong><br>
+    <strong>Undergraduate Student Fellow</strong><br> 
+    <strong>Contact:</strong> rediazsierra@csuchico.edu
+  </td>
+  <td>Rosie was born and raised in the Santa Maria Valley. While living there she developed a passion for agriculture and made it a goal to help farmers. She graduated with an Agricultural Business degree at CSU, Chico and is a current intern at the USDA. Rosie shared that she owes her ability to secure this internship to the support she received from her Project DA-FANH mentors, and connections within the USDA she made through her involvement with Project DA-FANH.  </td>
+</tr>
+<tr>
   <td class=td.pic><img src="/img/project_staff/isabel2.jpg" alt="Isabel Ramos" /></td>
   <td class=td.name>
     <strong>Isabel Ramos</strong><br>
     <strong>Project Assistant</strong><br> 
     <strong>Contact:</strong> fanh.analytics@gmail.com
   </td>
-  <td class=td.bio>Isabel was born and raised in San Diego, California. She currently attends CSU Chico studying Microbiology and Public Health. As a Project Assistant, she assists with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.
+  <td class=td.bio>Isabel was born and raised in San Diego, California. She graduated from CSU Chico with a degree in Microbiology and Public Health, and is a current grad student at UC Davis. As a Project Assistant, she assisted with day-to-day administrative tasks to help keep the project running smoothly. During her free time, Isabel enjoys hiking with her dog, baking, and yoga.
   </td>
 </tr>
 

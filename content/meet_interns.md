@@ -1,5 +1,9 @@
 ---
 title: "Meet our Interns!"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
 ---
 
 <style>
@@ -48,19 +52,43 @@ title: "Meet our Interns!"
        <img src="/img/interns/Fall 24 Interns- Yizhak.png" alt="Picture and Bio of Yizhak Cohen">
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of Victoria Worthington">
+      <img src="/img/interns/Fall 24 Interns- Victoria.png" alt="Picture and Bio of Victoria Worthington">
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
+      <img src="/img/interns/Fall 24 Interns- Jasmine.png" alt="Picture and Bio of Jasmine Cisneros">
   </div>
 </div> 
 
 <div class="row">
   <div class="column">
-       <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
+       <img src="/img/interns/Fall 24 Interns- Kaitlin.png" alt="Picture and Bio of Kaitlin Pulmano">
   </div>
   <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of x">
+      <img src="/img/interns/Fall 24 Interns- Allan.png" alt="Picture and Bio of Allan Constanza">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- Linda.png" alt="Picture and Bio of Linda Figueroa">
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+       <img src="/img/interns/Fall 24 Interns- Rowan.png" alt="Picture and Bio of Rowan Morkner">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- Sheldon.png" alt="Picture and Bio of Sheldon Henriques">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- Kyle.png" alt="Picture and Bio of Kyle Machura">
+  </div>
+</div> 
+
+<div class="row">
+  <div class="column">
+       <img src="/img/interns/Fall 24 Interns- Cristobal.png" alt="Picture and Bio of Cristobal Sanchez">
+  </div>
+  <div class="column">
+      <img src="/img/interns/Fall 24 Interns- Sonia.png" alt="Picture and Bio of Sonia Quintero">
   </div>
   <div class="column">
       <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
