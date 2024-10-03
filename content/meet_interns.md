@@ -90,9 +90,6 @@ output:
   <div class="column">
       <img src="/img/interns/Fall 24 Interns- Kyle.png" alt="Picture and Bio of Kyle Machura">
   </div>
-  <div class="column">
-      <img src="/img/interns/Fall 24 Interns- x.png" alt="Picture and Bio of X">
-  </div>
 </div> 
 
 
