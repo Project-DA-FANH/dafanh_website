@@ -31,13 +31,20 @@ paginate = 10
     identifier = "menu.news"
     url        = "/blog/"
     weight     = 2
+
     
+## ----WORKSHOPS ---- ###
+[[menu.main]]
+    name       = "Data Skills Workshops"
+    url        = "/workshop/"
+    weight     = 3
+
 ## ---- STUDENTS ---- ###
 [[menu.main]]
     name       = "For Current Students"
     identifier = "menu.students"
     url        = ""
-    weight     = 3
+    weight     = 4
 
 
 [[menu.main]]
@@ -46,12 +53,6 @@ paginate = 10
     weight     = 1
     parent     = "menu.students"
 
-       
-[[menu.main]]
-    name       = "Data Skills Workshops"
-    url        = "/workshop/"
-    weight     = 2
-    parent     = "menu.students"
 
 [[menu.main]]
     name       = "Applied Research Internship"

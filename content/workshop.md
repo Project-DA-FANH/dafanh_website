@@ -29,7 +29,33 @@ Our initial target audience is learners who have little to no prior computationa
 
 <br>
 
+
 ---
+## Coming Soon
+## October & November 2024
+
+We’re thrilled to introduce the USDA Intern Professional Development Series, designed to help you navigate key aspects of a federal career. Here’s what’s coming up:
+
+#### USDA Intern Professional Development Series: Navigating USAJOBS
+
+When: **Tuesday, October 29th; 1:00PM -- 2:00PM EST** 
+
+Description: This session will cover tips and strategies for effectively using USAJOBS to find federal positions that align with your career goals.
+
+[Register Here](https://www.zoomgov.com/meeting/register/vJIsd--vrjMsE5JOydGZwftGnq7MqH8CRq4)
+
+#### USDA Intern Professional Development Series: Federal Resume Writing
+
+When: **Tuesday, November 5th; 3:00PM -- 4:00PM EST** 
+
+Description: Learn how to craft a strong federal resume that stands out to USDA recruiters and highlights your unique qualifications.
+
+[Register Here](https://www.zoomgov.com/meeting/register/vJItdOqupjIsH1j-aMvbpPOxFRLnCwUDdYs)
+
+See the [workshop flyer](/img/blog/USDA-Professional-Development.png)
+
+---
+
 
 ## August 2024 - For all CSU affiliates!
 
@@ -121,28 +147,6 @@ See our workshop [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 * **Registration**: Reserve a spot by clicking [HERE](https://forms.gle/UUdcsVcJG7kZYGpw9)
 
 
----
-
-## Coming Soon
-
-
- <div class="row row-no-gutters">
-  <div class="col-sm-6">
-    <ul>
-      <li>January 2023 - For Faculty, staff and Graduate students</li>
-      <li>Summer 2023 - For Undergraduate & Graduate Summer Researchers</li>
-    </ul> 
-  </div>
-  <div class="col-sm-6">
-    <a href="https://forms.gle/F5cAy6zJrjKB98Mn9"> 
-    <img alt="RSVP link" 
-         src="/img/workshops/rsvp.png" 
-         width="50%" align="left" />
-    </a>
-  </div>
-</div> 
-
-----
 
 ## Past Workshops
 
