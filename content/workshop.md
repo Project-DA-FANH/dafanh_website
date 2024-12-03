@@ -7,6 +7,9 @@ title: "Be the boss of your data"
 
 # Our Carpentry Workshops
 
+---
+
+
 [The Carpentries](https://carpentries.org/) is a non-profit organization that teaches foundational coding and data science skills to researchers worldwide. Project DA-FANH is proud to have 3 certified [Carpentry instructors](https://carpentries.org/instructors/) and 4 more in training. We offer the following three lesson programs: 
 
 <div class="row">
@@ -32,6 +35,26 @@ Our initial target audience is learners who have little to no prior computationa
 
 ---
 ## Coming Soon
+## December 2024 - For all CSU affiliates!
+
+#### R for Reproducible Scientific Analysis
+
+This is a hybrid event, open to all faculty, staff and students at any CSU campus. It will take place online (Zoom) and at the Meriam Library, 400 W 1st Street, Chico, CA 95929. Join us for the R for Reproducible Scientific Analysis.
+
+This hands-on workshop is an introduction for people with little or no previous R experience. Participants will be encouraged to help one another and to apply what they have learned to their own analytical projects:
+
+
+* **Dates**: Our upcoming workshop will be on January 13-15, 2025, from 9:00am-1:00pm PST.
+    * Room opens at 30 minutes prior for technical assistance
+* **Location**: 
+    - A zoom link will be emailed to you upon registration
+* **Workshop Website**: [R for Reproducible Scientific Analysis](https://project-da-fanh.github.io/2025-01-13-CSU-online/)
+* **Registration**: Reserve a spot by visiting the [Workshop Webpage](https://www.eventbrite.com/e/r-for-reproducible-scientific-analysis-3-half-days-registration-1084774713369?aff=oddtdtcreator)
+<!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
+
+
+---
+## Past Carpentries
 ## October & November 2024
 
 We’re thrilled to introduce the USDA Intern Professional Development Series, designed to help you navigate key aspects of a federal career. Here’s what’s coming up:
@@ -147,8 +170,8 @@ See our workshop [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 * **Registration**: Reserve a spot by clicking [HERE](https://forms.gle/UUdcsVcJG7kZYGpw9)
 
 
+---
 
-## Past Workshops
-
+## January 2022 - For Undergraduate & Graduate Summer Researchers
 
 * 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
