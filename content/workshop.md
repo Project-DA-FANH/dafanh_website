@@ -35,7 +35,7 @@ Our initial target audience is learners who have little to no prior computationa
 
 ---
 ## Coming Soon
-## December 2024 - For all CSU affiliates!
+## January 2025 - For all CSU affiliates!
 
 #### R for Reproducible Scientific Analysis
 
@@ -47,14 +47,13 @@ This hands-on workshop is an introduction for people with little or no previous 
 * **Dates**: Our upcoming workshop will be on January 13-15, 2025, from 9:00am-1:00pm PST.
     * Room opens at 30 minutes prior for technical assistance
 * **Location**: 
-    - Zoom & Meriam Library, 400 W 1st Street, Chico, CA 95929
+    - Hybrid: Online (Zoom) and in-person at CSU, Chico. Zoom link and directions will be provided after registration.
 * **Workshop Website**: [R for Reproducible Scientific Analysis](https://project-da-fanh.github.io/2025-01-13-CSU-online/)
 * **Registration**: Reserve a spot by using [Eventbrite](https://www.eventbrite.com/e/r-for-reproducible-scientific-analysis-3-half-days-registration-1084774713369?aff=oddtdtcreator)
-<!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
+
 
 
 ---
-## Past Carpentries
 ## October & November 2024
 
 We’re thrilled to introduce the USDA Intern Professional Development Series, designed to help you navigate key aspects of a federal career. Here’s what’s coming up:
