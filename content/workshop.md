@@ -49,7 +49,7 @@ This hands-on workshop is an introduction for people with little or no previous 
 * **Location**: 
     - Zoom & Meriam Library, 400 W 1st Street, Chico, CA 95929
 * **Workshop Website**: [R for Reproducible Scientific Analysis](https://project-da-fanh.github.io/2025-01-13-CSU-online/)
-* **Registration**: Reserve a spot by visiting the [Workshop Webpage](https://www.eventbrite.com/e/r-for-reproducible-scientific-analysis-3-half-days-registration-1084774713369?aff=oddtdtcreator)
+* **Registration**: Reserve a spot by using [Eventbrite](https://www.eventbrite.com/e/r-for-reproducible-scientific-analysis-3-half-days-registration-1084774713369?aff=oddtdtcreator)
 <!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
 
 
@@ -175,3 +175,5 @@ See our workshop [flyer](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)
 ## January 2022 - For Undergraduate & Graduate Summer Researchers
 
 * 2022-01-13: [Data Carpentry for Enhancing Teaching and Research using R](https://project-da-fanh.github.io/2022-01-13-dafanh-online/)
+
+---
