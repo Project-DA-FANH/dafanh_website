@@ -39,7 +39,7 @@ Our initial target audience is learners who have little to no prior computationa
 
 #### R for Reproducible Scientific Analysis
 
-This is a hybrid event, open to all faculty, staff and students at any CSU campus. It will take place online (Zoom) and at the Meriam Library, 400 W 1st Street, Chico, CA 95929. Join us for the R for Reproducible Scientific Analysis.
+This is a hybrid event, open to all faculty, staff and students at any CSU campus. It will take place online (Zoom) and at Chico State University. Join us for the R for Reproducible Scientific Analysis.
 
 This hands-on workshop is an introduction for people with little or no previous R experience. Participants will be encouraged to help one another and to apply what they have learned to their own analytical projects:
 
@@ -47,7 +47,7 @@ This hands-on workshop is an introduction for people with little or no previous 
 * **Dates**: Our upcoming workshop will be on January 13-15, 2025, from 9:00am-1:00pm PST.
     * Room opens at 30 minutes prior for technical assistance
 * **Location**: 
-    - A zoom link will be emailed to you upon registration
+    - Zoom & Meriam Library, 400 W 1st Street, Chico, CA 95929
 * **Workshop Website**: [R for Reproducible Scientific Analysis](https://project-da-fanh.github.io/2025-01-13-CSU-online/)
 * **Registration**: Reserve a spot by visiting the [Workshop Webpage](https://www.eventbrite.com/e/r-for-reproducible-scientific-analysis-3-half-days-registration-1084774713369?aff=oddtdtcreator)
 <!-- See our workshop [flier](/WorkshopFlyers/Flyer-Summer-2022-CSUSB.png)-->
