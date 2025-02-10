@@ -11,9 +11,6 @@ tags: []
 ---
 # Don't Miss the **Data Driven Career Panel – Spring 2025**!  
 
-<a href="https://forms.gle/PFdqWqYPq4xKvm6r9"><img src="/img/blog/CP25.png" alt="Registration button" width="250" height="250" class="center"/></a>
-<br><br>
-
 Are you interested in data-driven careers? Want to explore how data science is transforming industries like agriculture, public health, and brewing? If so, mark your calendars for an incredible opportunity!  
 
 ### 📅 Event Details  

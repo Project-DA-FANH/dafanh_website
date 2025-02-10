@@ -7,7 +7,8 @@ title: "Career Connection"
 <br><br>
 
 ## March: Full Data Driven Career Panel! 
-<img src="/img/blog/CP25.png" alt="Career Panel 2025" width="250" height="250" />
+<img src="/img/blog/CP25.png" alt="Career Panel 2025" width="250" height="250"/>
+
 This is your chance to learn, network, and interact with professionals focusing on data analytics! Come learn from industry experts about various careers in the Agriculture and Natural Sciences fields.
 
 Our panel features data-driven professionals from Providence Digital Innovation Group, Lundberg Family Farms, Butte County Public Health, and Sierra Nevada Brewing Company.
