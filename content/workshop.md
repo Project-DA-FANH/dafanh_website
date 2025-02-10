@@ -34,7 +34,7 @@ Our initial target audience is learners who have little to no prior computationa
 
 
 ---
-## Coming Soon
+
 ## January 2025 - For all CSU affiliates!
 
 #### R for Reproducible Scientific Analysis
