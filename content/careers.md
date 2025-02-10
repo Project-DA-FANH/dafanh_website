@@ -15,6 +15,7 @@ This is your chance to learn, network, and interact with professionals focusing 
 Our panel features data-driven professionals from Providence Digital Innovation Group, Lundberg Family Farms, Butte County Public Health, and Sierra Nevada Brewing Company.
 
 **[Register Here](https://forms.gle/PFdqWqYPq4xKvm6r9)**
+
 * **Date & Time**: Wed March 5th, 9:00am-10:15 am PST
 * **Location**: Virtual event (Zoom link TBA)
 
