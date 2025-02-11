@@ -20,7 +20,7 @@ Are you interested in data-driven careers? Want to explore how data science is t
 
 This free, virtual panel brings together four outstanding professionals working in data-related roles across different industries. Hosted in collaboration with the **San Bernardino and Chico State Career Centers**, this event is designed to help students gain insights into real-world data applications and career paths. This event is **open to all students**!
 
- **[Register Here](https://forms.gle/PFdqWqYPq4xKvm6r9)**
+ **[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSf2Llz_MV73Z4L78aSsC9GVceHWeOjikNEns6q5MGB421XZMA/viewform?usp=sf_link)**
 
 ### Meet the Panelists  
 Our diverse panel of industry experts will share their experiences, career journeys, and advice for students interested in **data analytics and science**. This year’s panelists include:  
