@@ -5,6 +5,23 @@ title: "Career Connection"
 
 <a href="https://forms.gle/nCJDEtZNRiWVXJqf6"><img src="/img/ama_reg_button.png" alt="Registration button" width="300" height="150" class="center"/></a>
 
+<br><br>
+
+## March: Full Data Driven Career Panel! 
+<img src="/img/AMA/CP25.png" alt="Career Panel 2025" width="250" height="250"/>
+
+This is your chance to learn, network, and interact with professionals focusing on data analytics! Come learn from industry experts about various careers in the Agriculture and Natural Sciences fields.
+
+Our panel features data-driven professionals from Providence Digital Innovation Group, Lundberg Family Farms, Butte County Public Health, and Sierra Nevada Brewing Company.
+
+**[Register Here](https://forms.gle/PFdqWqYPq4xKvm6r9)**
+
+* **Date & Time**: Wed March 5th, 9:00am-10:15 am PST
+* **Location**: Virtual event (Zoom link TBA)
+
+
+<br><br>
+
 ## April: Chisoo Lyons
 <img src="/img/AMA/Chisoo_Lyons.png" alt="Picture of Chisoo Lyons" width="250" height="250" />
 
