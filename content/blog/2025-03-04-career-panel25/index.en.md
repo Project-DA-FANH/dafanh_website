@@ -1,8 +1,8 @@
 ---
-banner: img/blog/CP25.png
-title: Data Driven Career Panel
-author: Robin Donatello
-date: '2025-03-05'
+title: "Data Driven Career Panel"
+author: "Robin Donatello"
+date: "2025-02-13"
+banner: img/blog/CP25-2.png
 categories: [career panel]
 tags: []
 ---
