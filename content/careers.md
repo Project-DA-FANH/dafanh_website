@@ -14,7 +14,7 @@ This is your chance to learn, network, and interact with professionals focusing 
 
 Our panel features data-driven professionals from Providence Digital Innovation Group, Lundberg Family Farms, Butte County Public Health, and Sierra Nevada Brewing Company.
 
-**[Register Here](https://forms.gle/PFdqWqYPq4xKvm6r9)**
+**[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSf2Llz_MV73Z4L78aSsC9GVceHWeOjikNEns6q5MGB421XZMA/viewform)**
 
 * **Date & Time**: Wed March 5th, 9:00am-10:15 am PST
 * **Location**: Virtual event (Zoom link TBA)
@@ -112,8 +112,6 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 
 ## March: Full Career Panel! - Save the date. 
 <img src="/img/blog/Career_Panel.png" alt="Picture of Sara Bleich" width="250" height="250" />
-
-### REGISTER HERE: https://forms.gle/PFdqWqYPq4xKvm6r9
 
 * **Areas of interest**: USDA Agriculture, Geospatial Data, Nutrient Management, Bioinformatics
 * **Date & Time**: March 27, 11-12noon
