@@ -7,7 +7,7 @@ title: "Career Connection"
 
 <br><br>
 
-## March: Full Data Driven Career Panel! 
+## March: Full Data Driven Career Panel
 <img src="/img/AMA/CP25.png" alt="Career Panel 2025" width="250" height="250"/>
 
 This is your chance to learn, network, and interact with professionals focusing on data analytics! Come learn from industry experts about various careers in the Agriculture and Natural Sciences fields.
@@ -17,8 +17,7 @@ Our panel features data-driven professionals from Providence Digital Innovation 
 **[Register Here](https://docs.google.com/forms/d/e/1FAIpQLSf2Llz_MV73Z4L78aSsC9GVceHWeOjikNEns6q5MGB421XZMA/viewform)**
 
 * **Date & Time**: Wed March 5th, 9:00am-10:15 am PST
-* **Location**: Virtual event (Zoom link TBA)
-
+* **Room and Zoom**: Zoom Only [**Zoom link**](https://csuchico.zoom.us/j/82568557810?pwd=MSJP7bMXDYdOeYK310ukk0JoRpOSRk.1)
 
 <br><br>
 
