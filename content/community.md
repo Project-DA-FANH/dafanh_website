@@ -20,7 +20,7 @@ Go to Community Coding's website to view the schedule and learn how to join.
 
 ## Data Analytics Working Group (DAWG) - San Bernardino
 
-Do you have data and questions on where to start with your data analysis? Do you have programming questions? Just want to network, socialize and dedicate time to working on that project with a due date approaching? Join this group during working hours and engage with your faculty and peers in a welcoming, inclusive and supportive environment.
+Do you have data and questions on where to start with your data analysis? Do you have programming questions? Just want to network, socialize and dedicate time to working on that project with a due date approaching? Join this group during working hours and engage with your faculty and peers in a welcoming and supportive environment.
 
 Go to DAWG's website to view the schedule and learn how to join.
 
