@@ -120,9 +120,6 @@ body {
 
 This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space.
 
-**We desire to recruit interns who represent our campus diversity in race, ethnicity, experience, age, gender, background, academic and personal interests.**
-
-
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
 <a href="../meet_interns"><button class="button">Meet our Interns</button></a>
@@ -185,7 +182,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
       <img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
-        <p class="card__text">The Center for Healthy Communities (CHC) is a leader and connector, striving to provide equitable support to individuals and partners across diverse communities in California by building sustainable access to nourishing food and active environments.
+        <p class="card__text">The Center for Healthy Communities (CHC) is a Health and Nutrition research center associated with Chico State. 
  </p>
         <a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
       </div>
@@ -195,7 +192,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     <div class="card"><img class="card__img" src="/img/clients/crars.png" alt="CRARS" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">Center For Regenerative Agriculture And Resilient Systems</h4>
-        <p class="card__text">The Center For Regenerative Agriculture And Resilient Systems (CRARS) seeks to promote regenerative farming practices to reduce greenhouse gasses, restore soil resiliency, increase the sustainability of farms and ranches, and address food and water insecurity.</p>
+        <p class="card__text">The Center For Regenerative Agriculture And Resilient Systems (CRARS) is a research center associated with Chico State</p>
         <a href="https://www.csuchico.edu/regenerativeagriculture/" class="card__btn">Learn More</a>
       </div>
     </div>
@@ -214,7 +211,7 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
     <div class="card"><img class="card__img" src="/img/clients/lsamp.png" alt="LSAMP Logo" style="object-fit: contain; height: 100%;">
       <div class="card__content">
         <h4 class="card__header">California State University Louis Stokes Alliance for Minority Participation </h4>
-        <p class="card__text"> California State University Louis Stokes Alliance for Minority Participation (CSU-LSAMP) serves as a comprehensive California State University (CSU) system-wide program dedicated to increasing the number of underrepresented students successfully completing quality degree programs in science, technology, engineering and mathematics (STEM).
+        <p class="card__text"> The CSU-LSAMP program is a system-wide initiative within the California State University (CSU) system that supports student success in science, technology, engineering, and mathematics (STEM) fields by expanding participation and fostering academic achievement across CSU campuses.
 </p>
         <a href="https://www.csuchico.edu/lsamp/" class="card__btn">Learn More</a>
       </div>
