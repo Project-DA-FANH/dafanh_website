@@ -27,13 +27,13 @@ Want to connect with Rosie or check up on how she is doing now? Connect with Ros
 
 # Purpose of Fellowship
 
-This project aims to support undergraduate students from traditionally underrepresented communities who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
+This project aims to support undergraduate students who are interested in enhancing the nation’s food, agriculture, natural resources and human (FANH) sciences professional and scientific work force by enriching education at the intersection of Data Analytics and the FANH domains through professional experiential learning and curriculum development.
 
-This project will provide undergraduate current students additional training and experience with Data Science and Analytical tools and processes, and opportunities to work with FANH career professionals on tangible FANH projects. Most importantly, Project DA-FANH will cultivate these skills in an ethically, reproducibly, and professional manner, ultimately preparing CSU students for careers at the intersection between Data Science/Analytics and the FANH fields. 
+This project will provide undergraduate current students additional training and experience with Data Science and Analytical tools and processes, and opportunities to work with FANH career professionals on tangible FANH projects. Most importantly, Project DA-FANH will cultivate these skills in an professional and standardized manner, ultimately preparing CSU students for careers at the intersection between Data Science/Analytics and the FANH fields. 
 
 The purpose of this Fellowship is to help facilitate the pursuit of a students’ educational goals by providing multi-year support, in the form of financial assistance, research and professional experience along with academic mentoring and graduate school application support. 
 
-The funding for this fellowship comes from a grant provided by the National Institute of Food and Agriculture, United States Department of Agriculture specifically to bolster quality education at HSI's. 
+The funding for this fellowship comes from a grant provided by the National Institute of Food and Agriculture, United States Department of Agriculture.
 
 ### Award Amount
 
