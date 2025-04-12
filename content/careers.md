@@ -68,7 +68,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 * **Room & Zoom**: Zoom only [Zoom Link](https://csuchico.zoom.us/j/88903629096?pwd=OEFVUGxDY1lCUFJtMktLZDdTL3ZsQT09&from=addon)
 
 
-* **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include climate-ecosystem interactions, urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about environmental/climate justice, BIPOC representation in STEM, and creating open & reproducible data products.
+* **Bio**: Elmera Azadpour is a Data Scientist/Data Visualization Specialist with United States Geological Survey (USGS) in the Water Mission Area (WMA). She contributes to individual projects by applying reproducible workflows and data visualization techniques to capture and communicate complex data-intensive concepts to non-technical audiences using a variety of media (such as print, web, research products). Broadly, her interests include urban ecology, terrestrial land surface modeling, ecohydrology, global carbon cycling and geophysical science. She is passionate about creating open & reproducible data products.
 * **Resources**: Checkout her website: [Elmera's Website](https://elmeraa-usgs.github.io/)
 
 <br><br>
@@ -94,7 +94,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 * **Date & Time**: November 7, 12:00-12:50pm PST
 * **Room & Zoom**: In person at the STAR Center and on Zoom [Zoom Link](https://csuchico.zoom.us/j/5808362949?pwd=U2tUTW9udjBqYS80bG11MWM1dUwrdz09)
 
-* **Bio**: Bryan J Castro is Health Program and Research Associate at The National Alliance for Hispanic Health (the Alliance) in Washington, DC.  Bryan assists project directors in a variety of initiatives to improve health for Hispanic communities in the nation, including the promotion of All of Us Research Program,  a CDC vaccination and education project, CDC Diabetes prevention program, and ¡Vive tu vida! Get Up! Get Moving!®, the Alliance’s signature events for promotion of physical activity, healthy eating, and information on local resources. Before joining the Alliance, Bryan worked for the interpreter program at VCU Health as well as an ORISE Health Equity Research Fellow at the United States Department of Health and Human Services, Office of Minority Health.
+* **Bio**: Bryan J Castro is Health Program and Research Associate at The National Alliance for Hispanic Health (the Alliance) in Washington, DC.  Bryan assists project directors in a variety of initiatives to improve health for communities in the nation, including the promotion of All of Us Research Program,  a CDC vaccination and education project, CDC Diabetes prevention program, and ¡Vive tu vida! Get Up! Get Moving!®, the Alliance’s signature events for promotion of physical activity, healthy eating, and information on local resources. Before joining the Alliance, Bryan worked for the interpreter program at VCU Health as well as an ORISE Health Research Fellow at the United States Department of Health and Human Services.
 
 <br><br>
 
@@ -105,7 +105,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 * **Company**: Food and Nutrition Service at the U.S. Department of Agriculture (USDA)
 * **Date & Time**: October 24, 12:00-12:50pm PST
 * **Room & Zoom**: Zoom and in person in Butte 209 [Zoom Link](https://csuchico.zoom.us/j/87325095177?pwd=bXdSY0NaUmJrcC96Rm1kTVlVblN5UT09&from=addon)
-* **Bio**: Dr. Sara Bleich is the Director of Nutrition Security and Health Equity in the Food and Nutrition Service at the U.S. Department of Agriculture (USDA), after serving as the Senior Advisor for COVID-19 in the Office of the Secretary at USDA (2021). She is a policy expert and researcher who specializes in diet-related diseases, food insecurity and racial inequality with more than 175 peer-reviewed publications. She is on leave from her post as a Professor of Public Health Policy at the Harvard T.H. Chan School of Public Health, the Kennedy School of Government, and the Radcliffe Institute for Advanced Study. Dr. Bleich was also a White House Fellow during the Obama administration, where she worked at USDA as a Senior Policy Adviser for Food, Nutrition and Consumer Services and with the First Lady Michelle Obama’s Let’s Move! Initiative. She holds degrees from Columbia (BA, Psychology) and Harvard (PhD, Health Policy).
+* **Bio**: Dr. Sara Bleich is the Director of Nutrition Security in the Food and Nutrition Service at the U.S. Department of Agriculture (USDA), after serving as the Senior Advisor for COVID-19 in the Office of the Secretary at USDA (2021). She is a policy expert and researcher who specializes in diet-related diseases with more than 175 peer-reviewed publications. She is on leave from her post as a Professor of Public Health Policy at the Harvard T.H. Chan School of Public Health, the Kennedy School of Government, and the Radcliffe Institute for Advanced Study. Dr. Bleich was also a White House Fellow during the Obama administration, where she worked at USDA as a Senior Policy Adviser for Food, Nutrition and Consumer Services and with the First Lady Michelle Obama’s Let’s Move! Initiative. She holds degrees from Columbia (BA, Psychology) and Harvard (PhD, Health Policy).
 
 <br><br>
 
@@ -157,7 +157,7 @@ Our panel brings data-driven professionals from the USDA Economic Research Servi
 * **Company**: UC Davis
 * **Date & Time**: October 27, 2pm-3pm PST
 * **Room & Zoom**: Online only. [Zoom link](https://csuchico.zoom.us/j/87312784265) Passcode: `188851`
-* **Bio**: Ana is a Geography PhD student at UC Davis, where she studies the impacts of compounded disasters on farmers, specifically women farmers in Latin America and the Caribbean. Using qualitative data, she analyzes how public policies and educational programs can best assist farmers. In addition to her research, Ana is a teaching assistant for various courses at UC Davis, including qualitative research methods and international agricultural development theory.
+* **Bio**: Ana is a Geography PhD student at UC Davis, where she studies the impacts of compounded disasters on farmers in Latin America and the Caribbean. Using qualitative data, she analyzes how public policies and educational programs can best assist farmers. In addition to her research, Ana is a teaching assistant for various courses at UC Davis, including qualitative research methods and international agricultural development theory.
 
 <br><br>
 
