@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grow your Future with us</title>
-    <link>http://localhost:6407/categories/</link>
+    <link>http://localhost:4321/categories/</link>
     <description>Recent content in Categories on Grow your Future with us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:6407/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workshop</title>
-      <link>http://localhost:6407/categories/workshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/workshop/</guid>
+      <link>http://localhost:4321/categories/workshop/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Internship</title>
-      <link>http://localhost:6407/categories/internship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/internship/</guid>
+      <link>http://localhost:4321/categories/internship/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/internship/</guid>
       <description></description>
     </item>
     <item>
       <title>Career Panel</title>
-      <link>http://localhost:6407/categories/career-panel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/career-panel/</guid>
+      <link>http://localhost:4321/categories/career-panel/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/career-panel/</guid>
       <description></description>
     </item>
     <item>
       <title>Careers</title>
-      <link>http://localhost:6407/categories/careers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/careers/</guid>
+      <link>http://localhost:4321/categories/careers/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/careers/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:6407/categories/education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/education/</guid>
+      <link>http://localhost:4321/categories/education/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>ASADataFest</title>
-      <link>http://localhost:6407/categories/asadatafest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/asadatafest/</guid>
+      <link>http://localhost:4321/categories/asadatafest/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/asadatafest/</guid>
       <description></description>
     </item>
     <item>
       <title>Scholarship</title>
-      <link>http://localhost:6407/categories/scholarship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/categories/scholarship/</guid>
+      <link>http://localhost:4321/categories/scholarship/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/scholarship/</guid>
       <description></description>
     </item>
   </channel>

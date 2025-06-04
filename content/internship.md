@@ -182,12 +182,12 @@ In addition to synchronous meetings with the faculty mentor, student teams will 
 <div class="grid">
   <div class="grid__item">
     <div class="card">
-      <img class="card__img" src="/img/clients/chc.png" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
+      <img class="card__img" src="/img/clients/chc2.jpg" alt="Center for Healthy Communities" style="object-fit: contain; height: 50%;">
       <div class="card__content">
         <h4 class="card__header">Center for Healthy Communities</h4>
         <p class="card__text">The Center for Healthy Communities (CHC) is a leader and connector, striving to provide equitable support to individuals and partners across diverse communities in California by building sustainable access to nourishing food and active environments.
  </p>
-        <a href="https://www.csuchico.edu/chc/" class="card__btn">Learn More</a>
+        <a href="https://chcchicostate.org/internships/" class="card__btn">Learn More</a>
       </div>
     </div>
   </div>

@@ -13,7 +13,9 @@ googleAnalytics = ""
 summaryLength = 50
 
 # Define the number of posts per page
-paginate = 10
+# replaced paginate with pagerSize
+[pagination]
+pagerSize = 10
 
 [menu]
 
@@ -457,3 +459,10 @@ paginate = 10
   category = "categories"
   tag = "tags"
   author = "authors"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ["warning-goldmark-raw-html"]
