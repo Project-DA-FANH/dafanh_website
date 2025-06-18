@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Careers on Grow your Future with us</title>
-    <link>http://localhost:6407/categories/careers/</link>
+    <link>http://localhost:4321/categories/careers/</link>
     <description>Recent content in Careers on Grow your Future with us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:6407/categories/careers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/careers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Influencing Modern Agriculture with Data</title>
-      <link>http://localhost:6407/blog/2022/10/01/2022-10-01-influencing-modern-agriculture-with-data/</link>
+      <link>http://localhost:4321/blog/2022/10/01/2022-10-01-influencing-modern-agriculture-with-data/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/blog/2022/10/01/2022-10-01-influencing-modern-agriculture-with-data/</guid>
+      <guid>http://localhost:4321/blog/2022/10/01/2022-10-01-influencing-modern-agriculture-with-data/</guid>
       <description>Influencing Modern Agriculture with Data Data is important for organizations as they utilize analytics to improve decision-making, study repeated customer activity, track buyer satisfaction and identify opportunities for new products and services to meet growing market needs, giving them routes to implement new systems. In modern agriculture business, the market is continuing to evolve, allowing farmers to embrace data-driven solutions.</description>
     </item>
     <item>
       <title>How to: Networking as a College Student</title>
-      <link>http://localhost:6407/blog/2022/06/15/2022-06-15-networking/</link>
+      <link>http://localhost:4321/blog/2022/06/15/2022-06-15-networking/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/blog/2022/06/15/2022-06-15-networking/</guid>
+      <guid>http://localhost:4321/blog/2022/06/15/2022-06-15-networking/</guid>
       <description>While in college, networking is extremely valuable when trying to navigate life post-graduation. Networking allows leaders and peers in specific fields to give students tips, advices and knowledge about the various paths they can take to become established and successful.&#xA;Networking begins communication with other professionals by putting a face to your name.</description>
     </item>
   </channel>

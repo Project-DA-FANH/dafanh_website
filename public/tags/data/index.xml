@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data on Grow your Future with us</title>
-    <link>http://localhost:6407/tags/data/</link>
+    <link>http://localhost:4321/tags/data/</link>
     <description>Recent content in Data on Grow your Future with us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:6407/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Value of Data Literacy</title>
-      <link>http://localhost:6407/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</link>
+      <link>http://localhost:4321/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</guid>
+      <guid>http://localhost:4321/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</guid>
       <description>4 Reasons why understanding data is key In today&amp;rsquo;s digital age, data is everywhere. Being able to understand and analyze data is known as data literacy. In both educational and professional settings, data literacy skills are vital to success. Data is virtually in every space. We are constantly looking at numbers, text, images, videos, and our personal data is always being collected as we are actively using our phones or computers.</description>
     </item>
     <item>
       <title>A Thrilling, Statistic-Filled Weekend at Chico State Data Fest 2022</title>
-      <link>http://localhost:6407/blog/2022/05/04/2022-05-04-datafest-2022-recap/</link>
+      <link>http://localhost:4321/blog/2022/05/04/2022-05-04-datafest-2022-recap/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/blog/2022/05/04/2022-05-04-datafest-2022-recap/</guid>
+      <guid>http://localhost:4321/blog/2022/05/04/2022-05-04-datafest-2022-recap/</guid>
       <description>Chico State Data Fest 2022 Recap On April 1-3rd, Chico State University hosted the ASA DataFest 2022. DataFest is an event hosted by the Chico State Data Initiative (DSI), organized by the Mathematics &amp;amp; Statistics department and Project DA-FANH&amp;rsquo;s project director Robin Donatello. Students were presented with undisclosed data on Friday and then worked through the weekend to gain the best insights into the confidential, real-world data sets.</description>
     </item>
   </channel>

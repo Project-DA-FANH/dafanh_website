@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education on Grow your Future with us</title>
-    <link>http://localhost:6407/categories/education/</link>
+    <link>http://localhost:4321/categories/education/</link>
     <description>Recent content in Education on Grow your Future with us</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:6407/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Value of Data Literacy</title>
-      <link>http://localhost:6407/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</link>
+      <link>http://localhost:4321/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</link>
       <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6407/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</guid>
+      <guid>http://localhost:4321/blog/2022/05/25/2022-05-25-the-value-of-data-literacy/</guid>
       <description>4 Reasons why understanding data is key In today&amp;rsquo;s digital age, data is everywhere. Being able to understand and analyze data is known as data literacy. In both educational and professional settings, data literacy skills are vital to success. Data is virtually in every space. We are constantly looking at numbers, text, images, videos, and our personal data is always being collected as we are actively using our phones or computers.</description>
     </item>
   </channel>
