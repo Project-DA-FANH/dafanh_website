@@ -57,7 +57,7 @@ output: pdf_document
   <td class=td.name>
     <a href="https://www.csuchico.edu/chc/about/staff/administrative-staff/directors/stephanie-bianco.shtml"><strong>Stephanie Bianco, MS, RD</strong></a><br>
     <strong>Internship Lead</strong><br> 
-    <strong>Contact:</strong> rdonatello@csuchico.edu
+    <strong>Contact:</strong> sbianco@csuchico.edu
   </td>
   <td class=td.bio>Stephanie was raised in Fresno CA surrounded by fresh food and agriculture. Her roots led her to working as a professional cook in Yosemite for 7 years and to an academic career at UC Davis and Texas A&M (Aggies x 2). She has been a professor/researcher at Chico State and Director of the Center for Healthy Communities for many years supporting low-income families and students across the state.</td>
 </tr>

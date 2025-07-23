@@ -49,25 +49,35 @@ output:
 
 <div class="row">
   <div class="column">
+    <a href="/intern_final_projects/Yizhak_Kaitlin_presentation.pptx" target="_blank">
        <img src="/img/interns/Fall 24 Interns- Yizhak.png" alt="Picture and Bio of Yizhak Cohen">
+       </a>
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Vict_Worth_presentation.pptx" target="_blank">
       <img src="/img/interns/Fall 24 Interns- Victoria.png" alt="Picture and Bio of Victoria Worthington">
+      </a>
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Jas_Kyle_presentation.pptx" target="_blank">
       <img src="/img/interns/Fall 24 Interns- Jasmine.png" alt="Picture and Bio of Jasmine Cisneros">
+      </a>
   </div>
 </div> 
 
 <div class="row">
   <div class="column">
+    <a href="/intern_final_projects/Yizhak_Kaitlin_presentation.pptx" target="_blank">
        <img src="/img/interns/Fall 24 Interns- Kaitlin.png" alt="Picture and Bio of Kaitlin Pulmano">
+       </a>
   </div>
   <div class="column">
       <img src="/img/interns/Fall 24 Interns- Allan.png" alt="Picture and Bio of Allan Constanza">
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Linda_Crist_presentation.pptx" target="_blank">
       <img src="/img/interns/Fall 24 Interns- Linda.png" alt="Picture and Bio of Linda Figueroa">
+      </a>
   </div>
 </div> 
 
@@ -79,16 +89,22 @@ output:
       <img src="/img/interns/Fall 24 Interns- Sheldon.png" alt="Picture and Bio of Sheldon Henriques">
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Linda_Crist_presentation.pptx" target="_blank">
        <img src="/img/interns/Fall 24 Interns- Cristobal.png" alt="Picture and Bio of Cristobal Sanchez">
+       </a>
   </div>
 </div> 
 
 <div class="row">
   <div class="column">
+    <a href="/intern_final_projects/Sonia_presentation.pdf" target="_blank">
       <img src="/img/interns/Fall 24 Interns- Sonia.png" alt="Picture and Bio of Sonia Quintero">
+      </a>
   </div>
   <div class="column">
+    <a href="/intern_final_projects/Jas_Kyle_presentation.pptx" target="_blank">
       <img src="/img/interns/Fall 24 Interns- Kyle.png" alt="Picture and Bio of Kyle Machura">
+      </a>
   </div>
 </div> 
 
