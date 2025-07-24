@@ -7,16 +7,16 @@ categories: [career panel]
 tags: []
 ---
 
-# Spring 2025 Career Panel
----
-# Don't Miss the **Data Driven Career Panel – Spring 2025**!  
+## Spring 2025 Career Panel
+
+## Don't Miss the Data Driven Career Panel – Spring 2025
 
 Are you interested in data-driven careers? Want to explore how data science is transforming industries like agriculture, public health, and brewing? If so, mark your calendars for an incredible opportunity!  
 
-### 📅 Event Details  
-**📌 Date:** Wednesday, **March 5, 2025**  
-**📌 Time:** **9:00 AM – 10:15 AM (PST)**  
-**📌 Location:** Virtual Event (link provided upon registration)  
+### Event Details  
+**Date:** Wednesday, **March 5, 2025**  
+**Time:** **9:00 AM – 10:15 AM (PST)**  
+**Location:** Virtual Event (link provided upon registration)  
 
 This free, virtual panel brings together four outstanding professionals working in data-related roles across different industries. Hosted in collaboration with the **San Bernardino and Chico State Career Centers**, this event is designed to help students gain insights into real-world data applications and career paths. This event is **open to all students**!
 
@@ -38,7 +38,7 @@ Our diverse panel of industry experts will share their experiences, career journ
 ✨ **Discover** how **data analytics** is shaping different industries.  
 ✨ **Get career tips** from experts to help you **prepare for the job market**.  
 
-🚀 **See you on March 5th!**  
+**See you on March 5th!**  
 
 ---
 
