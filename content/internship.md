@@ -118,7 +118,7 @@ body {
 
 # Overview 
 
-This internship provides an authentic virtual (and in person when available) career experience, emphasizing problem solving, decision-making and remote collaboration skills, along with an understanding of leadership roles in a professional space.
+This internship offered an authentic career experience in a hybrid format (virtual, with in-person opportunities when available). It emphasized problem-solving, decision-making, and remote collaboration, while helping students build a deeper understanding of leadership roles in professional environments.
 
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at Chico</button></a>
 <a href="https://forms.gle/K53MEHeKm2Bzng5T9"><button class="button disabled">Apply at San Bernardino</button></a>
@@ -129,7 +129,7 @@ This internship provides an authentic virtual (and in person when available) car
 
 </p>
 
-Applications for the Fall 2024 intern cohort have closed. 
+**Applications for the internship are now permanently closed.**
 
 ### Example Skills Developed 
 
